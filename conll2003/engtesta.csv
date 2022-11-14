@@ -1,3 +1,4 @@
+Token,POS,Chunk,NER
 -DOCSTART-,-X-,-X-,O
 
 CRICKET,NNP,I-NP,O
@@ -1222,7 +1223,7 @@ his,PRP$,B-NP,O
 own,JJ,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 I,PRP,I-NP,O
 'm,VBP,I-VP,O
 sure,JJ,I-ADJP,O
@@ -1244,12 +1245,12 @@ for,IN,I-PP,O
 the,DT,I-NP,O
 job,NN,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 Hoddle,NNP,I-NP,I-PER
 said,VBD,I-VP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 There,EX,I-NP,O
 were,VBD,I-VP,O
 three,CD,I-NP,O
@@ -1278,7 +1279,7 @@ wanted,VBN,I-VP,O
 it,PRP,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 In,IN,I-PP,O
 four,CD,I-NP,O
 days,NNS,I-NP,O
@@ -1326,7 +1327,7 @@ plays,VBZ,I-VP,O
 up,RP,I-PRT,O
 front,NN,I-NP,O
 .,.,O,O
- ,O,O
+',',O,O
 
 Shearer,NNP,I-NP,I-PER
 's,POS,B-NP,O
@@ -1641,11 +1642,11 @@ Panamanian,JJ,I-NP,I-MISC
 boxing,NN,I-NP,O
 legend,NN,I-NP,O
 Roberto,NNP,I-NP,I-PER
- ,O,I-PER
+',',O,I-PER
 Hands,NNS,I-NP,I-PER
 of,IN,I-PP,I-PER
 Stone,NNP,I-NP,I-PER
- ,O,I-PER
+',',O,I-PER
 Duran,JJ,I-NP,I-PER
 climbs,NNS,I-NP,O
 into,IN,I-PP,O
@@ -1707,12 +1708,12 @@ billed,VBN,I-VP,O
 here,RB,I-ADVP,O
 as,IN,I-SBAR,O
 the,DT,I-NP,O
- ,O,O
+',',O,O
 Return,NN,I-NP,I-MISC
 of,IN,I-PP,I-MISC
 the,DT,I-NP,I-MISC
 Legend,NNP,I-NP,I-MISC
- ,O,O
+',',O,O
 and,CC,O,O
 Duran,NNP,I-NP,I-PER
 still,RB,I-ADVP,O
@@ -1726,7 +1727,7 @@ his,PRP$,I-NP,O
 prime,JJ,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 I,PRP,I-NP,O
 want,VBP,I-VP,O
 a,DT,I-NP,O
@@ -1752,7 +1753,7 @@ I,PRP,I-NP,O
 not,RB,I-VP,O
 retiring,VBG,I-VP,O
 ",",",",O,O
- ,O,O
+',',O,O
 Duran,JJ,I-NP,I-PER
 told,VBD,I-VP,O
 Reuters,NNP,I-NP,I-ORG
@@ -1798,7 +1799,7 @@ his,PRP$,I-NP,O
 career,NN,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 Each,DT,I-NP,O
 time,NN,I-NP,O
 he,PRP,B-NP,O
@@ -1834,7 +1835,7 @@ world,NN,I-NP,O
 great,JJ,I-NP,O
 boxers,NNS,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 Panamanian,JJ,I-NP,I-MISC
 Boxing,NNP,I-NP,I-ORG
 Association,NNP,I-NP,I-ORG
@@ -1870,9 +1871,9 @@ Puerto,NNP,I-NP,I-LOC
 Rico,NNP,I-NP,I-LOC
 's,POS,B-NP,O
 Hector,NNP,I-NP,I-PER
- ,O,I-PER
+',',O,I-PER
 Macho,NNP,I-NP,I-PER
- ,O,I-PER
+',',O,I-PER
 Camacho,NN,I-NP,I-PER
 .,.,O,O
 
@@ -3524,7 +3525,7 @@ charging,VBG,I-VP,O
 back,RB,I-ADVP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 I,PRP,I-NP,O
 just,RB,I-ADVP,O
 kept,VBD,I-VP,O
@@ -3551,7 +3552,7 @@ will,MD,I-VP,O
 happen,VB,I-VP,O
 ",",",",O,O
 ','',O,O
- ,O,O
+',',O,O
 said,VBD,I-VP,O
 the,DT,I-NP,O
 26-year-old,JJ,I-NP,O
@@ -3561,7 +3562,7 @@ ranked,VBD,I-VP,O
 65th,JJ,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 I,PRP,I-NP,O
 kept,VBD,I-VP,O
 my,PRP$,I-NP,O
@@ -3587,7 +3588,7 @@ and,CC,O,O
 gone,VBN,I-VP,O
 home,NN,I-NP,O
 .,.,O,O
- ,O,O
+',',O,O
 
 The,DT,I-NP,O
 hard-serving,JJ,I-NP,O
@@ -3682,7 +3683,7 @@ from,IN,I-PP,O
 40-0,NN,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 You,PRP,I-NP,O
 just,RB,I-ADVP,O
 kind,NN,I-NP,O
@@ -3715,11 +3716,11 @@ couple,NN,I-NP,O
 of,IN,I-PP,O
 moments,NNS,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 said,VBD,I-VP,O
 Washington,NNP,I-NP,I-PER
 .,.,I-NP,O
- ,O,O
+',',O,O
 
 But,CC,O,O
 I,PRP,I-NP,O
@@ -3733,7 +3734,7 @@ he,PRP,I-NP,O
 had,VBD,I-VP,O
 to,TO,I-VP,O
 .,.,O,O
- ,O,O
+',',O,O
 
 Tarango,NN,I-NP,I-PER
 ",",",",O,O
@@ -3804,20 +3805,20 @@ the,DT,I-NP,O
 attention,NN,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 I,PRP,I-NP,O
 'm,VBP,I-VP,O
 an,DT,I-NP,O
 emotional,JJ,I-NP,O
 player,NN,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 said,VBD,I-VP,O
 the,DT,I-NP,O
 104th-ranked,JJ,I-NP,O
 Tarango,NNP,I-NP,I-PER
 .,.,I-NP,O
- ,O,O
+',',O,O
 
 I,PRP,I-NP,O
 think,VBP,I-VP,O
@@ -3830,7 +3831,7 @@ tonight,RB,I-NP,O
 very,RB,I-NP,O
 focused,VBN,I-NP,O
 .,.,O,O
- ,O,O
+',',O,O
 
 The,DT,I-NP,O
 match,NN,I-NP,O
@@ -3854,7 +3855,7 @@ the,DT,I-NP,O
 spectators,NNS,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 I,PRP,I-NP,O
 love,VBP,I-VP,O
 the,DT,I-NP,O
@@ -3879,12 +3880,12 @@ my,PRP$,I-NP,O
 best,JJS,I-NP,O
 tennis,NN,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 Tarango,NNP,I-NP,I-PER
 said,VBD,I-VP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 I,PRP,I-NP,O
 played,VBD,I-VP,O
 some,DT,I-NP,O
@@ -3922,7 +3923,7 @@ lot,NN,I-NP,O
 more,RBR,I-ADJP,O
 fun,NN,I-NP,O
 .,.,O,O
- ,O,O
+',',O,O
 
 Rios,NNS,I-NP,I-PER
 did,VBD,I-VP,O
@@ -3933,7 +3934,7 @@ Tarango,NNP,I-NP,I-PER
 antics,NNS,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 He,PRP,I-NP,O
 's,VBZ,I-VP,O
 always,RB,I-VP,O
@@ -3941,11 +3942,11 @@ complaining,VBG,I-VP,O
 too,RB,I-ADVP,O
 much,JJ,I-ADVP,O
 ",",",",O,O
- ,O,O
+',',O,O
 said,VBD,I-VP,O
 Rios,NNP,I-NP,I-PER
 .,.,I-NP,O
- ,O,O
+',',O,O
 
 But,CC,O,O
 I,PRP,I-NP,O
@@ -3998,9 +3999,9 @@ play,VB,I-VP,O
 my,PRP$,I-NP,O
 tennis,NN,I-NP,O
 .,.,O,O
- ,O,O
+',',O,O
 
- ,O,O
+',',O,O
 I,PRP,I-NP,O
 do,VBP,I-VP,O
 n't,RB,I-VP,O
@@ -4038,7 +4039,7 @@ on,IN,I-PP,O
 the,DT,I-NP,O
 court,NN,I-NP,O
 .,.,O,O
- ,O,O
+',',O,O
 
 At,IN,I-PP,O
 the,DT,I-NP,O
@@ -4070,20 +4071,20 @@ jeering,VBG,I-NP,O
 salute,NN,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 I,PRP,I-NP,O
 support,VB,I-VP,O
 their,PRP$,I-NP,O
 enthusiasm,NN,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 Tarango,NNP,I-NP,I-PER
 said,VBD,I-VP,O
 about,IN,I-PP,O
 the,DT,I-NP,O
 fans,NNS,I-NP,O
 .,.,O,O
- ,O,O
+',',O,O
 
 At,IN,I-PP,O
 the,DT,I-NP,O
@@ -4111,7 +4112,7 @@ a,DT,B-NP,O
 little,JJ,I-NP,O
 razzle-dazzle,NN,I-NP,O
 .,.,O,O
- ,O,O
+',',O,O
 
 -DOCSTART-,-X-,-X-,O
 
@@ -4185,7 +4186,7 @@ on,IN,I-PP,O
 carries,VBZ,I-VP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 I,PRP,I-NP,O
 would,MD,I-VP,O
 like,VB,I-VP,O
@@ -4207,12 +4208,12 @@ throughout,IN,I-PP,O
 my,PRP$,I-NP,O
 career,NN,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 Cunningham,NNP,I-NP,I-PER
 said,VBD,I-VP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 Although,IN,I-SBAR,O
 it,PRP,I-NP,O
 saddens,VBZ,I-VP,O
@@ -4245,9 +4246,9 @@ burner,NN,I-NP,O
 for,IN,I-PP,O
 sometime,RB,I-NP,O
 .,.,O,O
- ,O,O
+',',O,O
 
- ,O,O
+',',O,O
 Randall,NNP,I-NP,I-PER
 was,VBD,I-VP,O
 one,CD,I-NP,O
@@ -4260,14 +4261,14 @@ in,IN,I-PP,O
 NFL,NNP,I-NP,I-ORG
 history,NN,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 said,VBD,I-VP,O
 Eagles,NNPS,I-NP,I-ORG
 owner,NN,I-NP,O
 Jeffrey,NNP,B-NP,I-PER
 Lurie,NNP,I-NP,I-PER
 .,.,I-NP,O
- ,O,O
+',',O,O
 
 During,IN,I-PP,O
 his,PRP$,I-NP,O
@@ -4301,7 +4302,7 @@ across,IN,I-PP,O
 the,DT,I-NP,O
 NFL,NNP,I-NP,I-ORG
 .,.,I-NP,O
- ,O,O
+',',O,O
 
 A,DT,I-NP,O
 second-round,NN,I-NP,O
@@ -4604,7 +4605,7 @@ the,DT,I-NP,O
 pace,NN,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 Yesterday,NN,I-NP,O
 was,VBD,I-VP,O
 the,DT,I-NP,O
@@ -4618,11 +4619,11 @@ a,DT,I-NP,O
 long,JJ,I-NP,O
 time,NN,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 Woods,NNP,I-NP,I-PER
 said,VBD,I-VP,O
 .,.,O,O
- ,O,O
+',',O,O
 
 Today,NN,I-NP,O
 ",",",",O,O
@@ -4632,12 +4633,12 @@ to,TO,I-VP,O
 play,VB,I-VP,O
 golf,NN,I-NP,O
 .,.,O,O
- ,O,O
+',',O,O
 
 He,PRP,I-NP,O
 added,VBD,I-VP,O
 :,:,O,O
- ,O,O
+',',O,O
 I,PRP,I-NP,O
 thought,VBD,I-VP,O
 I,PRP,I-NP,O
@@ -4664,7 +4665,7 @@ a,DT,I-NP,O
 good,JJ,I-NP,O
 position,NN,I-NP,O
 .,.,O,O
- ,O,O
+',',O,O
 
 Henke,NNP,I-NP,I-PER
 ",",",",O,O
@@ -4673,11 +4674,11 @@ called,VBD,I-VP,O
 his,PRP$,I-NP,O
 round,NN,I-NP,O
 a,DT,B-NP,O
- ,O,O
+',',O,O
 pleasant,JJ,I-NP,O
 surprise,NN,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 finished,VBD,I-VP,O
 with,IN,I-PP,O
 six,CD,I-NP,O
@@ -4689,7 +4690,7 @@ eight,CD,I-NP,O
 holes,NNS,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 We,PRP,I-NP,O
 finally,RB,I-ADVP,O
 got,VBD,I-VP,O
@@ -4700,11 +4701,11 @@ the,DT,I-NP,O
 right,JJ,I-NP,O
 direction,NN,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 he,PRP,I-NP,O
 said,VBD,I-VP,O
 .,.,O,O
- ,O,O
+',',O,O
 
 It,PRP,I-NP,O
 was,VBD,I-VP,O
@@ -4758,7 +4759,7 @@ a,DT,I-NP,O
 good,JJ,I-NP,O
 experience,NN,I-NP,O
 .,.,O,O
- ,O,O
+',',O,O
 
 Henke,NNP,I-NP,I-PER
 ",",",",O,O
@@ -4842,18 +4843,18 @@ second,NN,I-NP,O
 place,NN,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 No,DT,I-NP,O
 bogeys,NNS,I-NP,O
 on,IN,I-PP,O
 the,DT,I-NP,O
 card,NN,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 he,PRP,I-NP,O
 noted,VBD,I-VP,O
 .,.,O,O
- ,O,O
+',',O,O
 
 Sometimes,RB,I-ADVP,O
 I,PRP,I-NP,O
@@ -4863,7 +4864,7 @@ pride,NN,I-NP,O
 in,IN,I-PP,O
 that,DT,I-NP,O
 .,.,O,O
- ,O,O
+',',O,O
 
 Woods,NNP,I-NP,I-PER
 was,VBD,I-VP,O
@@ -5342,7 +5343,7 @@ Berlin,NNP,I-NP,I-LOC
 stadium,NN,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 Today,NN,I-NP,O
 the,DT,B-NP,O
 concentration,NN,I-NP,O
@@ -5354,7 +5355,7 @@ thing,NN,I-NP,O
 for,IN,I-PP,O
 me,PRP,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 Mitchell,NNP,I-NP,I-PER
 said,VBD,I-VP,O
 .,.,O,O
@@ -6767,10 +6768,10 @@ Liege,NNP,I-NP,I-ORG
 on,IN,I-PP,O
 Friday,NNP,I-NP,O
 for,IN,I-PP,O
- ,O,O
+',',O,O
 disgraceful,JJ,I-NP,O
 behaviour,NN,I-NP,O
- ,O,O
+',',O,O
 in,IN,I-PP,O
 an,DT,I-NP,O
 Intertoto,NNP,I-NP,I-MISC
@@ -6977,14 +6978,14 @@ long,JJ,I-NP,O
 jump,NN,I-NP,O
 on,IN,I-PP,O
 the,DT,I-NP,O
- ,O,O
+',',O,O
 one,CD,I-NP,O
 usable,JJ,I-NP,O
 runway,NN,I-NP,O
 at,IN,I-PP,O
 the,DT,I-NP,O
 war-devastated,JJ,I-NP,O
- ,O,O
+',',O,O
 Kosevo,NNP,I-NP,I-LOC
 stadium,NN,I-NP,O
 .,.,O,O
@@ -7041,7 +7042,7 @@ quoted,VBN,I-VP,O
 as,IN,I-PP,O
 saying,VBG,I-VP,O
 :,:,O,O
- ,O,O
+',',O,O
 What,WP,I-NP,O
 type,NN,I-NP,O
 of,IN,I-PP,O
@@ -7081,7 +7082,7 @@ a,DT,I-NP,O
 humanitarian,JJ,I-NP,O
 gesture,NN,I-NP,O
 ?,.,O,O
- ,O,O
+',',O,O
 
 -DOCSTART-,-X-,-X-,O
 
@@ -8043,7 +8044,7 @@ other,JJ,I-NP,O
 equipment,NN,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 In,IN,I-PP,O
 the,DT,I-NP,O
 first,JJ,I-NP,O
@@ -8072,7 +8073,7 @@ of,IN,I-PP,O
 our,PRP$,I-NP,O
 products,NNS,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 the,DT,I-NP,O
 report,NN,I-NP,O
 said,VBD,I-VP,O
@@ -8545,7 +8546,7 @@ traders,NNS,I-NP,O
 said,VBD,I-VP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 There,EX,I-NP,O
 was,VBD,I-VP,O
 some,DT,I-NP,O
@@ -8560,7 +8561,7 @@ just,RB,I-VP,O
 sitting,VBG,I-VP,O
 there,RB,I-ADVP,O
 ",",",",O,O
- ,O,O
+',',O,O
 a,DT,I-NP,O
 Texas,NNP,I-NP,I-LOC
 trader,NN,I-NP,O
@@ -8940,7 +8941,7 @@ put,VBD,I-VP,O
 spreads,NNS,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 Even,RB,I-ADVP,O
 before,IN,I-PP,O
 the,DT,I-NP,O
@@ -8954,7 +8955,7 @@ seeing,VBG,I-VP,O
 put,NN,I-NP,O
 buying,NN,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 one,CD,I-NP,O
 floor,NN,I-NP,O
 trader,NN,I-NP,O
@@ -9219,7 +9220,7 @@ economic,JJ,I-NP,O
 news,NN,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 The,DT,I-NP,O
 Fed,NNP,I-NP,I-ORG
 's,POS,B-NP,O
@@ -9233,12 +9234,12 @@ all,PDT,I-NP,O
 this,DT,I-NP,O
 data,NNS,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 one,CD,I-NP,O
 analyst,NN,I-NP,O
 said,VBD,I-VP,O
 .,.,O,O
- ,O,O
+',',O,O
 
 The,DT,I-NP,O
 revisions,NNS,I-NP,O
@@ -9257,7 +9258,7 @@ lot,NN,I-NP,O
 of,IN,I-PP,O
 attention,NN,I-NP,O
 .,.,O,O
- ,O,O
+',',O,O
 
 At,IN,I-PP,O
 the,DT,I-NP,O
@@ -9492,7 +9493,7 @@ financial,JJ,I-NP,O
 officer,NN,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 Unfortunately,RB,I-ADVP,O
 ",",",",O,O
 in,IN,I-PP,O
@@ -9514,11 +9515,11 @@ big,JJ,I-NP,O
 company,NN,I-NP,O
 anymore,RB,I-ADVP,O
 ",",",",O,O
- ,O,O
+',',O,O
 Hoey,NNP,I-NP,I-PER
 said,VBD,I-VP,O
 .,.,O,O
- ,O,O
+',',O,O
 
 This,DT,I-NP,O
 merger,NN,I-NP,O
@@ -9528,7 +9529,7 @@ much,RB,B-NP,O
 more,RBR,I-NP,O
 competitive,JJ,I-NP,O
 .,.,O,O
- ,O,O
+',',O,O
 
 He,PRP,I-NP,O
 added,VBD,I-VP,O
@@ -9657,7 +9658,7 @@ five,CD,I-NP,O
 years,NNS,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 The,DT,I-NP,O
 deal,NN,I-NP,O
 really,RB,I-ADVP,O
@@ -9667,7 +9668,7 @@ seating,NN,I-NP,O
 field,NN,I-NP,O
 somewhat,RB,I-ADVP,O
 ",",",",O,O
- ,O,O
+',',O,O
 said,VBD,I-VP,O
 John,NNP,I-NP,I-PER
 Casesa,NNP,I-NP,I-PER
@@ -9677,7 +9678,7 @@ Wertheim,NNP,I-NP,I-ORG
 &,CC,I-NP,I-ORG
 Co,NNP,I-NP,I-ORG
 .,.,I-NP,O
- ,O,O
+',',O,O
 
 It,PRP,I-NP,O
 should,MD,I-VP,O
@@ -9695,7 +9696,7 @@ in,IN,I-PP,O
 that,DT,I-NP,O
 market,NN,I-NP,O
 .,.,O,O
- ,O,O
+',',O,O
 
 Magna,NNP,I-NP,I-ORG
 's,POS,B-NP,O
@@ -9819,7 +9820,7 @@ south,JJ,I-NP,O
 coast,NN,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 I,PRP,I-NP,O
 would,MD,I-VP,O
 n't,RB,I-VP,O
@@ -9858,7 +9859,7 @@ at,IN,I-PP,O
 the,DT,I-NP,O
 moment,NN,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 said,VBD,I-VP,O
 a,DT,I-NP,O
 trader,NN,I-NP,O
@@ -9967,7 +9968,7 @@ Iraqis,NNPS,I-NP,I-MISC
 claimed,VBD,I-VP,O
 they,PRP,I-NP,O
 were,VBD,I-VP,O
- ,O,O
+',',O,O
 ordinary,JJ,I-NP,O
 people,NNS,I-NP,O
 persecuted,VBN,I-VP,O
@@ -9979,7 +9980,7 @@ Saddam,NN,I-NP,I-PER
 (,(,O,O
 Hussein,NN,I-NP,I-PER
 ),),O,O
- ,O,O
+',',O,O
 but,CC,O,O
 interior,JJ,I-NP,I-ORG
 ministry,NN,I-NP,I-ORG
@@ -10697,7 +10698,7 @@ March,NNP,I-NP,O
 ",",",",O,O
 said,VBD,I-VP,O
 :,:,O,O
- ,O,O
+',',O,O
 I,PRP,I-NP,O
 was,VBD,I-VP,O
 in,IN,I-PP,O
@@ -10718,7 +10719,7 @@ sunk,VBN,I-VP,O
 in,RP,I-PRT,O
 .,.,O,O
 
- ,O,O
+',',O,O
 I,PRP,I-NP,O
 never,RB,I-ADVP,O
 wanted,VBD,I-VP,O
@@ -10742,7 +10743,7 @@ a,DT,I-NP,O
 good,JJ,I-NP,O
 innings,NN,I-NP,O
 .,.,O,O
- ,O,O
+',',O,O
 
 Bruno,NNP,I-NP,I-PER
 ",",",",O,O
@@ -10799,7 +10800,7 @@ told,VBD,I-VP,O
 the,DT,I-NP,O
 Sun,NNP,I-NP,I-ORG
 :,:,O,O
- ,O,O
+',',O,O
 There,EX,I-NP,O
 is,VBZ,I-VP,O
 a,DT,I-NP,O
@@ -10840,7 +10841,7 @@ himself,PRP,I-NP,O
 to,TO,I-PP,O
 that,DT,I-NP,O
 .,.,O,O
- ,O,O
+',',O,O
 
 Bruno,NNP,I-NP,I-PER
 lost,VBD,I-VP,O
@@ -11090,7 +11091,7 @@ on,IN,I-PP,O
 Friday,NNP,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 Little,NNP,I-NP,O
 did,VBD,I-VP,O
 I,PRP,I-NP,O
@@ -11101,7 +11102,7 @@ dealing,VBG,I-VP,O
 with,IN,I-PP,O
 robbers,NNS,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 the,DT,I-NP,O
 News,NNP,I-NP,I-ORG
 Agency,NNP,I-NP,I-ORG
@@ -11235,7 +11236,7 @@ on,IN,I-PP,O
 Friday,NNP,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 Discussions,NNP,I-NP,O
 with,IN,I-PP,O
 employee,NN,I-NP,O
@@ -11245,7 +11246,7 @@ representatives,NNS,I-NP,O
 are,VBP,I-VP,O
 continuing,VBG,I-VP,O
 ",",",",O,O
- ,O,O
+',',O,O
 the,DT,I-NP,O
 company,NN,I-NP,O
 said,VBD,I-VP,O
@@ -11349,7 +11350,7 @@ on,IN,I-PP,O
 Friday,NNP,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 The,DT,I-NP,O
 minister,NN,I-NP,O
 and,CC,O,O
@@ -11371,14 +11372,14 @@ intervention,NN,I-NP,O
 by,IN,I-PP,O
 gendarmes,NNS,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 one,CD,I-NP,O
 university,NN,I-NP,O
 official,NN,I-NP,O
 said,VBD,I-VP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 Angry,NNP,I-NP,O
 students,NNS,I-NP,O
 cut,VBD,I-VP,O
@@ -11402,7 +11403,7 @@ down,IN,I-PP,O
 the,DT,I-NP,O
 doors,NNS,I-NP,O
 .,.,O,O
- ,O,O
+',',O,O
 
 Paramilitary,JJ,I-NP,O
 police,NN,I-NP,O
@@ -11503,7 +11504,7 @@ agency,NN,I-NP,O
 said,VBD,I-VP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 Lebed,NN,I-NP,I-PER
 is,VBZ,I-VP,O
 now,RB,I-ADVP,O
@@ -11513,14 +11514,14 @@ solving,VBG,I-VP,O
 some,DT,I-NP,O
 problems,NNS,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 Interfax,NN,I-NP,I-ORG
 quoted,VBN,I-VP,O
 Chernomyrdin,NNP,I-NP,I-PER
 as,IN,I-PP,O
 saying,VBG,I-VP,O
 .,.,O,O
- ,O,O
+',',O,O
 
 The,DT,I-NP,O
 main,JJ,I-NP,O
@@ -11541,7 +11542,7 @@ Yeltsin,NNP,I-NP,I-PER
 ),),O,O
 yesterday,NN,I-NP,O
 .,.,O,O
- ,O,O
+',',O,O
 
 Lebed,JJ,I-ADJP,I-PER
 ",",",",O,O
@@ -11821,7 +11822,7 @@ December,NNP,I-NP,O
 2001,CD,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 We,PRP,I-NP,O
 just,RB,I-ADVP,O
 now,RB,I-ADVP,O
@@ -11844,7 +11845,7 @@ the,DT,I-NP,O
 Chechen,NNP,I-NP,I-LOC
 Republic,NNP,I-NP,I-LOC
 ",",",",O,O
- ,O,O
+',',O,O
 Lebed,JJ,I-NP,I-PER
 told,JJ,I-NP,O
 reporters,NNS,I-NP,O
@@ -11866,7 +11867,7 @@ further,JJ,I-NP,O
 details,NNS,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 That,DT,I-NP,O
 's,VBZ,I-VP,O
 it,PRP,I-NP,O
@@ -11876,7 +11877,7 @@ war,NN,I-NP,O
 is,VBZ,I-VP,O
 over,RB,I-ADVP,O
 ",",",",O,O
- ,O,O
+',',O,O
 Lebed,JJ,I-NP,I-PER
 told,JJ,I-NP,O
 reporters,NNS,I-NP,O
@@ -11909,7 +11910,7 @@ political,JJ,I-NP,O
 status,NN,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 Then,RB,I-ADVP,O
 ",",",",O,O
 with,IN,I-PP,O
@@ -11926,7 +11927,7 @@ out,RP,I-PRT,O
 our,PRP$,I-NP,O
 relations,NNS,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 Lebed,NNP,I-NP,I-PER
 said,VBD,I-VP,O
 after,IN,I-PP,O
@@ -12325,7 +12326,7 @@ on,IN,I-PP,O
 Friday,NNP,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 During,IN,I-PP,O
 the,DT,I-NP,O
 works,NNS,I-NP,O
@@ -12348,7 +12349,7 @@ change,NN,I-NP,O
 in,IN,I-PP,O
 schedules,NNS,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 Tanjug,NNP,I-NP,I-ORG
 quotes,VBZ,I-VP,O
 Belgrade,NNP,I-NP,I-LOC
@@ -12532,7 +12533,7 @@ the,DT,I-NP,O
 ruler,NN,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 The,DT,I-NP,O
 world,NN,I-NP,O
 community,NN,I-NP,O
@@ -12568,7 +12569,7 @@ his,PRP$,I-NP,O
 new,JJ,I-NP,O
 constitution,NN,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 Sharetsky,NNP,I-NP,I-PER
 said,VBD,I-VP,O
 .,.,O,O
@@ -12613,7 +12614,7 @@ Sharetsky,NNP,I-NP,I-PER
 's,POS,B-NP,O
 charge,NN,I-NP,O
 .,.,O,O
- ,O,O
+',',O,O
 
 If,IN,I-SBAR,O
 there,EX,I-NP,O
@@ -12632,7 +12633,7 @@ things,NNS,I-NP,O
 like,IN,I-PP,O
 this,DT,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 Sergei,NNP,I-NP,I-PER
 Posukhov,NNP,I-NP,I-PER
 ",",",",O,O
@@ -12645,7 +12646,7 @@ told,VBD,I-VP,O
 Reuters,NNP,I-NP,I-ORG
 .,.,O,O
 
- ,O,O
+',',O,O
 The,DT,I-NP,O
 people,NNS,I-NP,O
 have,VB,I-VP,O
@@ -12661,7 +12662,7 @@ our,PRP$,I-NP,O
 main,JJ,I-NP,O
 aim,NN,I-NP,O
 .,.,O,O
- ,O,O
+',',O,O
 
 Lukashenko,NN,I-NP,I-PER
 ",",",",O,O
@@ -12731,7 +12732,7 @@ impeach,VB,I-VP,O
 him,PRP,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 This,DT,I-NP,O
 constitution,NN,I-NP,O
 ",",",",O,O
@@ -12753,11 +12754,11 @@ man,NN,I-NP,O
 's,POS,B-NP,O
 hands,NNS,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 he,PRP,I-NP,O
 said,VBD,I-VP,O
 .,.,O,O
- ,O,O
+',',O,O
 
 We,PRP,I-NP,O
 should,MD,I-VP,O
@@ -12776,7 +12777,7 @@ like,IN,I-PP,O
 this,DT,I-NP,O
 referendum,NN,I-NP,O
 .,.,O,O
- ,O,O
+',',O,O
 
 Lukashenko,NNP,I-NP,I-PER
 signed,VBD,I-VP,O
@@ -13174,14 +13175,14 @@ pick,VB,I-VP,O
 it,PRP,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 Help,VB,I-VP,O
 me,PRP,I-NP,O
 ",",",",O,O
 help,VB,I-VP,O
 me,PRP,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 said,VBD,I-VP,O
 a,DT,I-NP,O
 chorus,NN,I-NP,O
@@ -13214,7 +13215,7 @@ the,DT,I-NP,O
 fighting,NN,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 We,PRP,I-NP,O
 had,VBD,I-VP,O
 to,TO,I-VP,O
@@ -13228,7 +13229,7 @@ survive,VB,I-VP,O
 the,DT,I-NP,O
 fighting,NN,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 said,VBD,I-VP,O
 Rajab,NNP,I-NP,I-PER
 Adinayev,NNP,I-NP,I-PER
@@ -13330,7 +13331,7 @@ of,IN,I-PP,O
 his,PRP$,I-NP,O
 sons,NNS,I-NP,O
 .,.,O,O
- ,O,O
+',',O,O
 
 It,PRP,I-NP,O
 's,VBZ,I-VP,O
@@ -13349,7 +13350,7 @@ stop,VB,I-VP,O
 the,DT,I-NP,O
 war,NN,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 he,PRP,I-NP,O
 said,VBD,I-VP,O
 .,.,O,O
@@ -13638,7 +13639,7 @@ by,IN,I-PP,O
 telephone,NN,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 Naina,NNP,I-NP,I-PER
 Yeltsin,NNP,I-NP,I-PER
 looks,VBZ,I-VP,O
@@ -13654,7 +13655,7 @@ clearly,RB,I-VP,O
 getting,VBG,I-VP,O
 better,JJR,I-NP,O
 ",",",",I-NP,O
- ,O,O
+',',O,O
 Yastrzhembsky,NNP,I-NP,I-PER
 quoted,VBD,I-VP,O
 Yeltsin,NNP,I-NP,I-PER
@@ -14127,7 +14128,7 @@ profit,NN,I-NP,O
 goal,NN,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 We,PRP,I-NP,O
 will,MD,I-VP,O
 not,RB,I-VP,O
@@ -14144,11 +14145,11 @@ net,JJ,O,O
 profit,NN,I-NP,O
 forecast,NN,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 Frater,NNP,I-NP,I-PER
 said,VBD,I-VP,O
 .,.,O,O
- ,O,O
+',',O,O
 
 Obviously,RB,I-ADVP,O
 ",",",",O,O
@@ -14171,7 +14172,7 @@ of,IN,I-PP,O
 the,DT,I-NP,O
 year,NN,I-NP,O
 .,.,O,O
- ,O,O
+',',O,O
 
 Frater,NN,I-NP,I-PER
 declined,VBD,I-VP,O
@@ -14249,7 +14250,7 @@ buying,NN,I-NP,O
 opportunity,NN,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 Obviously,RB,I-ADVP,O
 ",",",",O,O
 at,IN,I-PP,O
@@ -14261,11 +14262,11 @@ a,DT,I-NP,O
 buying,NN,I-NP,O
 opportunity,NN,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 Frater,NNP,I-NP,I-PER
 said,VBD,I-VP,O
 .,.,O,O
- ,O,O
+',',O,O
 
 I,PRP,I-NP,O
 think,VBP,I-VP,O
@@ -14287,9 +14288,9 @@ be,VB,I-VP,O
 more,RBR,I-ADJP,O
 volatile,JJ,I-ADJP,O
 .,.,O,O
- ,O,O
+',',O,O
 
- ,O,O
+',',O,O
 My,PRP$,I-NP,O
 message,NN,I-NP,O
 is,VBZ,I-VP,O
@@ -14309,7 +14310,7 @@ has,VBZ,I-VP,O
 not,RB,I-VP,O
 changed,VBN,I-VP,O
 .,.,O,O
- ,O,O
+',',O,O
 
 The,DT,I-NP,O
 group,NN,I-NP,O
@@ -14421,7 +14422,7 @@ of,IN,I-PP,O
 directors,NNS,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 Until,IN,I-PP,O
 a,DT,I-NP,O
 new,JJ,I-NP,O
@@ -14461,7 +14462,7 @@ officer,NN,I-NP,O
 of,IN,I-PP,O
 Petofi,NNP,I-NP,I-ORG
 ",",",",O,O
- ,O,O
+',',O,O
 Frater,NNP,I-NP,I-PER
 said,VBD,I-VP,O
 .,.,O,O
@@ -14665,13 +14666,13 @@ police,NN,I-NP,O
 said,VBD,I-VP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 These,DT,I-NP,O
 are,VBP,I-VP,O
 powerful,JJ,I-NP,O
 weapons,NNS,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 a,DT,I-NP,O
 spokesman,NN,I-NP,O
 with,IN,I-PP,O
@@ -14710,7 +14711,7 @@ downtown,NN,I-NP,O
 area,NN,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 They,PRP,I-NP,O
 could,MD,I-VP,O
 cause,VB,I-VP,O
@@ -14731,7 +14732,7 @@ they,PRP,I-NP,O
 were,VBD,I-VP,O
 detonated,VBD,I-VP,O
 ",",",",O,O
- ,O,O
+',',O,O
 the,DT,I-NP,O
 spokesman,NN,I-NP,O
 added,VBD,I-VP,O
@@ -14788,11 +14789,11 @@ by,IN,I-PP,O
 police,NN,I-NP,O
 had,VBD,I-VP,O
 been,VBN,I-VP,O
- ,O,O
+',',O,O
 specially,RB,I-NP,O
 adapted,VBN,I-VP,O
 .,.,O,O
- ,O,O
+',',O,O
 
 The,DT,I-NP,O
 spokesman,NN,I-NP,O
@@ -15372,7 +15373,7 @@ arbitrage,NN,I-NP,O
 trade,NN,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 I,PRP,I-NP,O
 was,VBD,I-VP,O
 shocked,VBN,I-VP,O
@@ -15414,7 +15415,7 @@ selling,VBG,I-VP,O
 in,IN,I-PP,O
 force,NN,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 one,CD,I-NP,O
 dealer,NN,I-NP,O
 said,VBD,I-VP,O
@@ -15551,7 +15552,7 @@ by,IN,I-PP,O
 end-October,NNP,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 I,PRP,I-NP,O
 still,RB,I-ADVP,O
 think,VBP,I-VP,O
@@ -15588,7 +15589,7 @@ of,IN,I-PP,O
 the,DT,I-NP,O
 year,NN,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 one,CD,I-NP,O
 said,VBD,I-VP,O
 .,.,O,O
@@ -15700,10 +15701,10 @@ and,CC,I-NP,O
 banners,NNS,I-NP,O
 praise,VBP,I-VP,O
 the,DT,I-NP,O
- ,O,O
+',',O,O
 great,JJ,I-NP,O
 revolution,NN,I-NP,O
- ,O,O
+',',O,O
 and,CC,O,O
 promise,VB,I-VP,O
 defiance,NN,I-NP,O
@@ -15741,7 +15742,7 @@ Lockerbie,NNP,I-NP,I-LOC
 Scotland,NNP,I-NP,I-LOC
 .,.,O,O
 
- ,O,O
+',',O,O
 We,PRP,I-NP,O
 have,VBP,I-VP,O
 chosen,VBN,I-VP,O
@@ -15754,7 +15755,7 @@ our,PRP$,I-NP,O
 only,JJ,I-NP,O
 option,NN,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 proclaimed,VBD,I-VP,O
 one,CD,I-NP,O
 banner,NN,I-NP,O
@@ -15837,7 +15838,7 @@ Mohammed,NNP,I-NP,I-PER
 Idris,NNP,I-NP,I-PER
 .,.,O,O
 
- ,O,O
+',',O,O
 The,DT,I-NP,O
 revolution,NN,I-NP,O
 has,VBZ,I-VP,O
@@ -15866,7 +15867,7 @@ given,VBN,I-VP,O
 us,PRP,I-NP,O
 capabilites,NNS,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 Samer,NNP,I-NP,I-PER
 Ammar,NNP,I-NP,I-PER
 Soliman,NNP,I-NP,I-PER
@@ -16149,7 +16150,7 @@ financial,JJ,I-NP,O
 markets,NNS,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 The,DT,I-NP,O
 worst,JJS,I-NP,O
 thing,NN,I-NP,O
@@ -16178,7 +16179,7 @@ ring,NN,I-NP,O
 with,IN,I-PP,O
 one-upmanship,NN,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 said,VBD,I-VP,O
 Hugh,NNP,I-NP,I-PER
 Johnson,NNP,I-NP,I-PER
@@ -16190,7 +16191,7 @@ at,IN,I-PP,O
 First,NNP,I-NP,I-ORG
 Albany,NNP,I-NP,I-ORG
 Corp.,NNP,I-NP,I-ORG
- ,O,O
+',',O,O
 That,DT,I-NP,O
 's,VBZ,I-VP,O
 when,WRB,I-ADVP,O
@@ -16201,7 +16202,7 @@ need,VB,I-VP,O
 to,TO,I-VP,O
 worry,VB,I-VP,O
 .,.,O,O
- ,O,O
+',',O,O
 
 He,PRP,I-NP,O
 said,VBD,I-VP,O
@@ -16217,9 +16218,9 @@ to,TO,I-VP,O
 react,VB,I-VP,O
 if,IN,I-SBAR,O
 the,DT,I-NP,O
- ,O,O
+',',O,O
 bidding,NN,I-NP,O
- ,O,O
+',',O,O
 intensifies,NNS,I-NP,O
 and,CC,I-NP,O
 stocks,NNS,I-NP,O
@@ -16232,7 +16233,7 @@ rates,NNS,I-NP,O
 rise,VBP,I-VP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 I,PRP,I-NP,O
 do,VBP,I-VP,O
 n't,RB,I-VP,O
@@ -16290,7 +16291,7 @@ even,RB,I-ADVP,O
 more,RBR,I-ADVP,O
 stock,NN,I-NP,O
 .,.,O,O
- ,O,O
+',',O,O
 
 This,DT,I-NP,O
 week,NN,I-NP,O
@@ -16430,7 +16431,7 @@ the,DT,I-NP,O
 budget,NN,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 The,DT,I-NP,O
 stock,NN,I-NP,O
 market,NN,I-NP,O
@@ -16451,7 +16452,7 @@ those,DT,I-NP,O
 edited,VBD,I-VP,O
 promises,NNS,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 said,VBD,I-VP,O
 John,NNP,I-NP,I-PER
 Geraghty,NNP,I-NP,I-PER
@@ -16671,7 +16672,7 @@ May,NNP,I-NP,O
 22,CD,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 The,DT,I-NP,O
 market,NN,I-NP,O
 does,VBZ,I-VP,O
@@ -16703,7 +16704,7 @@ a,DT,I-NP,O
 holding,VBG,I-NP,O
 pattern,NN,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 said,VBD,I-VP,O
 Geraghty,NNP,I-NP,I-PER
 .,.,O,O
@@ -16759,7 +16760,7 @@ the,DT,I-NP,O
 Clintons,NNPS,I-NP,I-PER
 .,.,O,O
 
- ,O,O
+',',O,O
 Stocks,NNS,I-NP,O
 are,VBP,I-VP,O
 on,IN,I-PP,O
@@ -16796,7 +16797,7 @@ process,NN,I-NP,O
 into,IN,I-PP,O
 chaos,NN,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 Geraghty,UH,I-INTJ,I-PER
 said,VBD,I-VP,O
 .,.,O,O
@@ -16812,7 +16813,7 @@ the,DT,I-NP,O
 candidates,NNS,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 We,PRP,I-NP,O
 have,VBP,I-VP,O
 an,DT,I-NP,O
@@ -16870,7 +16871,7 @@ the,DT,I-NP,O
 stock,NN,I-NP,O
 market,NN,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 Geraghty,UH,I-INTJ,I-PER
 said,VBD,I-VP,O
 .,.,O,O
@@ -17196,7 +17197,7 @@ had,VBD,I-VP,O
 wanted,VBN,I-VP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 It,PRP,I-NP,O
 appears,VBZ,I-VP,O
 that,IN,I-SBAR,O
@@ -17221,7 +17222,7 @@ at,IN,I-PP,O
 this,DT,I-NP,O
 point,NN,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 said,VBD,I-VP,O
 economist,NN,I-NP,O
 Lynn,NNP,I-NP,I-PER
@@ -17487,7 +17488,7 @@ economic,JJ,I-NP,O
 growth,NN,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 The,DT,I-NP,O
 FOMC,NNP,I-NP,I-ORG
 (,(,O,O
@@ -17518,7 +17519,7 @@ overall,JJ,I-NP,O
 economic,JJ,I-NP,O
 growth,NN,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 Naroff,NNP,I-NP,I-PER
 said,VBD,I-VP,O
 in,IN,I-PP,O
@@ -17593,10 +17594,10 @@ said,VBD,I-VP,O
 there,RB,I-ADVP,O
 still,RB,I-ADVP,O
 were,VBD,I-VP,O
- ,O,O
+',',O,O
 mixed,JJ,I-ADJP,O
 signals,NNS,I-NP,O
- ,O,O
+',',O,O
 about,IN,I-PP,O
 the,DT,I-NP,O
 economy,NN,I-NP,O
@@ -17604,7 +17605,7 @@ economy,NN,I-NP,O
 direction,NN,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 I,PRP,I-NP,O
 think,VBP,I-VP,O
 that,IN,I-SBAR,O
@@ -17623,7 +17624,7 @@ the,DT,I-NP,O
 strong,JJ,I-NP,O
 side,NN,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 Lindsey,NNP,I-NP,I-PER
 said,VBD,I-VP,O
 .,.,O,O
@@ -17643,7 +17644,7 @@ with,IN,I-PP,O
 unemployment,NN,I-NP,O
 so,RB,I-ADJP,O
 low,JJ,I-ADJP,O
- ,O,O
+',',O,O
 the,DT,I-NP,O
 greater,JJR,I-NP,O
 risks,NNS,I-NP,O
@@ -17656,7 +17657,7 @@ see,VB,I-VP,O
 some,DT,I-NP,O
 overheating,VBG,I-NP,O
 .,.,O,O
- ,O,O
+',',O,O
 
 While,IN,I-SBAR,O
 July,NNP,I-NP,O
@@ -17726,7 +17727,7 @@ up,RP,I-PRT,O
 production,NN,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 The,DT,I-NP,O
 economy,NN,I-NP,O
 is,VBZ,I-VP,O
@@ -17763,7 +17764,7 @@ the,DT,I-NP,O
 percent,NN,I-NP,O
 range,NN,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 she,PRP,I-NP,O
 said,VBD,I-VP,O
 ",",",",O,O
@@ -17905,7 +17906,7 @@ lifted,VBN,I-VP,O
 today,NN,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 The,DT,I-NP,O
 opportunity,NN,I-NP,O
 to,TO,I-VP,O
@@ -17923,7 +17924,7 @@ for,IN,I-PP,O
 another,DT,I-NP,O
 year,NN,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 said,VBD,I-VP,O
 Paul,NNP,I-NP,I-PER
 Drazek,NNP,I-NP,I-PER
@@ -17938,7 +17939,7 @@ Dan,NNP,I-NP,I-PER
 Glickman,NNP,I-NP,I-PER
 .,.,O,O
 
- ,O,O
+',',O,O
 We,PRP,I-NP,O
 could,MD,I-VP,O
 lift,VB,I-VP,O
@@ -17954,11 +17955,11 @@ mean,VB,I-VP,O
 anything,NN,I-NP,O
 immediately,RB,I-ADVP,O
 ",",",",O,O
- ,O,O
+',',O,O
 said,VBD,I-VP,O
 Drazek,NNP,I-NP,I-PER
 .,.,I-NP,O
- ,O,O
+',',O,O
 
 We,PRP,I-NP,O
 probably,RB,I-ADVP,O
@@ -17975,7 +17976,7 @@ season,NN,I-NP,O
 next,JJ,I-NP,O
 November,NNP,I-NP,O
 .,.,I-NP,O
- ,O,O
+',',O,O
 
 The,DT,I-NP,O
 Agriculture,NNP,I-NP,I-ORG
@@ -18306,7 +18307,7 @@ its,PRP$,I-NP,O
 position,NN,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 From,IN,I-PP,O
 a,DT,I-NP,O
 common-sense,JJ,I-NP,O
@@ -18331,7 +18332,7 @@ ahead,RB,I-ADVP,O
 with,IN,I-PP,O
 this,DT,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 said,VBD,I-VP,O
 Tom,NNP,I-NP,I-PER
 Bellamore,NNP,I-NP,I-PER
@@ -18369,7 +18370,7 @@ working,VBG,I-VP,O
 under,IN,I-ADVP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 It,PRP,I-NP,O
 's,VBZ,I-VP,O
 a,DT,I-NP,O
@@ -18377,7 +18378,7 @@ very,RB,I-NP,O
 complicated,VBN,I-NP,O
 issue,NN,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 said,VBD,I-VP,O
 the,DT,I-NP,O
 Agriculture,NNP,I-NP,I-ORG
@@ -18385,7 +18386,7 @@ Department,NNP,I-NP,I-ORG
 's,POS,B-NP,O
 Drazek,NNP,I-NP,I-PER
 .,.,I-NP,O
- ,O,O
+',',O,O
 
 We,PRP,I-NP,O
 'll,MD,I-VP,O
@@ -18405,7 +18406,7 @@ best,JJS,I-NP,O
 available,JJ,I-NP,O
 science,NN,I-NP,O
 .,.,O,O
- ,O,O
+',',O,O
 
 -DOCSTART-,-X-,-X-,O
 
@@ -18498,7 +18499,7 @@ the,DT,I-NP,O
 sick,JJ,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 On,IN,I-PP,O
 Wednesday,NNP,I-NP,O
 ",",",",O,O
@@ -18535,7 +18536,7 @@ year,NN,I-NP,O
 or,CC,O,O
 less,JJR,I-NP,O
 ",",",",I-NP,O
- ,O,O
+',',O,O
 a,DT,I-NP,O
 composed,VBN,I-VP,O
 Bernardin,NNP,I-NP,I-PER
@@ -18579,7 +18580,7 @@ by,IN,I-PP,O
 clergy,NNS,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 I,PRP,I-NP,O
 have,VBP,I-VP,O
 been,VBN,I-VP,O
@@ -18593,7 +18594,7 @@ quality,NN,I-NP,O
 time,NN,I-NP,O
 left,VBN,I-VP,O
 ",",",",O,O
- ,O,O
+',',O,O
 he,PRP,I-NP,O
 said,VBD,I-VP,O
 ",",",",O,O
@@ -18629,7 +18630,7 @@ was,VBD,I-VP,O
 inoperable,JJ,I-ADJP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 It,PRP,I-NP,O
 's,VBZ,I-VP,O
 not,RB,I-VP,O
@@ -18660,11 +18661,11 @@ man,NN,I-NP,O
 of,IN,I-PP,O
 faith,NN,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 he,PRP,I-NP,O
 said,VBD,I-VP,O
 .,.,O,O
- ,O,O
+',',O,O
 
 Death,NN,I-NP,O
 is,VBZ,I-VP,O
@@ -18672,18 +18673,18 @@ a,DT,I-NP,O
 natural,JJ,I-NP,O
 phenomenom,NN,I-NP,O
 .,.,O,O
- ,O,O
+',',O,O
 
 He,PRP,I-NP,O
 said,VBD,I-VP,O
 he,PRP,I-NP,O
 would,MD,I-VP,O
- ,O,O
+',',O,O
 serve,VB,I-VP,O
 until,IN,I-PP,O
 the,DT,I-NP,O
 end,NN,I-NP,O
- ,O,O
+',',O,O
 as,IN,I-PP,O
 cardinal,JJ,I-ADJP,O
 .,.,O,O
@@ -18964,10 +18965,10 @@ of,IN,I-PP,O
 conferences,NNS,I-NP,O
 to,TO,I-VP,O
 find,VB,I-VP,O
- ,O,O
+',',O,O
 common,JJ,I-NP,O
 ground,NN,I-NP,O
- ,O,O
+',',O,O
 among,IN,I-PP,O
 American,NNP,I-NP,I-MISC
 Catholics,NNPS,I-NP,I-MISC
@@ -19011,11 +19012,11 @@ human,JJ,I-NP,O
 life,NN,I-NP,O
 as,IN,I-PP,O
 a,DT,I-NP,O
- ,O,O
+',',O,O
 seamless,JJ,I-NP,O
 garment,NN,I-NP,O
 .,.,O,O
- ,O,O
+',',O,O
 
 -DOCSTART-,-X-,-X-,O
 
@@ -19073,7 +19074,7 @@ state,NN,I-NP,O
 regulations,NNS,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 NationsBank,NN,I-NP,I-ORG
 just,RB,I-ADVP,O
 strolled,VBD,I-VP,O
@@ -19090,7 +19091,7 @@ in,IN,I-PP,O
 the,DT,I-NP,O
 landscape,NN,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 said,VBD,I-VP,O
 Michael,NNP,I-NP,I-PER
 Ancell,NNP,I-NP,I-PER
@@ -19105,7 +19106,7 @@ Jones,NNP,I-NP,I-ORG
 &,CC,I-NP,I-ORG
 Co,NNP,I-NP,I-ORG
 .,.,I-NP,O
- ,O,O
+',',O,O
 
 Whoever,WP,I-NP,O
 wants,VBZ,I-VP,O
@@ -19126,7 +19127,7 @@ Mercantile,NNP,I-NP,I-ORG
 or,CC,I-NP,O
 Commerce,NNP,I-NP,I-ORG
 .,.,I-NP,O
- ,O,O
+',',O,O
 
 St.,NNP,I-NP,I-MISC
 Louis-based,JJ,I-NP,I-MISC
@@ -19197,7 +19198,7 @@ analysts,NNS,I-NP,O
 added,VBD,I-VP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 It,PRP,I-NP,O
 focuses,VBZ,I-VP,O
 more,JJR,I-NP,O
@@ -19209,7 +19210,7 @@ Commerce,NNP,I-NP,I-ORG
 and,CC,I-NP,O
 Roosevelt,NNP,I-NP,I-ORG
 ",",",",O,O
- ,O,O
+',',O,O
 said,VBD,I-VP,O
 James,NNP,I-NP,I-PER
 Weber,NNP,I-NP,I-PER
@@ -19239,7 +19240,7 @@ based,VBN,I-VP,O
 thrift,NN,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 Now,RB,I-ADVP,O
 ...,:,O,O
 the,DT,I-NP,O
@@ -19251,7 +19252,7 @@ there,RB,I-NP,O
 is,VBZ,I-VP,O
 Mercantile,NNP,I-NP,I-ORG
 ",",",",O,O
- ,O,O
+',',O,O
 Weber,NNP,I-NP,I-PER
 said,VBD,I-VP,O
 .,.,O,O
@@ -19382,7 +19383,7 @@ banking,NN,I-NP,O
 statute,NN,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 Boatmen,NNP,I-NP,I-ORG
 's,POS,I-NP,I-ORG
 was,VBD,I-VP,O
@@ -19399,7 +19400,7 @@ the,DT,I-NP,O
 central,JJ,I-NP,O
 Midwest,NNP,I-NP,I-LOC
 ",",",",O,O
- ,O,O
+',',O,O
 Weber,NNP,I-NP,I-PER
 said,VBD,I-VP,O
 .,.,O,O
@@ -19454,7 +19455,7 @@ deal,NN,I-NP,O
 done,VBN,I-VP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 I,PRP,I-NP,O
 think,VBP,I-VP,O
 Boatmen,NNP,I-NP,I-ORG
@@ -19486,7 +19487,7 @@ nobody,NN,B-NP,O
 would,MD,I-VP,O
 beat,VB,I-VP,O
 ",",",",O,O
- ,O,O
+',',O,O
 Ancell,NNP,I-NP,I-PER
 said,VBD,I-VP,O
 .,.,O,O
@@ -19526,7 +19527,7 @@ Boatmen,NNP,I-NP,I-ORG
 's,POS,I-NP,I-ORG
 .,.,O,O
 
- ,O,O
+',',O,O
 I,PRP,I-NP,O
 think,VBP,I-VP,O
 initially,RB,I-ADVP,O
@@ -19564,7 +19565,7 @@ at,IN,I-PP,O
 this,DT,I-NP,O
 premium,NN,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 said,VBD,I-VP,O
 Michael,NNP,I-NP,I-PER
 Durante,NNP,I-NP,I-PER
@@ -19627,7 +19628,7 @@ by,IN,I-PP,O
 Libya,NNP,I-NP,I-LOC
 .,.,O,O
 
- ,O,O
+',',O,O
 I,PRP,I-NP,O
 'm,VBP,I-VP,O
 not,RB,I-VP,O
@@ -19645,7 +19646,7 @@ in,IN,I-PP,O
 that,DT,I-NP,O
 case,NN,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 State,NNP,I-NP,I-ORG
 Department,NNP,I-NP,I-ORG
 spokesman,NN,I-NP,O
@@ -19653,7 +19654,7 @@ Glyn,NNP,B-NP,I-PER
 Davies,NNP,I-NP,I-PER
 said,VBD,I-VP,O
 .,.,O,O
- ,O,O
+',',O,O
 
 ...,:,O,O
 The,DT,I-NP,O
@@ -19676,13 +19677,13 @@ Libya,NNP,I-NP,I-LOC
 is,VBZ,I-VP,O
 well-known,JJ,I-ADJP,O
 .,.,O,O
- ,O,O
+',',O,O
 
 Davies,NNP,I-NP,I-PER
 also,RB,I-ADVP,O
 noted,VBD,I-VP,O
 :,:,O,O
- ,O,O
+',',O,O
 We,PRP,I-NP,O
 've,VBP,I-VP,O
 talked,VBN,I-VP,O
@@ -19694,7 +19695,7 @@ for,IN,I-PP,O
 travel,NN,I-NP,O
 to,TO,I-PP,O
 Libya,NNP,I-NP,I-LOC
- ,O,O
+',',O,O
 but,CC,O,O
 he,PRP,I-NP,O
 did,VBD,I-VP,O
@@ -20042,7 +20043,7 @@ televised,VBN,I-NP,O
 debates,NNS,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 Next,NNP,I-NP,O
 week,NN,I-NP,O
 ",",",",O,O
@@ -20072,7 +20073,7 @@ surrounding,VBG,I-VP,O
 the,DT,I-NP,O
 debates,NNS,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 Dole,NNP,I-NP,I-PER
 campaign,NN,I-NP,O
 manager,NN,I-NP,O
@@ -20557,7 +20558,7 @@ region,NN,I-NP,O
 since,IN,I-ADJP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 We,PRP,I-NP,O
 believe,VBP,I-VP,O
 that,IN,I-SBAR,O
@@ -20578,7 +20579,7 @@ establishment,NN,I-NP,O
 of,IN,I-PP,O
 peace,NN,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 German,JJ,I-NP,I-MISC
 Foreign,NNP,I-NP,I-ORG
 Ministry,NNP,I-NP,I-ORG
@@ -20588,7 +20589,7 @@ Erdmann,NN,I-NP,I-PER
 said,VBD,I-VP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 All,DT,I-NP,O
 concerned,JJ,I-NP,O
 must,MD,I-VP,O
@@ -20616,7 +20617,7 @@ peaceful,JJ,I-NP,O
 solution,NN,I-NP,O
 difficult,JJ,I-ADJP,O
 ",",",",O,O
- ,O,O
+',',O,O
 he,PRP,I-NP,O
 said,VBD,I-VP,O
 ",",",",O,O
@@ -20837,11 +20838,11 @@ Air,NNP,I-NP,I-ORG
 France,NNP,I-NP,I-ORG
 workers,NNS,I-NP,O
 denounced,VBD,I-VP,O
- ,O,O
+',',O,O
 charters,NNS,I-NP,O
 of,IN,I-PP,O
 shame,NN,I-NP,O
- ,O,O
+',',O,O
 used,VBN,I-VP,O
 to,TO,I-VP,O
 fly,VB,I-VP,O
@@ -20975,7 +20976,7 @@ illegal,JJ,I-NP,O
 immigrants,NNS,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 We,PRP,I-NP,O
 must,MD,I-VP,O
 obtain,VB,I-VP,O
@@ -21008,7 +21009,7 @@ charters,NNS,I-NP,O
 of,IN,I-PP,O
 shame,NN,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 CFDT,NNP,I-NP,I-ORG
 spokesman,NN,I-NP,O
 Francois,NNP,I-NP,I-PER
@@ -21092,7 +21093,7 @@ on,IN,I-PP,O
 immigration,NN,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 Legislation,NN,I-NP,O
 is,VBZ,I-VP,O
 insufficient,JJ,I-ADJP,O
@@ -21107,7 +21108,7 @@ concerning,JJ,I-NP,O
 illegal,JJ,I-NP,O
 work,NN,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 Juppe,NNP,I-NP,I-PER
 told,VBD,I-VP,O
 reporters,NNS,I-NP,O
@@ -21295,7 +21296,7 @@ of,IN,I-PP,O
 kidnapping,NN,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 We,PRP,I-NP,O
 have,VBP,I-VP,O
 found,VBN,I-VP,O
@@ -21325,7 +21326,7 @@ aunt,NN,I-NP,O
 and,CC,I-NP,O
 companion,NN,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 said,VBD,I-VP,O
 a,DT,I-NP,O
 spokeswoman,NN,I-NP,O
@@ -21353,7 +21354,7 @@ sexual,JJ,I-NP,O
 abuse,NN,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 We,PRP,I-NP,O
 do,VBP,I-VP,O
 n't,RB,I-VP,O
@@ -21368,7 +21369,7 @@ early,JJ,I-ADJP,O
 to,TO,I-VP,O
 tell,VB,I-VP,O
 ",",",",O,O
- ,O,O
+',',O,O
 she,PRP,I-NP,O
 said,VBD,I-VP,O
 .,.,O,O
@@ -21736,7 +21737,7 @@ analysts,NNS,I-NP,O
 said,VBD,I-VP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 I,PRP,I-NP,O
 think,VBP,I-VP,O
 this,DT,I-NP,O
@@ -21757,7 +21758,7 @@ current,JJ,I-NP,O
 account,NN,I-NP,O
 number,NN,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 said,VBD,I-VP,O
 Jim,NNP,I-NP,I-PER
 Webber,NNP,I-NP,I-PER
@@ -21940,7 +21941,7 @@ in,IN,I-PP,O
 July,NNP,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 The,DT,I-NP,O
 purchasing,NN,I-NP,O
 managers,NNS,I-NP,O
@@ -21952,7 +21953,7 @@ extremely,RB,I-ADJP,O
 extremely,RB,I-NP,O
 strong,JJ,I-NP,O
 ",",",",I-NP,O
- ,O,O
+',',O,O
 said,VBD,I-VP,O
 Webber,NNP,I-NP,I-PER
 .,.,O,O
@@ -22362,7 +22363,7 @@ with,IN,I-PP,O
 Arabs,NNPS,I-NP,I-MISC
 .,.,O,O
 
- ,O,O
+',',O,O
 Practices,NNPS,I-NP,O
 of,IN,I-PP,O
 the,DT,I-NP,O
@@ -22391,7 +22392,7 @@ the,DT,I-NP,O
 Arab,JJ,I-NP,I-MISC
 cause,NN,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 state-run,JJ,I-NP,O
 Damascus,NNP,I-NP,I-ORG
 Radio,NNP,I-NP,I-ORG
@@ -22401,7 +22402,7 @@ a,DT,I-NP,O
 commentary,NN,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 When,WRB,I-ADVP,O
 this,DT,I-NP,O
 government,NN,I-NP,O
@@ -22425,7 +22426,7 @@ preparing,VBG,I-VP,O
 for,IN,I-PP,O
 war,NN,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 the,DT,I-NP,O
 radio,NN,I-NP,O
 said,VBD,I-VP,O
@@ -22493,7 +22494,7 @@ Israeli,JJ,I-NP,I-MISC
 government,NN,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 Israel,NNP,I-NP,I-LOC
 could,MD,I-VP,O
 not,RB,I-VP,O
@@ -22520,7 +22521,7 @@ unity,NN,I-NP,O
 and,CC,I-NP,O
 solidarity,NN,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 Damascus,NNP,I-NP,I-LOC
 radio,NN,I-NP,O
 said,VBD,I-VP,O
@@ -22552,7 +22553,7 @@ this,DT,I-NP,O
 policy,NN,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 It,PRP,I-NP,O
 is,VBZ,I-VP,O
 important,JJ,I-ADJP,O
@@ -22581,7 +22582,7 @@ process,NN,I-NP,O
 achieve,VB,I-VP,O
 success,NN,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 the,DT,I-NP,O
 radio,NN,I-NP,O
 said,VBD,I-VP,O
@@ -22716,13 +22717,13 @@ had,VBD,I-VP,O
 been,VBN,I-VP,O
 plotting,VBG,I-VP,O
 against,IN,I-PP,O
- ,O,O
+',',O,O
 strategic,JJ,I-NP,O
 institutions,NNS,I-NP,O
 and,CC,O,O
 prominent,JJ,I-NP,O
 individuals,NNS,I-NP,O
- ,O,O
+',',O,O
 but,CC,O,O
 gave,VBD,I-VP,O
 no,DT,I-NP,O
@@ -22836,7 +22837,7 @@ on,IN,I-PP,O
 Friday,NNP,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 Go,VB,I-VP,O
 home,NN,I-ADVP,O
 .,.,O,O
@@ -22847,7 +22848,7 @@ no,DT,I-NP,O
 prayers,NNS,I-NP,O
 today,NN,B-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 an,DT,I-NP,O
 Israeli,JJ,I-NP,I-MISC
 soldier,NN,I-NP,O
@@ -23006,7 +23007,7 @@ turned,VBN,I-VP,O
 back,RB,I-PRT,O
 .,.,O,O
 
- ,O,O
+',',O,O
 I,PRP,I-NP,O
 am,VBP,I-VP,O
 heeding,VBG,B-VP,O
@@ -23038,7 +23039,7 @@ come,VB,I-VP,O
 and,CC,I-VP,O
 pray,VB,I-VP,O
 ",",",",O,O
- ,O,O
+',',O,O
 Jamil,NNP,I-NP,I-PER
 said,VBD,I-VP,O
 .,.,O,O
@@ -23065,7 +23066,7 @@ enter,VB,I-VP,O
 Jerusalem,NNP,I-NP,I-LOC
 .,.,O,O
 
- ,O,O
+',',O,O
 We,PRP,I-NP,O
 have,VBP,I-VP,O
 a,DT,I-NP,O
@@ -23087,7 +23088,7 @@ come,VB,I-VP,O
 to,TO,I-PP,O
 Jordan,NNP,I-NP,I-LOC
 ",",",",O,O
- ,O,O
+',',O,O
 said,VBD,I-VP,O
 the,DT,I-NP,O
 tourist,NN,I-NP,O
@@ -23097,7 +23098,7 @@ Hijazi,NNP,I-NP,I-PER
 ",",",",O,O
 37,CD,I-NP,O
 .,.,O,O
- ,O,O
+',',O,O
 
 I,PRP,I-NP,O
 feel,VB,I-VP,O
@@ -23111,7 +23112,7 @@ to,TO,I-VP,O
 see,VB,I-VP,O
 Jerusalem,NNP,I-NP,I-LOC
 ",",",",O,O
- ,O,O
+',',O,O
 he,PRP,I-NP,O
 said,VBD,I-VP,O
 .,.,O,O
@@ -23133,7 +23134,7 @@ security,NN,I-NP,O
 forces,NNS,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 The,DT,I-NP,O
 Israelis,NNPS,I-NP,I-MISC
 have,VBP,I-VP,O
@@ -23163,7 +23164,7 @@ our,PRP$,I-NP,O
 holy,JJ,I-NP,O
 places,NNS,I-NP,O
 ?,.,O,O
- ,O,O
+',',O,O
 
 asked,VBD,I-VP,O
 Mustafa,NNP,I-NP,I-PER
@@ -23186,7 +23187,7 @@ back,JJ,I-NP,O
 road,NN,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 Abu,NNP,I-NP,I-PER
 Ammar,NNP,I-NP,I-PER
 (,(,O,O
@@ -23217,7 +23218,7 @@ nothing,NN,I-NP,O
 has,VBZ,I-VP,O
 changed,VBN,I-VP,O
 ",",",",O,O
- ,O,O
+',',O,O
 said,VBD,I-VP,O
 20-year-old,JJ,I-NP,O
 Ali,NNP,I-NP,I-PER
@@ -23606,7 +23607,7 @@ in,IN,I-PP,O
 June,NNP,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 In,IN,I-PP,O
 July,NNP,I-NP,O
 ",",",",O,O
@@ -23630,7 +23631,7 @@ increase,NN,I-NP,O
 in,IN,I-PP,O
 employment,NN,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 Commerce,NNP,I-NP,I-ORG
 said,VBD,I-VP,O
 .,.,O,O
@@ -24212,7 +24213,7 @@ Wednesday,NNP,I-NP,O
 close,NN,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 Seven,CD,I-NP,O
 percent,NN,I-NP,O
 creates,VBZ,I-VP,O
@@ -24227,7 +24228,7 @@ money,NN,I-NP,O
 from,IN,I-PP,O
 equities,NNS,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 said,VBD,I-VP,O
 Ralph,NNP,I-NP,I-PER
 Bloch,NNP,I-NP,I-PER
@@ -24240,7 +24241,7 @@ Raymond,NNP,I-NP,I-PER
 James,NNP,I-NP,I-PER
 .,.,O,O
 
- ,O,O
+',',O,O
 We,PRP,I-NP,O
 could,MD,I-VP,O
 carry,VB,I-VP,O
@@ -24252,11 +24253,11 @@ in,IN,I-PP,O
 the,DT,I-NP,O
 Dow,NNP,I-NP,I-MISC
 ",",",",O,O
- ,O,O
+',',O,O
 he,PRP,I-NP,O
 said,VBD,I-VP,O
 .,.,O,O
- ,O,O
+',',O,O
 
 I,PRP,I-NP,O
 'm,VBP,I-VP,O
@@ -24281,7 +24282,7 @@ let,VB,I-VP,O
 be,VB,I-VP,O
 careful,JJ,I-ADJP,O
 .,.,O,O
- ,O,O
+',',O,O
 
 Wall,NNP,I-NP,I-LOC
 Street,NNP,I-NP,I-LOC
@@ -24310,7 +24311,7 @@ stock,NN,I-NP,O
 prices,NNS,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 We,PRP,I-NP,O
 had,VBD,I-VP,O
 two,CD,I-NP,O
@@ -24319,7 +24320,7 @@ strong,JJ,I-NP,O
 economic,JJ,I-NP,O
 reports,NNS,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 said,VBD,I-VP,O
 David,NNP,I-NP,I-PER
 Shulman,NNP,I-NP,I-PER
@@ -24333,7 +24334,7 @@ chief,JJ,I-NP,O
 equity,NN,I-NP,O
 strategist,NN,I-NP,O
 .,.,O,O
- ,O,O
+',',O,O
 
 There,EX,I-NP,O
 are,VBP,I-VP,O
@@ -24363,7 +24364,7 @@ end,NN,I-NP,O
 of,IN,I-PP,O
 July,NNP,I-NP,O
 .,.,I-NP,O
- ,O,O
+',',O,O
 
 The,DT,I-NP,O
 Commerce,NNP,I-NP,I-ORG
@@ -24944,7 +24945,7 @@ and,CC,I-NP,O
 Malaysia,NNP,I-NP,I-LOC
 .,.,O,O
 
- ,O,O
+',',O,O
 This,DT,I-NP,O
 is,VBZ,I-VP,O
 really,RB,I-ADVP,O
@@ -24976,7 +24977,7 @@ industrial,JJ,I-NP,O
 Italian,JJ,I-NP,I-MISC
 companies,NNS,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 said,VBD,I-VP,O
 analyst,NN,I-NP,O
 Paula,NNP,B-NP,I-PER
@@ -25141,7 +25142,7 @@ distribution,NN,I-NP,O
 networks,NNS,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 The,DT,I-NP,O
 starting,JJ,I-NP,O
 of,IN,I-PP,O
@@ -25169,7 +25170,7 @@ presence,NN,I-NP,O
 in,IN,I-PP,O
 Asia,NNP,I-NP,I-LOC
 ",",",",O,O
- ,O,O
+',',O,O
 said,VBD,I-VP,O
 Pirelli,NNP,I-NP,I-ORG
 SpA,NNP,I-NP,I-ORG
@@ -25354,7 +25355,7 @@ trading,NN,I-NP,O
 system,NN,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 It,PRP,I-NP,O
 's,VBZ,I-VP,O
 not,RB,O,O
@@ -25380,7 +25381,7 @@ the,DT,I-NP,O
 actual,JJ,I-NP,O
 start,NN,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 EOE,NNP,I-NP,I-ORG
 spokesman,NN,I-NP,O
 Lex,NNP,I-NP,I-PER
@@ -25564,7 +25565,7 @@ Russian,JJ,I-NP,I-MISC
 problem,NN,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 The,DT,I-NP,O
 OSCE,RB,I-NP,I-ORG
 is,VBZ,I-VP,O
@@ -25586,7 +25587,7 @@ limited,VBN,I-VP,O
 powers,NNS,I-NP,O
 there,RB,I-ADVP,O
 ",",",",O,O
- ,O,O
+',',O,O
 said,VBD,I-VP,O
 Cotti,NNP,I-NP,O
 ",",",",O,O
@@ -25598,7 +25599,7 @@ Swiss,JJ,I-NP,I-MISC
 foreign,JJ,I-NP,O
 minister,NN,I-NP,O
 .,.,O,O
- ,O,O
+',',O,O
 
 Our,PRP$,I-NP,O
 mission,NN,I-NP,O
@@ -25614,7 +25615,7 @@ the,DT,I-NP,O
 given,VBN,I-NP,O
 limitations,NNS,I-NP,O
 .,.,O,O
- ,O,O
+',',O,O
 
 Pro-Moscow,JJ,I-NP,I-MISC
 leaders,NNS,I-NP,O
@@ -25707,7 +25708,7 @@ Russia,NNP,I-NP,I-LOC
 borders,NNS,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 There,EX,I-NP,O
 is,VBZ,I-VP,O
 no,DT,I-NP,O
@@ -25727,7 +25728,7 @@ state,NN,I-NP,O
 called,VBN,I-VP,O
 Russia,NNP,I-NP,I-LOC
 ",",",",O,O
- ,O,O
+',',O,O
 he,PRP,I-NP,O
 said,VBD,I-VP,O
 ",",",",O,O
@@ -25793,13 +25794,13 @@ the,DT,I-NP,O
 conflict,NN,I-NP,O
 was,VBD,I-VP,O
 a,DT,I-NP,O
- ,O,O
+',',O,O
 internal,JJ,I-NP,O
 issue,NN,I-NP,O
- ,O,O
+',',O,O
 .,.,O,O
 
- ,O,O
+',',O,O
 We,PRP,I-NP,O
 have,VBP,I-VP,O
 a,DT,I-NP,O
@@ -25833,7 +25834,7 @@ of,IN,I-PP,O
 Russian,JJ,I-NP,I-MISC
 integrity,NN,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 said,VBD,I-VP,O
 Cotti,NNP,I-NP,I-PER
 .,.,O,O
@@ -26159,7 +26160,7 @@ over,RB,I-NP,O
 lives,NNS,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 The,DT,I-NP,O
 main,JJ,I-NP,O
 subject,NN,I-NP,O
@@ -26178,7 +26179,7 @@ solution,NN,I-NP,O
 for,IN,I-PP,O
 Nagorno-Karabakh,NNP,I-NP,I-LOC
 ",",",",O,O
- ,O,O
+',',O,O
 the,DT,I-NP,O
 source,NN,I-NP,O
 said,VBD,I-VP,O
@@ -26406,7 +26407,7 @@ on,IN,I-PP,O
 board,NN,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 It,PRP,I-NP,O
 's,VBZ,I-VP,O
 a,DT,I-NP,O
@@ -26428,7 +26429,7 @@ of,IN,I-PP,O
 my,PRP$,I-NP,O
 life,NN,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 said,VBD,I-VP,O
 Stig,NNP,I-NP,I-PER
 Onarheim,NNP,I-NP,I-PER
@@ -26486,7 +26487,7 @@ of,IN,I-PP,O
 Longyear,NNP,I-NP,I-LOC
 .,.,O,O
 
- ,O,O
+',',O,O
 Imagine,VB,I-VP,O
 a,DT,I-NP,O
 big,JJ,I-NP,O
@@ -26518,7 +26519,7 @@ on,IN,I-PP,O
 the,DT,I-NP,O
 slope,NN,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 Onarheim,NNP,I-NP,I-LOC
 ",",",",O,O
 29,CD,I-NP,O
@@ -26598,7 +26599,7 @@ loss,NN,I-NP,O
 keenly,RB,I-ADJP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 I,PRP,I-NP,O
 have,VBP,I-VP,O
 trouble,NN,I-NP,O
@@ -26640,7 +26641,7 @@ on,IN,I-PP,O
 the,DT,I-NP,O
 plane,NN,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 said,VBD,I-VP,O
 Johan,NNP,I-NP,I-PER
 Sletten,NNP,I-NP,I-PER
@@ -26695,7 +26696,7 @@ was,VBD,I-VP,O
 blunter,NN,I-VP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 I,PRP,I-NP,O
 'm,VBP,I-VP,O
 glad,JJ,I-ADJP,O
@@ -26706,11 +26707,11 @@ a,DT,I-NP,O
 Norwegian,JJ,I-NP,I-MISC
 plane,NN,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 she,PRP,I-NP,O
 said,VBD,I-VP,O
 .,.,O,O
- ,O,O
+',',O,O
 
 Just,RB,I-ADVP,O
 think,VB,I-VP,O
@@ -26738,7 +26739,7 @@ of,IN,I-PP,O
 it,PRP,I-NP,O
 now,RB,I-ADVP,O
 .,.,O,O
- ,O,O
+',',O,O
 
 Barentsburg,NNP,I-NP,I-LOC
 ",",",",O,O
@@ -27157,10 +27158,10 @@ the,DT,I-NP,O
 territory,NN,I-NP,O
 had,VBD,I-VP,O
 the,DT,I-NP,O
- ,O,O
+',',O,O
 infrastructural,JJ,I-NP,O
 hardware,NN,I-NP,O
- ,O,O
+',',O,O
 to,TO,I-VP,O
 make,VB,I-VP,O
 a,DT,I-NP,O
@@ -27175,7 +27176,7 @@ from,IN,I-PP,O
 mid-1997,NN,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 We,PRP,I-NP,O
 have,VBP,I-VP,O
 the,DT,I-NP,O
@@ -27214,7 +27215,7 @@ an,DT,I-NP,O
 enormous,JJ,I-NP,O
 scale,NN,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 Tsang,NNP,I-NP,I-PER
 said,VBD,I-VP,O
 in,IN,I-PP,O
@@ -27236,10 +27237,10 @@ also,RB,I-ADVP,O
 had,VBD,I-VP,O
 the,DT,I-NP,O
 necessary,JJ,I-NP,O
- ,O,O
+',',O,O
 constitutional,JJ,I-NP,O
 infrastructure,NN,I-NP,O
- ,O,O
+',',O,O
 in,IN,I-PP,O
 place,NN,I-NP,O
 ",",",",O,O
@@ -27261,7 +27262,7 @@ to,TO,I-PP,O
 China,NNP,I-NP,I-LOC
 .,.,O,O
 
- ,O,O
+',',O,O
 What,WP,I-NP,O
 this,DT,B-NP,O
 means,VBZ,I-VP,O
@@ -27297,7 +27298,7 @@ enormous,JJ,I-NP,O
 financial,JJ,I-NP,O
 reserves,NNS,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 Tsang,NNP,I-NP,I-PER
 said,VBD,I-VP,O
 .,.,O,O
@@ -27328,7 +27329,7 @@ next,JJ,I-NP,O
 nine,CD,I-NP,O
 months,NNS,I-NP,O
 .,.,O,O
- ,O,O
+',',O,O
 
 But,CC,O,O
 for,IN,I-PP,O
@@ -27352,7 +27353,7 @@ is,VBZ,I-VP,O
 our,PRP$,I-NP,O
 future,NN,I-NP,O
 .,.,O,O
- ,O,O
+',',O,O
 
 --,:,I-NP,O
 Wellington,NNP,I-NP,I-LOC
@@ -28407,7 +28408,7 @@ David,NNP,I-NP,I-PER
 Peleg,NNP,I-NP,I-PER
 .,.,O,O
 
- ,O,O
+',',O,O
 The,DT,I-NP,O
 members,NNS,I-NP,O
 expressed,VBD,I-VP,O
@@ -28438,7 +28439,7 @@ on,IN,I-PP,O
 the,DT,I-NP,O
 negotiations,NNS,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 Eitel,NNP,I-NP,I-PER
 said,VBD,I-VP,O
 after,IN,I-PP,O
@@ -28448,7 +28449,7 @@ council,NN,I-NP,O
 session,NN,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 They,PRP,I-NP,O
 asked,VBD,I-VP,O
 me,PRP,I-NP,O
@@ -28466,7 +28467,7 @@ matter,NN,I-NP,O
 with,IN,I-PP,O
 him,PRP,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 he,PRP,I-NP,O
 added,VBD,I-VP,O
 .,.,O,O
@@ -28490,7 +28491,7 @@ effort,NN,I-NP,O
 by,IN,I-PP,O
 Israel,NNP,I-NP,I-LOC
 to,TO,I-VP,O
- ,O,O
+',',O,O
 alter,VB,I-VP,O
 the,DT,I-NP,O
 character,NN,I-NP,O
@@ -28505,7 +28506,7 @@ Holy,NNP,I-NP,I-LOC
 City,NNP,I-NP,I-LOC
 of,IN,I-PP,I-LOC
 Jerusalem,NNP,I-NP,I-LOC
- ,O,O
+',',O,O
 and,CC,O,O
 violated,VBD,I-VP,O
 agreements,NNS,I-NP,O
@@ -28518,7 +28519,7 @@ Liberation,NNP,I-NP,I-ORG
 Organisation,NNP,I-NP,I-ORG
 .,.,O,O
 
- ,O,O
+',',O,O
 This,DT,I-NP,O
 most,RBS,I-NP,O
 recent,JJ,I-NP,O
@@ -28549,9 +28550,9 @@ the,DT,I-NP,O
 Old,NNP,I-NP,I-LOC
 City,NNP,I-NP,I-LOC
 .,.,I-NP,O
- ,O,O
+',',O,O
 
- ,O,O
+',',O,O
 We,PRP,I-NP,O
 expect,VBP,I-VP,O
 the,DT,I-NP,O
@@ -28585,7 +28586,7 @@ and,CC,O,O
 illegal,JJ,I-NP,O
 practices,NNS,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 he,PRP,I-NP,O
 said,VBD,I-VP,O
 .,.,O,O
@@ -31042,7 +31043,7 @@ streak,NN,I-NP,O
 stopped,VBD,I-VP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 It,PRP,I-NP,O
 's,VBZ,I-VP,O
 not,RB,O,O
@@ -31055,7 +31056,7 @@ try,VB,I-VP,O
 to,TO,I-VP,O
 explain,VB,I-VP,O
 ",",",",O,O
- ,O,O
+',',O,O
 said,VBD,I-VP,O
 Texas,NNP,I-NP,I-LOC
 manager,NN,I-NP,O
@@ -31076,7 +31077,7 @@ this,DT,B-NP,O
 season,NN,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 We,PRP,I-NP,O
 've,VBP,I-VP,O
 got,VBD,I-VP,O
@@ -31103,7 +31104,7 @@ in,IN,I-PP,O
 the,DT,I-NP,O
 post-season,NN,I-NP,O
 .,.,O,O
- ,O,O
+',',O,O
 
 Roger,NNP,I-NP,I-PER
 Pavlik,NNP,I-NP,I-PER
@@ -31977,7 +31978,7 @@ for,IN,I-PP,O
 years,NNS,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 We,PRP,I-NP,O
 took,VBD,I-VP,O
 three,CD,I-NP,O
@@ -32008,7 +32009,7 @@ us,PRP,I-NP,O
 the,DT,B-NP,O
 championship,NN,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 he,PRP,I-NP,O
 said,VBD,I-VP,O
 .,.,O,O
@@ -35502,7 +35503,7 @@ Nations,NNP,I-NP,I-MISC
 Cup,NN,I-NP,I-MISC
 .,.,O,O
 
- ,O,O
+',',O,O
 Since,IN,I-PP,O
 Mauritania,NNP,I-NP,I-LOC
 has,VBZ,I-VP,O
@@ -35530,7 +35531,7 @@ take,VB,I-VP,O
 a,DT,I-NP,O
 break,NN,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 federation,NN,I-NP,O
 president,NN,I-NP,O
 Mohamed,NNP,I-NP,I-PER
@@ -36719,13 +36720,13 @@ at,IN,I-PP,O
 the,DT,I-NP,O
 Pakistani,JJ,I-NP,I-MISC
 :,:,O,O
- ,O,O
+',',O,O
 You,PRP,I-NP,O
 cheat,VB,I-VP,O
 .,.,O,O
- ,O,O
+',',O,O
 
- ,O,O
+',',O,O
 He,PRP,I-NP,O
 was,VBD,I-VP,O
 standing,VBG,I-VP,O
@@ -36744,7 +36745,7 @@ him,PRP,I-NP,O
 a,DT,B-NP,O
 cheat,VB,I-VP,O
 ",",",",O,O
- ,O,O
+',',O,O
 said,VBD,I-VP,O
 Hill,NNP,I-NP,I-PER
 ",",",",O,O
@@ -36763,7 +36764,7 @@ unacceptable,JJ,I-NP,O
 behaviour,NN,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 He,PRP,I-NP,O
 knew,VBD,I-VP,O
 it,PRP,I-NP,O
@@ -36779,7 +36780,7 @@ because,IN,I-PP,O
 of,IN,B-PP,O
 that,DT,I-NP,O
 .,.,O,O
- ,O,O
+',',O,O
 
 Hill,NNP,I-NP,I-PER
 won,VBD,I-VP,O
@@ -36832,7 +36833,7 @@ succumbed,VBD,I-VP,O
 15-8,CD,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 I,PRP,I-NP,O
 changed,VBD,I-VP,O
 my,PRP$,I-NP,O
@@ -36845,7 +36846,7 @@ had,VBD,I-VP,O
 him,PRP,I-NP,O
 rattled,VBD,I-VP,O
 ",",",",O,O
- ,O,O
+',',O,O
 he,PRP,I-NP,O
 added,VBD,I-VP,O
 .,.,O,O
@@ -36896,7 +36897,7 @@ that,DT,I-NP,O
 's,VBZ,I-VP,O
 Jansher,NNP,I-NP,O
 .,.,I-NP,O
- ,O,O
+',',O,O
 
 Jansher,NNP,I-NP,I-PER
 said,VBD,I-VP,O
@@ -36910,7 +36911,7 @@ called,VBN,I-VP,O
 a,DT,I-NP,O
 cheat,VB,I-VP,O
 .,.,O,O
- ,O,O
+',',O,O
 
 What,WP,I-NP,O
 he,PRP,B-NP,O
@@ -36931,7 +36932,7 @@ the,DT,I-NP,O
 sponsors,NNS,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 We,PRP,I-NP,O
 are,VBP,I-VP,O
 trying,VBG,I-VP,O
@@ -36951,7 +36952,7 @@ like,IN,I-PP,O
 that,DT,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 I,PRP,I-NP,O
 think,VBP,I-VP,O
 the,DT,I-NP,O
@@ -36987,7 +36988,7 @@ take,VB,I-VP,O
 some,DT,I-NP,O
 action,NN,I-NP,O
 .,.,O,O
- ,O,O
+',',O,O
 
 Jansher,RB,I-ADVP,I-PER
 ",",",",O,O
@@ -37061,7 +37062,7 @@ the,DT,I-NP,O
 game,NN,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 I,PRP,I-NP,O
 have,VBP,I-VP,O
 nothing,NN,I-NP,O
@@ -37078,11 +37079,11 @@ could,MD,I-VP,O
 beat,VB,I-VP,O
 him,PRP,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 said,VBD,I-VP,O
 Eyles,NNPS,I-NP,I-PER
 .,.,O,O
- ,O,O
+',',O,O
 
 My,PRP$,I-NP,O
 biggest,JJS,I-NP,O
@@ -37108,7 +37109,7 @@ get,VB,I-VP,O
 it,PRP,I-NP,O
 together,RB,I-ADVP,O
 .,.,O,O
- ,O,O
+',',O,O
 
 -DOCSTART-,-X-,-X-,O
 
@@ -37468,7 +37469,7 @@ and,CC,I-NP,O
 holes,NNS,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 I,PRP,I-NP,O
 ca,MD,I-VP,O
 n't,RB,I-VP,O
@@ -37480,11 +37481,11 @@ putted,VBN,I-VP,O
 this,DT,I-NP,O
 well,NN,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 said,VBD,I-VP,O
 Parnevik,NNP,I-NP,I-PER
 .,.,I-NP,O
- ,O,O
+',',O,O
 
 I,PRP,I-NP,O
 was,VBD,I-VP,O
@@ -37498,7 +37499,7 @@ go,VB,I-VP,O
 in,RP,I-PRT,O
 .,.,O,O
 
- ,O,O
+',',O,O
 My,PRP$,I-NP,O
 game,NN,I-NP,O
 feels,VBZ,I-VP,O
@@ -37540,7 +37541,7 @@ be,VB,I-VP,O
 even,RB,I-ADJP,O
 par,JJ,I-ADJP,O
 .,.,O,O
- ,O,O
+',',O,O
 
 Henke,NN,I-NP,I-PER
 had,VBD,I-VP,O
@@ -37573,7 +37574,7 @@ the,DT,I-NP,O
 hole,NN,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 I,PRP,I-NP,O
 did,VBD,I-VP,O
 n't,RB,I-VP,O
@@ -37583,11 +37584,11 @@ very,RB,I-ADVP,O
 well,RB,I-ADVP,O
 today,NN,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 said,VBD,I-VP,O
 Henke,NNP,I-NP,I-PER
 .,.,I-NP,O
- ,O,O
+',',O,O
 
 Jasper,NNP,I-NP,I-PER
 blew,VBD,I-VP,O
@@ -37633,7 +37634,7 @@ yesterday,NN,I-NP,O
 afternoon,NN,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 Right,RB,I-ADVP,O
 now,RB,I-ADVP,O
 ",",",",O,O
@@ -37648,7 +37649,7 @@ what,WP,I-NP,O
 's,VBZ,I-VP,O
 wrong,JJ,I-ADJP,O
 .,.,O,O
- ,O,O
+',',O,O
 
 Bob,NNP,I-NP,I-PER
 Estes,NNP,I-NP,I-PER
@@ -37900,7 +37901,7 @@ Atlantic,NNP,I-NP,I-LOC
 City,NNP,I-NP,I-LOC
 .,.,O,O
 
- ,O,O
+',',O,O
 Last,JJ,I-NP,O
 year,NN,I-NP,O
 we,PRP,B-NP,O
@@ -37929,7 +37930,7 @@ back,RP,I-PRT,O
 the,DT,I-NP,O
 Cup,NNP,I-NP,I-MISC
 ",",",",O,O
- ,O,O
+',',O,O
 U.S.,NNP,I-NP,I-LOC
 captain,NN,I-NP,O
 Billie,NNP,B-NP,I-PER
@@ -37940,7 +37941,7 @@ at,IN,I-PP,O
 the,DT,I-NP,O
 draw,NN,I-NP,O
 .,.,O,O
- ,O,O
+',',O,O
 
 That,DT,I-NP,O
 is,VBZ,I-VP,O
@@ -37948,7 +37949,7 @@ our,PRP$,I-NP,O
 sole,JJ,I-NP,O
 goal,NN,I-NP,O
 .,.,O,O
- ,O,O
+',',O,O
 
 The,DT,I-NP,O
 United,NNP,I-NP,I-LOC
@@ -38025,7 +38026,7 @@ team,NN,I-NP,O
 again,RB,I-ADVP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 I,PRP,I-NP,O
 told,VBD,I-VP,O
 Monica,NNP,I-NP,I-PER
@@ -38038,7 +38039,7 @@ want,VBP,I-VP,O
 to,TO,I-VP,O
 win,VB,I-VP,O
 ",",",",O,O
- ,O,O
+',',O,O
 King,NNP,I-NP,I-PER
 said,VBD,I-VP,O
 .,.,O,O
@@ -38089,7 +38090,7 @@ U.S.,NNP,I-NP,I-MISC
 Open,NNP,I-NP,I-MISC
 .,.,O,O
 
- ,O,O
+',',O,O
 We,PRP,I-NP,O
 will,MD,I-VP,O
 wait,VB,I-VP,O
@@ -38106,11 +38107,11 @@ and,CC,O,O
 their,PRP$,I-NP,O
 injuries,NNS,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 said,VBD,I-VP,O
 King,NNP,I-NP,I-PER
 .,.,I-NP,O
- ,O,O
+',',O,O
 
 What,WP,I-NP,O
 we,PRP,B-NP,O
@@ -38130,7 +38131,7 @@ Mary,NNP,I-NP,I-PER
 Joe,NNP,I-NP,I-PER
 Fernandez,NNP,I-NP,I-PER
 .,.,I-NP,O
- ,O,O
+',',O,O
 
 If,IN,I-SBAR,O
 she,PRP,I-NP,O
@@ -38162,7 +38163,7 @@ Conchita,NNP,I-NP,I-PER
 Martinez,NNP,I-NP,I-PER
 .,.,O,O
 
- ,O,O
+',',O,O
 To,TO,I-VP,O
 be,VB,I-VP,O
 a,DT,I-NP,O
@@ -38182,7 +38183,7 @@ the,DT,I-NP,O
 right,JJ,I-NP,O
 horses,NNS,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 said,VBD,I-VP,O
 King,NNP,I-NP,I-PER
 .,.,O,O
@@ -39079,7 +39080,7 @@ this,DT,B-NP,O
 season,NN,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 Bolesy,NNP,I-NP,I-PER
 (,(,O,O
 Florida,NNP,I-NP,I-ORG
@@ -39100,12 +39101,12 @@ nine,CD,I-NP,O
 tomorrow,NN,B-NP,O
 ",",",",O,O
 ','',O,O
- ,O,O
+',',O,O
 Brown,NNP,I-NP,I-PER
 said,VBD,I-VP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 In,IN,I-PP,O
 the,DT,I-NP,O
 early,JJ,I-NP,O
@@ -39178,23 +39179,23 @@ the,DT,I-NP,O
 later,JJ,I-NP,O
 innings,NN,I-NP,O
 .,.,O,O
- ,O,O
+',',O,O
 
- ,O,O
+',',O,O
 He,PRP,I-NP,O
 has,VBZ,I-VP,O
 a,DT,I-NP,O
 devastating,VBG,I-NP,O
 sinker,NN,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 observed,VBD,I-VP,O
 Reds,NNP,I-NP,I-ORG
 manager,NN,I-NP,O
 Ray,NNP,I-NP,I-PER
 Knight,NNP,I-NP,I-PER
 .,.,I-NP,O
- ,O,O
+',',O,O
 
 The,DT,I-NP,O
 guys,NNS,I-NP,O
@@ -39250,7 +39251,7 @@ they,PRP,I-NP,O
 were,VBD,I-VP,O
 starting,VBG,I-VP,O
 .,.,O,O
- ,O,O
+',',O,O
 
 In,IN,I-PP,O
 Philadelphia,NNP,I-NP,I-LOC
@@ -40074,7 +40075,7 @@ Tennis,NNP,I-NP,I-LOC
 Centre,NNP,I-NP,I-LOC
 .,.,O,O
 
- ,O,O
+',',O,O
 A,DT,I-NP,O
 win,VBP,I-VP,O
 is,VBZ,B-VP,O
@@ -40087,7 +40088,7 @@ I,PRP,I-NP,O
 take,VB,I-VP,O
 it,PRP,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 Edberg,NNP,I-NP,I-PER
 ",",",",O,O
 who,WP,I-NP,O
@@ -40169,7 +40170,7 @@ go,VB,I-VP,O
 on,IN,I-PP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 I,PRP,I-NP,O
 knew,VBD,I-VP,O
 he,PRP,I-NP,O
@@ -40178,11 +40179,11 @@ problems,NNS,I-NP,O
 with,IN,I-PP,O
 something,NN,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 Edberg,NNP,I-NP,I-PER
 said,VBD,I-VP,O
 .,.,O,O
- ,O,O
+',',O,O
 
 I,PRP,I-NP,O
 really,RB,I-ADVP,O
@@ -40190,7 +40191,7 @@ was,VBD,I-VP,O
 n't,RB,I-VP,O
 surprised,VBN,I-VP,O
 .,.,O,O
- ,O,O
+',',O,O
 
 Edberg,NNP,I-NP,I-PER
 had,VBD,I-VP,O
@@ -40225,7 +40226,7 @@ past,RB,I-ADJP,O
 him,PRP,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 I,PRP,I-NP,O
 did,VBD,I-VP,O
 n't,RB,I-VP,O
@@ -40250,7 +40251,7 @@ seeing,VBG,I-VP,O
 the,DT,I-NP,O
 ball,NN,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 said,VBD,I-VP,O
 Edberg,NNP,I-NP,I-PER
 ",",",",O,O
@@ -40268,7 +40269,7 @@ first,JJ,I-NP,O
 round,NN,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 This,DT,I-NP,O
 was,VBD,I-VP,O
 one,CD,I-NP,O
@@ -40292,7 +40293,7 @@ to,TO,I-VP,O
 fight,VB,I-VP,O
 hard,RB,I-ADVP,O
 .,.,O,O
- ,O,O
+',',O,O
 
 Edberg,NNP,I-NP,I-PER
 's,POS,B-NP,O
@@ -40331,7 +40332,7 @@ the,DT,I-NP,O
 set,NN,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 That,DT,I-NP,O
 's,VBZ,I-VP,O
 where,WRB,I-ADVP,O
@@ -40341,11 +40342,11 @@ sort,NN,I-NP,O
 of,IN,I-PP,O
 changed,VBN,I-NP,O
 ",",",",I-NP,O
- ,O,O
+',',O,O
 said,VBD,I-VP,O
 Edberg,NNP,I-NP,I-PER
 .,.,I-NP,O
- ,O,O
+',',O,O
 
 I,PRP,I-NP,O
 think,VBP,I-VP,O
@@ -40365,7 +40366,7 @@ about,IN,I-PP,O
 my,PRP$,I-NP,O
 game,NN,I-NP,O
 .,.,O,O
- ,O,O
+',',O,O
 
 Edberg,NN,I-NP,I-PER
 is,VBZ,I-VP,O
@@ -40384,7 +40385,7 @@ lot,NN,I-NP,O
 longer,RB,I-ADJP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 It,PRP,I-NP,O
 does,VBZ,I-VP,O
 n't,RB,I-VP,O
@@ -40393,7 +40394,7 @@ all,RB,I-ADVP,O
 that,IN,I-SBAR,O
 bad,JJ,I-ADJP,O
 ",",",",O,O
- ,O,O
+',',O,O
 Edberg,NNP,I-NP,I-PER
 said,VBD,I-VP,O
 of,IN,I-PP,O
@@ -40439,18 +40440,18 @@ week,NN,I-NP,O
 final,JJ,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 I,PRP,I-NP,O
 'm,VBP,I-VP,O
 always,RB,I-VP,O
 being,VBG,I-VP,O
 realistic,JJ,I-ADJP,O
 ",",",",O,O
- ,O,O
+',',O,O
 said,VBD,I-VP,O
 Edberg,NNP,I-NP,I-PER
 .,.,I-NP,O
- ,O,O
+',',O,O
 
 Like,IN,I-PP,O
 I,PRP,I-NP,O
@@ -40488,7 +40489,7 @@ long,JJ,I-NP,O
 way,NN,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 A,DT,I-NP,O
 lot,NN,I-NP,O
 of,IN,I-PP,O
@@ -40499,7 +40500,7 @@ happen,VB,I-VP,O
 like,IN,I-PP,O
 tonight,NN,I-NP,O
 .,.,O,O
- ,O,O
+',',O,O
 
 -DOCSTART-,-X-,-X-,O
 
@@ -40738,13 +40739,13 @@ referee,NN,I-NP,O
 decision,NN,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 The,DT,I-NP,O
 result,NN,I-NP,O
 is,VBZ,I-VP,O
 acceptable,JJ,I-ADJP,O
 ",",",",O,O
- ,O,O
+',',O,O
 Scottish,NNP,I-NP,I-MISC
 coach,NN,I-NP,O
 Craig,NNP,I-NP,I-PER
@@ -40752,7 +40753,7 @@ Brown,NNP,I-NP,I-PER
 told,VBD,I-VP,O
 reporters,NNS,I-NP,O
 .,.,O,O
- ,O,O
+',',O,O
 
 We,PRP,I-NP,O
 'd,MD,I-VP,O
@@ -40778,7 +40779,7 @@ simply,RB,I-ADVP,O
 too,RB,I-ADJP,O
 good,JJ,I-ADJP,O
 .,.,O,O
- ,O,O
+',',O,O
 
 SK,NNP,I-NP,I-ORG
 Rapid,NNP,I-NP,I-ORG
@@ -40810,7 +40811,7 @@ first,JJ,I-NP,O
 minutes,NNS,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 Somehow,RB,I-ADVP,O
 it,PRP,I-NP,O
 seemed,VBD,I-VP,O
@@ -40846,7 +40847,7 @@ should,MD,I-VP,O
 have,VB,I-VP,O
 won,VBN,I-VP,O
 ",",",",O,O
- ,O,O
+',',O,O
 he,PRP,I-NP,O
 said,VBD,I-VP,O
 .,.,O,O
@@ -41267,7 +41268,7 @@ finals,NNS,I-NP,O
 ",",",",O,O
 said,VBD,I-VP,O
 :,:,O,O
- ,O,O
+',',O,O
 We,PRP,I-NP,O
 have,VBP,I-VP,O
 an,DT,I-NP,O
@@ -41285,7 +41286,7 @@ to,TO,I-VP,O
 work,VB,I-VP,O
 on,RB,I-PRT,O
 .,.,O,O
- ,O,O
+',',O,O
 
 Teams,NNS,I-NP,O
 :,:,O,O
@@ -42102,7 +42103,7 @@ and,CC,I-ADJP,O
 fast,RB,I-ADVP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 We,PRP,I-NP,O
 started,VBD,I-VP,O
 panicking,VBG,I-VP,O
@@ -42117,7 +42118,7 @@ goal,NN,I-NP,O
 we,PRP,I-NP,O
 suffered,VBD,I-VP,O
 ",",",",O,O
- ,O,O
+',',O,O
 said,VBD,I-VP,O
 Van,NNP,I-NP,I-PER
 Moer,NNP,I-NP,I-PER
@@ -42763,7 +42764,7 @@ in,IN,I-PP,O
 France,NNP,I-NP,I-LOC
 .,.,O,O
 
- ,O,O
+',',O,O
 For,IN,I-PP,O
 myself,PRP,I-NP,O
 ",",",",O,O
@@ -42783,7 +42784,7 @@ end,NN,I-NP,O
 of,IN,I-PP,O
 me,PRP,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 the,DT,I-NP,O
 32-year-old,JJ,I-NP,O
 national,JJ,I-NP,O
@@ -42828,7 +42829,7 @@ this,DT,B-NP,O
 summer,NN,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 I,PRP,I-NP,O
 think,VBP,I-VP,O
 it,PRP,I-NP,O
@@ -42836,11 +42837,11 @@ can,MD,I-VP,O
 be,VB,I-VP,O
 done,VBN,I-VP,O
 ",",",",O,O
- ,O,O
+',',O,O
 he,PRP,I-NP,O
 said,VBD,I-VP,O
 ",",",",O,O
- ,O,O
+',',O,O
 especially,RB,I-ADVP,O
 as,IN,I-SBAR,O
 experience,NN,I-NP,O
@@ -42877,7 +42878,7 @@ all,DT,O,O
 aiming,VBG,I-VP,O
 for,IN,I-PP,O
 .,.,O,O
- ,O,O
+',',O,O
 
 Coach,NNP,I-NP,O
 Berti,NNP,I-NP,I-PER
@@ -43134,7 +43135,7 @@ the,DT,I-NP,O
 future,NN,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 Bernard,NNP,I-NP,I-PER
 Ingham,NNP,I-NP,I-PER
 told,VBD,I-VP,O
@@ -43155,7 +43156,7 @@ let,VB,I-VP,O
 him,PRP,I-NP,O
 know,VB,I-VP,O
 ",",",",O,O
- ,O,O
+',',O,O
 Orr,NNP,I-NP,I-PER
 said,VBD,I-VP,O
 .,.,O,O
@@ -43200,12 +43201,12 @@ he,PRP,B-NP,O
 thought,VBD,I-VP,O
 astrology,NN,I-NP,O
 was,VBD,I-VP,O
- ,O,O
+',',O,O
 a,DT,I-NP,O
 load,NN,I-NP,O
 of,IN,I-PP,O
 rubbish,NN,I-NP,O
- ,O,O
+',',O,O
 and,CC,O,O
 that,IN,I-SBAR,O
 he,PRP,I-NP,O
@@ -43228,10 +43229,10 @@ Thatcher,NNP,I-NP,I-PER
 ",",",",O,O
 dubbed,VBD,I-VP,O
 the,DT,I-NP,O
- ,O,O
+',',O,O
 Iron,NNP,I-NP,I-PER
 Lady,NNP,I-NP,I-PER
- ,O,O
+',',O,O
 for,IN,I-PP,O
 her,PRP$,I-NP,O
 driven,JJ,I-NP,O
@@ -43553,10 +43554,10 @@ Giuseppe,NNP,I-NP,I-PER
 Garibaldi,NNP,I-NP,I-PER
 leading,VBG,I-VP,O
 his,PRP$,I-NP,O
- ,O,O
+',',O,O
 Red,NNP,I-NP,I-MISC
 Shirts,NNP,I-NP,I-MISC
- ,O,O
+',',O,O
 seized,VBD,I-VP,O
 Naples,NNP,I-NP,I-LOC
 in,IN,I-PP,O
@@ -43634,16 +43635,16 @@ is,VBZ,I-VP,O
 best,JJS,I-VP,O
 known,VBN,I-VP,O
 for,IN,I-PP,O
- ,O,O
+',',O,O
 Viva,FW,I-VP,I-MISC
 Zapata,NNP,I-NP,I-MISC
- ,O,O
+',',O,O
 and,CC,O,O
- ,O,O
+',',O,O
 On,IN,I-PP,I-MISC
 the,DT,I-NP,I-MISC
 Waterfront,VBG,I-NP,I-MISC
- ,O,O
+',',O,O
 .,.,O,O
 
 1913,CD,I-NP,O
@@ -43671,18 +43672,18 @@ known,VBN,I-VP,O
 for,IN,I-PP,O
 appearances,NNS,I-NP,O
 in,IN,I-PP,O
- ,O,O
+',',O,O
 Ice,NN,I-NP,I-MISC
 Cold,NNP,I-NP,I-MISC
 in,IN,I-PP,I-MISC
 Alex,NNP,I-NP,I-MISC
- ,O,O
+',',O,O
 ",",",",O,O
- ,O,O
+',',O,O
 Lawrence,NNP,I-NP,I-MISC
 of,IN,I-PP,I-MISC
 Arabia,NNP,I-NP,I-MISC
- ,O,O
+',',O,O
 and,CC,O,O
 ",",",",O,O
 as,IN,I-SBAR,O
@@ -43690,13 +43691,13 @@ Cardinal,NNP,I-NP,O
 Wolsey,NNP,I-NP,I-PER
 ",",",",O,O
 in,IN,I-PP,O
- ,O,O
+',',O,O
 Anne,NNP,I-NP,I-MISC
 of,IN,I-PP,I-MISC
 a,DT,I-NP,I-MISC
 Thousand,NNP,I-NP,I-MISC
 Days,NNPS,I-NP,I-MISC
- ,O,O
+',',O,O
 .,.,O,O
 
 1914,CD,I-NP,O
@@ -43768,9 +43769,9 @@ Hermann,NNP,I-NP,I-PER
 Goering,NNP,I-NP,I-PER
 began,VBD,I-VP,O
 its,PRP$,I-NP,O
- ,O,O
+',',O,O
 Blitz,NNP,I-NP,I-MISC
- ,O,O
+',',O,O
 bombing,NN,I-NP,O
 campaign,NN,I-NP,O
 on,IN,I-PP,O
@@ -44084,7 +44085,7 @@ southern,JJ,I-NP,O
 coast,NN,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 A,DT,I-NP,O
 member,NN,I-NP,O
 of,IN,I-PP,O
@@ -44105,7 +44106,7 @@ headlines,NNS,I-NP,O
 about,IN,I-PP,O
 himself,PRP,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 a,DT,I-NP,O
 police,NN,I-NP,O
 spokesman,NN,I-NP,O
@@ -44443,7 +44444,7 @@ its,PRP$,I-NP,O
 allies,NNS,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 We,PRP,I-NP,O
 condemn,VBP,I-VP,O
 Iraqi,JJ,I-NP,I-MISC
@@ -44461,7 +44462,7 @@ seen,VBN,I-VP,O
 as,IN,I-PP,O
 helpful,JJ,I-ADJP,O
 ",",",",O,O
- ,O,O
+',',O,O
 said,VBD,I-VP,O
 a,DT,I-NP,O
 Foreign,NNP,I-NP,I-ORG
@@ -44551,7 +44552,7 @@ British,JJ,I-NP,I-MISC
 planes,NNS,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 We,PRP,I-NP,O
 are,VBP,I-VP,O
 in,IN,I-PP,O
@@ -44562,7 +44563,7 @@ all,PDT,I-NP,O
 our,PRP$,I-NP,O
 allies,NNS,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 said,VBD,I-VP,O
 the,DT,I-NP,O
 Foreign,NNP,I-NP,I-ORG
@@ -44878,7 +44879,7 @@ northern,JJ,I-NP,O
 Iraq,NNP,I-NP,I-LOC
 .,.,O,O
 
- ,O,O
+',',O,O
 At,IN,I-PP,O
 4.50,CD,I-NP,O
 a.m.,RB,I-NP,O
@@ -44900,7 +44901,7 @@ outskirts,NNS,I-NP,O
 of,IN,I-PP,O
 Arbil,NNP,I-NP,I-LOC
 ",",",",O,O
- ,O,O
+',',O,O
 the,DT,I-NP,O
 spokesman,NN,I-NP,O
 ",",",",O,O
@@ -45343,7 +45344,7 @@ government,NN,I-NP,O
 level,NN,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 Certain,JJ,I-NP,O
 powers,NNS,I-NP,O
 can,MD,I-VP,O
@@ -45358,12 +45359,12 @@ towards,IN,I-PP,O
 the,DT,I-NP,O
 sub-regions,NNS,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 he,PRP,I-NP,O
 said,VBD,I-VP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 We,PRP,I-NP,O
 think,VBP,I-VP,O
 that,IN,I-SBAR,O
@@ -45392,7 +45393,7 @@ in,IN,I-PP,O
 this,DT,I-NP,O
 regard,NN,I-NP,O
 .,.,O,O
- ,O,O
+',',O,O
 
 Viljoen,CD,I-NP,I-PER
 broke,VBD,I-VP,O
@@ -45608,10 +45609,10 @@ Refugees,NNS,I-NP,O
 to,TO,I-VP,O
 avoid,VB,I-VP,O
 any,DT,I-NP,O
- ,O,O
+',',O,O
 policing,VBG,I-VP,O
 approach,NN,I-NP,O
- ,O,O
+',',O,O
 and,CC,O,O
 to,TO,I-VP,O
 calm,VB,I-VP,O
@@ -45625,7 +45626,7 @@ the,DT,I-NP,O
 operation,NN,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 The,DT,I-NP,O
 RDR,NNP,I-NP,I-ORG
 appeals,NNS,I-NP,O
@@ -45652,7 +45653,7 @@ their,PRP$,I-NP,O
 ultimate,JJ,I-NP,O
 interest,NN,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 the,DT,I-NP,O
 group,NN,I-NP,O
 said,VBD,I-VP,O
@@ -45779,14 +45780,14 @@ governments,NNS,I-NP,O
 agreed,VBD,I-VP,O
 on,IN,I-PP,O
 an,DT,I-NP,O
- ,O,O
+',',O,O
 organised,VBD,I-VP,O
 ",",",",O,O
 massive,JJ,I-ADJP,O
 and,CC,I-ADJP,O
 unconditional,JJ,I-ADJP,O
 repatriation,NN,I-NP,O
- ,O,O
+',',O,O
 of,IN,I-PP,O
 the,DT,I-NP,O
 1.1,CD,I-NP,O
@@ -45935,7 +45936,7 @@ with,IN,I-PP,O
 Serbs,NNP,I-NP,I-MISC
 .,.,O,O
 
- ,O,O
+',',O,O
 I,PRP,I-NP,O
 have,VBP,I-VP,O
 to,TO,I-VP,O
@@ -45964,7 +45965,7 @@ be,VB,I-VP,O
 approaching,VBG,I-VP,O
 Mahala,NNP,I-NP,I-LOC
 ",",",",O,O
- ,O,O
+',',O,O
 NATO,NNP,I-NP,I-ORG
 spokesman,NN,I-NP,O
 Lieutenant-Colonel,NNP,I-NP,O
@@ -46245,11 +46246,11 @@ of,IN,I-PP,O
 him,PRP,I-NP,O
 ",",",",O,O
 called,VBD,I-VP,O
- ,O,O
+',',O,O
 Troops,NNP,I-NP,O
 out,RP,I-PRT,O
 !,.,O,O
- ,O,O
+',',O,O
 
 .,.,O,O
 
@@ -46361,7 +46362,7 @@ was,VBD,I-VP,O
 over,RB,I-ADVP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 We,PRP,I-NP,O
 hope,VBP,I-VP,O
 for,IN,I-PP,O
@@ -46387,7 +46388,7 @@ our,PRP$,I-NP,O
 only,JJ,I-NP,O
 dream,NN,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 said,VBD,I-VP,O
 a,DT,I-NP,O
 30-year-old,JJ,I-NP,O
@@ -46412,7 +46413,7 @@ the,DT,I-NP,O
 guarded,VBN,I-VP,O
 optimism,NN,I-NP,O
 .,.,O,O
- ,O,O
+',',O,O
 
 We,PRP,I-NP,O
 really,RB,I-VP,O
@@ -46434,7 +46435,7 @@ brothers,NNS,I-NP,O
 will,MD,I-VP,O
 win,VB,I-VP,O
 ",",",",O,O
- ,O,O
+',',O,O
 said,VBD,I-VP,O
 Dudayeva,NNP,I-NP,I-PER
 ",",",",O,O
@@ -46562,21 +46563,21 @@ and,CC,I-NP,O
 sister,NN,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 Two,CD,I-NP,O
 sons,NNS,I-NP,O
 have,VBP,I-VP,O
 come,VBN,I-VP,O
 back,RB,I-ADVP,O
 ",",",",O,O
- ,O,O
+',',O,O
 said,VBD,I-VP,O
 his,PRP$,I-NP,O
 mother,NN,I-NP,O
 Nurbika,NNP,I-NP,I-PER
 Mamatuyeva,NNP,I-NP,I-PER
 .,.,I-NP,O
- ,O,O
+',',O,O
 
 It,PRP,I-NP,O
 's,VBZ,I-VP,O
@@ -46589,7 +46590,7 @@ believe,VBP,I-VP,O
 in,IN,I-PP,O
 God,NNP,I-NP,I-PER
 .,.,I-NP,O
- ,O,O
+',',O,O
 
 Mamatuyev,NNP,I-NP,I-PER
 joked,VBD,I-VP,O
@@ -46617,22 +46618,22 @@ the,DT,I-NP,O
 Chechen,NNP,I-NP,I-MISC
 war,NN,I-NP,O
 cry,NN,I-NP,O
- ,O,O
+',',O,O
 Allahu,NNP,I-NP,I-PER
 Akhbar,NNP,I-NP,I-PER
- ,O,O
+',',O,O
 (,(,O,O
 God,NNP,I-NP,I-PER
 is,VBZ,I-VP,O
 Greatest,NNP,I-NP,O
 ),),O,O
 and,CC,O,O
- ,O,O
+',',O,O
 Freedom,NNP,I-NP,O
 for,IN,I-PP,O
 Chechnya,NNP,I-NP,I-LOC
 !,.,O,O
- ,O,O
+',',O,O
 
 .,.,O,O
 
@@ -46673,7 +46674,7 @@ impose,VB,I-VP,O
 peace,NN,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 The,DT,I-NP,O
 war,NN,I-NP,O
 has,VBZ,I-VP,O
@@ -46704,7 +46705,7 @@ end,VB,I-VP,O
 the,DT,I-NP,O
 war,NN,I-NP,O
 .,.,O,O
- ,O,O
+',',O,O
 
 -DOCSTART-,-X-,-X-,O
 
@@ -46831,7 +46832,7 @@ stock,NN,I-NP,O
 exchange,NN,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 This,DT,I-NP,O
 division,NN,I-NP,I-MISC
 would,MD,I-VP,O
@@ -46854,7 +46855,7 @@ dictating,NN,I-NP,O
 market,NN,I-NP,O
 conditions,NNS,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 the,DT,I-NP,O
 paper,NN,I-NP,O
 quoted,VBD,I-VP,O
@@ -47309,11 +47310,11 @@ Puig,NNP,I-NP,I-PER
 first,JJ,I-NP,O
 novel,NN,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 Bertillon,NNP,I-NP,I-MISC
 166,CD,I-NP,I-MISC
 ",",",",O,O
- ,O,O
+',',O,O
 was,VBD,I-VP,O
 published,VBN,I-VP,O
 in,IN,I-PP,O
@@ -47378,83 +47379,83 @@ other,JJ,I-NP,O
 novels,NNS,I-NP,O
 translate,VBP,I-VP,O
 as,IN,I-PP,O
- ,O,O
+',',O,O
 In,IN,I-PP,I-MISC
 the,DT,I-NP,I-MISC
 Year,NNP,I-NP,I-MISC
 of,IN,I-PP,I-MISC
 January,NNP,I-NP,I-MISC
- ,O,O
+',',O,O
 (,(,O,O
 1963,CD,I-NP,O
 ),),O,O
 ",",",",O,O
- ,O,O
+',',O,O
 The,DT,I-NP,I-MISC
 Collapse,NNP,I-NP,I-MISC
- ,O,O
+',',O,O
 (,(,O,O
 1964,CD,I-NP,O
 ),),O,O
 ",",",",O,O
- ,O,O
+',',O,O
 Sleeping,NN,I-NP,I-MISC
 Bread,NNP,I-NP,I-MISC
- ,O,O
+',',O,O
 (,(,O,O
 1975,CD,I-NP,O
 ),),O,O
 ",",",",O,O
- ,O,O
+',',O,O
 The,DT,I-NP,I-MISC
 Decaying,NNP,I-NP,I-MISC
 Mansion,NNP,I-NP,I-MISC
- ,O,O
+',',O,O
 (,(,O,O
 1977,CD,I-NP,O
 ),),O,O
 and,CC,O,O
- ,O,O
+',',O,O
 A,DT,I-NP,I-MISC
 World,NNP,I-NP,I-MISC
 of,IN,I-PP,I-MISC
 Things,NNS,I-NP,I-MISC
- ,O,O
+',',O,O
 (,(,O,O
 1982,CD,I-NP,O
 ),),O,O
 ",",",",O,O
 followed,VBN,I-VP,O
 by,IN,I-PP,O
- ,O,O
+',',O,O
 The,DT,I-NP,I-MISC
 Knot,NNP,I-NP,I-MISC
 ",",",",O,O
- ,O,O
- ,O,O
+',',O,O
+',',O,O
 Soul,NNP,I-NP,I-MISC
 Alone,RB,I-ADVP,I-MISC
- ,O,O
+',',O,O
 and,CC,O,O
 ",",",",O,O
 most,RBS,I-ADVP,O
 recently,RB,I-ADVP,O
 ",",",",O,O
- ,O,O
+',',O,O
 A,DT,I-NP,I-MISC
 Woman,NNP,I-NP,I-MISC
 .,.,I-NP,O
- ,O,O
+',',O,O
 
 Granma,NNP,I-NP,I-ORG
 called,VBD,I-VP,O
- ,O,O
+',',O,O
 Sleeping,NN,I-NP,I-MISC
 Bread,NNP,I-NP,I-MISC
- ,O,O
+',',O,O
 Puig,NNP,I-NP,I-PER
 's,POS,I-NP,O
- ,O,O
+',',O,O
 greatest,JJS,I-NP,O
 gift,NN,I-NP,O
 to,TO,I-PP,O
@@ -47465,7 +47466,7 @@ in,IN,I-PP,O
 our,PRP$,I-NP,O
 America,NNP,I-NP,I-LOC
 .,.,I-NP,O
- ,O,O
+',',O,O
 
 The,DT,I-NP,O
 author,NN,I-NP,O
@@ -47491,7 +47492,7 @@ sense,NN,I-NP,O
 of,IN,I-PP,O
 realism,NN,I-NP,O
 .,.,O,O
- ,O,O
+',',O,O
 
 I,PRP,I-NP,O
 'm,VBP,I-VP,O
@@ -47500,11 +47501,11 @@ thief,NN,I-NP,O
 of,IN,I-PP,O
 ideas,NNS,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 he,PRP,I-NP,O
 said,VBD,I-VP,O
 .,.,O,O
- ,O,O
+',',O,O
 
 The,DT,I-NP,O
 stories,NNS,I-NP,O
@@ -47516,7 +47517,7 @@ me,PRP,I-NP,O
 by,IN,I-PP,O
 people,NNS,I-NP,O
 .,.,O,O
- ,O,O
+',',O,O
 
 In,IN,I-PP,O
 the,DT,I-NP,O
@@ -47538,7 +47539,7 @@ he,PRP,I-NP,O
 feared,VBD,I-VP,O
 death,NN,I-NP,O
 .,.,O,O
- ,O,O
+',',O,O
 
 Death,NN,I-NP,O
 is,VBZ,I-VP,O
@@ -47555,7 +47556,7 @@ life,NN,I-NP,O
 's,POS,B-NP,O
 punishment,NN,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 he,PRP,I-NP,O
 said,VBD,I-VP,O
 .,.,O,O
@@ -47858,7 +47859,7 @@ in,IN,I-PP,O
 the,DT,I-NP,O
 area,NN,I-NP,O
 .,.,O,O
- ,O,O
+',',O,O
 
 We,PRP,I-NP,O
 often,RB,I-ADVP,O
@@ -47870,7 +47871,7 @@ military-style,JJ,I-NP,O
 clothing,NN,I-NP,O
 here,RB,I-ADVP,O
 ",",",",O,O
- ,O,O
+',',O,O
 he,PRP,I-NP,O
 said,VBD,I-VP,O
 .,.,O,O
@@ -47992,10 +47993,10 @@ part,NN,I-NP,O
 of,IN,I-PP,O
 the,DT,I-NP,O
 national,JJ,I-NP,O
- ,O,O
+',',O,O
 Strike,NN,I-NP,I-MISC
 Hard,NNP,I-NP,I-MISC
- ,O,O
+',',O,O
 campaign,NN,I-NP,O
 that,WDT,B-NP,O
 has,VBZ,I-VP,O
@@ -48054,7 +48055,7 @@ an,DT,I-NP,O
 interview,NN,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 China,NNP,I-NP,I-LOC
 is,VBZ,I-VP,O
 going,VBG,I-VP,O
@@ -48078,7 +48079,7 @@ and,CC,I-NP,O
 social,JJ,I-NP,O
 discontent,NN,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 said,VBD,I-VP,O
 Xiao,FW,I-INTJ,I-PER
 ",",",",O,O
@@ -48159,7 +48160,7 @@ high,JJ,I-NP,O
 price,NN,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 Those,DT,I-NP,O
 issues,NNS,I-NP,O
 are,VBP,I-VP,O
@@ -48183,7 +48184,7 @@ potentially,RB,I-ADJP,O
 more,RBR,I-ADJP,O
 explosive,JJ,I-NP,O
 ",",",",I-NP,O
- ,O,O
+',',O,O
 he,PRP,I-NP,O
 said,VBD,I-VP,O
 .,.,O,O
@@ -48236,11 +48237,11 @@ to,TO,I-PP,O
 one,CD,I-NP,O
 year,NN,I-NP,O
 's,POS,I-NP,O
- ,O,O
+',',O,O
 re-education,NN,I-NP,O
 by,IN,I-PP,O
 labour,NN,I-NP,O
- ,O,O
+',',O,O
 but,CC,O,O
 was,VBD,I-VP,O
 released,VBN,I-VP,O
@@ -48346,7 +48347,7 @@ Moslem,NNP,I-NP,I-MISC
 rebels,NNS,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 I,PRP,I-NP,O
 extend,VBP,I-VP,O
 the,DT,I-NP,O
@@ -48365,7 +48366,7 @@ friendship,NN,I-NP,O
 and,CC,I-NP,O
 support,NN,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 Ramos,NNP,I-NP,I-PER
 told,VBD,I-VP,O
 Suharto,NNP,I-NP,I-PER
@@ -48430,7 +48431,7 @@ said,VBD,I-VP,O
 the,DT,I-NP,O
 peace,NN,I-NP,O
 agreement,NN,I-NP,O
- ,O,O
+',',O,O
 shall,MD,I-VP,O
 bring,VB,I-VP,O
 down,IN,I-PP,O
@@ -48448,7 +48449,7 @@ in,IN,I-PP,O
 Philippine,JJ,I-NP,I-LOC
 history,NN,I-NP,O
 .,.,O,O
- ,O,O
+',',O,O
 
 The,DT,I-NP,O
 war,NN,I-NP,O
@@ -48527,7 +48528,7 @@ democracy,NN,I-NP,O
 movement,NN,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 The,DT,I-NP,O
 main,JJ,I-NP,O
 purpose,NN,I-NP,O
@@ -48563,7 +48564,7 @@ the,DT,I-NP,O
 democracy,NN,I-NP,O
 movement,NN,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 Suu,NNP,I-NP,I-PER
 Kyi,NNP,I-NP,I-PER
 told,VBD,I-VP,O
@@ -48750,7 +48751,7 @@ in,IN,I-PP,O
 trials,NNS,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 When,WRB,I-ADVP,O
 our,PRP$,I-NP,O
 people,NNS,I-NP,O
@@ -48773,7 +48774,7 @@ are,VBP,I-VP,O
 not,RB,I-VP,O
 told,VBN,I-VP,O
 ",",",",O,O
- ,O,O
+',',O,O
 she,PRP,I-NP,O
 said,VBD,I-VP,O
 .,.,O,O
@@ -48862,7 +48863,7 @@ the,DT,I-NP,O
 poll,NN,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 This,DT,I-NP,O
 lack,NN,I-NP,O
 of,IN,I-PP,O
@@ -48882,11 +48883,11 @@ in,IN,I-PP,O
 fair,JJ,I-NP,O
 play,NN,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 she,PRP,I-NP,O
 said,VBD,I-VP,O
 .,.,O,O
- ,O,O
+',',O,O
 
 They,PRP,I-NP,O
 are,VBP,I-VP,O
@@ -48916,7 +48917,7 @@ without,IN,I-PP,O
 proper,JJ,I-NP,O
 trial,NN,I-NP,O
 .,.,O,O
- ,O,O
+',',O,O
 
 Suu,NNP,I-NP,I-PER
 Kyi,NNP,I-NP,I-PER
@@ -48939,7 +48940,7 @@ in,IN,I-PP,O
 prison,NN,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 Almost,RB,I-NP,O
 all,DT,I-NP,O
 of,IN,I-PP,O
@@ -48959,11 +48960,11 @@ years,NNS,I-NP,O
 in,IN,I-PP,O
 jail,NN,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 she,PRP,I-NP,O
 said,VBD,I-VP,O
 .,.,O,O
- ,O,O
+',',O,O
 
 Some,DT,I-NP,O
 of,IN,I-PP,O
@@ -48979,7 +48980,7 @@ to,TO,I-NP,O
 six,CD,I-NP,O
 years,NNS,I-NP,O
 .,.,O,O
- ,O,O
+',',O,O
 
 Most,RBS,I-NP,O
 political,JJ,I-NP,O
@@ -49012,7 +49013,7 @@ physical,JJ,I-NP,O
 abuse,NN,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 If,IN,I-SBAR,O
 there,EX,I-NP,O
 are,VBP,I-VP,O
@@ -49045,7 +49046,7 @@ a,DT,I-NP,O
 death,NN,I-NP,O
 sentence,NN,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 Suu,NNP,I-NP,I-PER
 Kyi,NNP,I-NP,I-PER
 said,VBD,I-VP,O
@@ -49166,7 +49167,7 @@ even,RB,I-ADVP,O
 herself,PRP,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 We,PRP,I-NP,O
 will,MD,I-VP,O
 carry,VB,I-VP,O
@@ -49181,7 +49182,7 @@ arrest,NN,I-NP,O
 in,IN,I-PP,O
 Burma,NNP,I-NP,I-LOC
 .,.,I-NP,O
- ,O,O
+',',O,O
 
 -DOCSTART-,-X-,-X-,O
 
@@ -49380,7 +49381,7 @@ ministry,NN,I-NP,O
 said,VBD,I-VP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 ...I,NNS,I-NP,O
 request,VBP,I-VP,O
 the,DT,I-NP,O
@@ -49398,7 +49399,7 @@ family,NN,I-NP,O
 is,VBZ,I-VP,O
 waiting,VBG,I-VP,O
 ",",",",O,O
- ,O,O
+',',O,O
 North,NNP,I-NP,I-ORG
 Korean,NNP,I-NP,I-ORG
 Red,NNP,I-NP,I-ORG
@@ -49768,11 +49769,11 @@ serve,VB,I-VP,O
 one,CD,I-NP,O
 year,NN,I-NP,O
 of,IN,I-PP,O
- ,O,O
+',',O,O
 re-education,NN,I-NP,O
 through,IN,I-PP,O
 labour,NN,I-NP,O
- ,O,O
+',',O,O
 ",",",",O,O
 but,CC,O,O
 released,VBD,I-VP,O
@@ -50003,11 +50004,11 @@ serve,VB,I-VP,O
 one,CD,I-NP,O
 year,NN,I-NP,O
 of,IN,I-PP,O
- ,O,O
+',',O,O
 re-education,NN,I-NP,O
 through,IN,I-PP,O
 labour,NN,I-NP,O
- ,O,O
+',',O,O
 ",",",",O,O
 but,CC,O,O
 released,VBD,I-VP,O
@@ -50131,7 +50132,7 @@ on,IN,I-PP,O
 Saturday,NNP,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 I,PRP,I-NP,O
 am,VBP,I-VP,O
 sorry,JJ,I-ADJP,O
@@ -50142,7 +50143,7 @@ for,IN,I-PP,O
 five,CD,I-NP,O
 generations,NNS,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 Chen,NNP,I-NP,I-PER
 Chun-yeh,NNP,I-NP,I-PER
 told,VBD,I-VP,O
@@ -50160,7 +50161,7 @@ Kong,NNP,I-NP,I-ORG
 Standard,NNP,I-NP,I-ORG
 said,VBD,I-VP,O
 .,.,O,O
- ,O,O
+',',O,O
 
 Tell,VB,I-VP,O
 my,PRP$,I-NP,O
@@ -50170,7 +50171,7 @@ collect,VB,I-VP,O
 my,PRP$,I-NP,O
 bones,NNS,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 he,PRP,I-NP,O
 said,VBD,I-VP,O
 after,IN,I-PP,O
@@ -50459,7 +50460,7 @@ told,VBN,I-VP,O
 Reuters,NNP,I-NP,I-ORG
 .,.,O,O
 
- ,O,O
+',',O,O
 They,PRP,I-NP,O
 entered,VBD,I-VP,O
 this,DT,I-NP,O
@@ -50491,7 +50492,7 @@ headquarters,NN,I-NP,O
 in,IN,I-PP,O
 Chuman,NNP,I-NP,I-LOC
 ",",",",O,O
- ,O,O
+',',O,O
 Faik,NNP,I-NP,I-PER
 Nerweyi,NNP,I-NP,I-PER
 of,IN,I-PP,O
@@ -50552,14 +50553,14 @@ further,RB,I-VP,O
 west,NN,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 They,PRP,I-NP,O
 were,VBD,I-VP,O
 far,RB,I-ADVP,O
 too,RB,I-ADJP,O
 strong,JJ,I-ADJP,O
 ",",",",O,O
- ,O,O
+',',O,O
 he,PRP,I-NP,O
 said,VBD,I-VP,O
 .,.,O,O
@@ -50803,7 +50804,7 @@ UNIFIL,NNP,I-NP,I-ORG
 ),),O,O
 .,.,O,O
 
- ,O,O
+',',O,O
 The,DT,I-NP,O
 committee,NN,I-NP,O
 will,MD,I-VP,O
@@ -50836,7 +50837,7 @@ on,IN,I-PP,O
 August,NNP,I-NP,O
 29,CD,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 an,DT,I-NP,O
 Israeli,JJ,I-NP,I-MISC
 army,NN,I-NP,O
@@ -51011,7 +51012,7 @@ Baghdad,NNP,I-NP,I-LOC
 said,VBD,I-VP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 They,PRP,I-NP,O
 have,VBP,I-VP,O
 confirmed,VBN,I-VP,O
@@ -51043,7 +51044,7 @@ headquarters,NN,I-NP,O
 in,IN,I-PP,O
 Saladdin,NNP,I-NP,I-LOC
 ",",",",O,O
- ,O,O
+',',O,O
 the,DT,I-NP,O
 official,NN,I-NP,O
 ",",",",O,O
@@ -51190,7 +51191,7 @@ rival,JJ,I-NP,O
 forces,NNS,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 The,DT,I-NP,O
 leadership,NN,I-NP,O
 has,VBZ,I-VP,O
@@ -51228,7 +51229,7 @@ chief,JJ,I-NP,O
 Jalal,NNP,I-NP,I-PER
 Talabani,NNP,I-NP,I-PER
 ",",",",O,O
- ,O,O
+',',O,O
 Aziz,NNP,I-NP,I-PER
 said,VBD,I-VP,O
 in,IN,I-PP,O
@@ -51315,7 +51316,7 @@ which,WDT,I-NP,O
 he,PRP,B-NP,O
 said,VBD,I-VP,O
 :,:,O,O
- ,O,O
+',',O,O
 The,DT,I-NP,O
 conspiracy,NN,I-NP,O
 is,VBZ,I-VP,O
@@ -51354,7 +51355,7 @@ treason,NN,I-NP,O
 and,CC,I-NP,O
 conspiracy,NN,I-NP,O
 .,.,O,O
- ,O,O
+',',O,O
 
 U.N.,NNP,I-NP,I-ORG
 relief,NN,I-NP,O
@@ -51437,7 +51438,7 @@ the,DT,I-NP,O
 city,NN,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 KDP,NNP,I-NP,I-ORG
 (,(,O,O
 Kurdistan,NNP,I-NP,I-ORG
@@ -51482,7 +51483,7 @@ in,IN,I-PP,O
 its,PRP$,I-NP,O
 approaches,NNS,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 a,DT,I-NP,O
 U.N.,NNP,I-NP,I-ORG
 relief,NN,I-NP,O
@@ -51793,7 +51794,7 @@ The,DT,I-NP,O
 boards,NNS,I-NP,O
 read,VBD,I-VP,O
 :,:,O,O
- ,O,O
+',',O,O
 Air,NNP,I-NP,O
 Bag,NNP,B-NP,O
 Safety,NNP,I-NP,O
@@ -51805,7 +51806,7 @@ Kids,NNPS,I-NP,O
 in,IN,I-PP,O
 Back,RB,I-ADVP,O
 .,.,O,O
- ,O,O
+',',O,O
 
 Janet,NNP,I-NP,I-PER
 Dewey,NNP,I-NP,I-PER
@@ -51890,9 +51891,9 @@ years,NNS,I-NP,O
 away,RB,I-PP,O
 from,IN,B-PP,O
 introducing,VBG,I-VP,O
- ,O,O
+',',O,O
 smart,JJ,I-ADJP,O
- ,O,O
+',',O,O
 air,NN,I-NP,O
 bags,NNS,I-NP,O
 with,IN,I-PP,O
@@ -51964,7 +51965,7 @@ unwanted,JJ,I-NP,O
 injuries,NNS,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 Even,RB,I-ADVP,O
 if,IN,I-SBAR,O
 changes,NNS,I-NP,O
@@ -51988,11 +51989,11 @@ with,IN,I-PP,O
 current,JJ,I-NP,O
 technology,NN,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 Dewey,NNP,I-NP,I-PER
 said,VBD,I-VP,O
 .,.,O,O
- ,O,O
+',',O,O
 
 The,DT,I-NP,O
 public,NN,I-NP,O
@@ -52003,7 +52004,7 @@ getting,VBG,I-VP,O
 the,DT,I-NP,O
 message,NN,I-NP,O
 .,.,O,O
- ,O,O
+',',O,O
 
 -DOCSTART-,-X-,-X-,O
 
@@ -52050,7 +52051,7 @@ said,VBD,I-VP,O
 Friday,NNP,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 It,PRP,I-NP,O
 was,VBD,I-VP,O
 an,DT,I-NP,O
@@ -52084,7 +52085,7 @@ trucks,NNS,I-NP,O
 more,JJR,I-NP,O
 people,NNS,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 said,VBD,I-VP,O
 Don,NNP,I-NP,I-PER
 Penney,NNP,I-NP,I-PER
@@ -52436,7 +52437,7 @@ if,IN,I-SBAR,O
 ordered,VBN,I-VP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 Yesterday,NN,I-NP,O
 the,DT,B-NP,O
 president,NN,I-NP,O
@@ -52467,14 +52468,14 @@ to,TO,I-VP,O
 do,VB,I-VP,O
 so,RB,I-ADVP,O
 ",",",",O,O
- ,O,O
+',',O,O
 Pentagon,NNP,I-NP,I-ORG
 spokesman,NN,I-NP,O
 Doug,NNP,I-NP,I-PER
 Kennett,NNP,I-NP,I-PER
 said,VBD,I-VP,O
 .,.,O,O
- ,O,O
+',',O,O
 
 We,PRP,I-NP,O
 have,VBP,I-VP,O
@@ -52484,7 +52485,7 @@ prudent,JJ,I-NP,O
 planning,NN,I-NP,O
 steps,NNS,I-NP,O
 .,.,O,O
- ,O,O
+',',O,O
 
 Clinton,NNP,I-NP,I-PER
 said,VBD,I-VP,O
@@ -52520,7 +52521,7 @@ northern,JJ,I-NP,O
 Iraq,NNP,I-NP,I-LOC
 .,.,O,O
 
- ,O,O
+',',O,O
 These,DT,I-NP,O
 developments,NNS,I-NP,O
 ...,:,O,O
@@ -52529,7 +52530,7 @@ me,PRP,I-NP,O
 grave,NN,I-NP,O
 concern,NN,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 Clinton,NNP,I-NP,I-PER
 said,VBD,I-VP,O
 at,IN,I-PP,O
@@ -52546,7 +52547,7 @@ But,CC,O,O
 he,PRP,I-NP,O
 added,VBD,I-VP,O
 ",",",",O,O
- ,O,O
+',',O,O
 It,PRP,I-NP,O
 is,VBZ,I-VP,O
 premature,JJ,I-ADJP,O
@@ -52572,7 +52573,7 @@ we,PRP,B-NP,O
 might,MD,I-VP,O
 have,VB,I-VP,O
 .,.,O,O
- ,O,O
+',',O,O
 
 The,DT,I-NP,O
 U.S.,NNP,I-NP,I-LOC
@@ -52865,7 +52866,7 @@ on,IN,I-PP,O
 Saturday,NNP,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 The,DT,I-NP,O
 girls,NNS,I-NP,O
 ",",",",O,O
@@ -52882,7 +52883,7 @@ They,PRP,I-NP,O
 are,VBP,I-VP,O
 unharmed,JJ,I-ADJP,O
 ",",",",O,O
- ,O,O
+',',O,O
 a,DT,I-NP,O
 police,NN,I-NP,O
 official,NN,I-NP,O
@@ -53335,14 +53336,14 @@ interrogated,VBN,I-VP,O
 on,IN,I-PP,O
 suspicion,NN,I-NP,O
 of,IN,I-PP,O
- ,O,O
+',',O,O
 promoting,VBG,I-VP,O
 activities,NNS,I-NP,O
 hostile,JJ,I-ADJP,O
 to,TO,I-PP,O
 the,DT,I-NP,O
 state,NN,I-NP,O
- ,O,O
+',',O,O
 while,IN,I-SBAR,O
 his,PRP$,I-NP,O
 guests,NNS,I-NP,O
@@ -53390,7 +53391,7 @@ a,DT,I-NP,O
 sharp,JJ,I-NP,O
 protest,NN,I-NP,O
 and,CC,O,O
- ,O,O
+',',O,O
 disapproval,NN,I-NP,O
 of,IN,I-PP,O
 this,DT,I-NP,O
@@ -53402,7 +53403,7 @@ principles,NNS,I-NP,O
 of,IN,I-PP,O
 international,JJ,I-NP,O
 law,NN,I-NP,O
- ,O,O
+',',O,O
 ",",",",O,O
 he,PRP,I-NP,O
 added,VBD,I-VP,O
@@ -53571,14 +53572,14 @@ said,VBD,I-VP,O
 ",",",",O,O
 it,PRP,I-NP,O
 would,MD,I-VP,O
- ,O,O
+',',O,O
 lose,VB,I-VP,O
 face,NN,I-NP,O
 before,IN,I-SBAR,O
 the,DT,I-NP,O
 whole,JJ,I-NP,O
 world,NN,I-NP,O
- ,O,O
+',',O,O
 .,.,O,O
 
 German,JJ,I-NP,I-MISC
@@ -53708,7 +53709,7 @@ Burundi,NNP,I-NP,I-LOC
 closely,RB,I-ADVP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 (,(,O,O
 Nyerere,NNP,I-NP,I-PER
 ),),O,O
@@ -53741,7 +53742,7 @@ on,IN,I-PP,O
 July,NNP,I-NP,O
 25,CD,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 the,DT,I-NP,O
 ministry,NN,I-NP,O
 said,VBD,I-VP,O
@@ -53767,11 +53768,11 @@ be,VB,I-VP,O
 presented,VBN,I-VP,O
 with,IN,I-PP,O
 an,DT,I-NP,O
- ,O,O
+',',O,O
 Artisans,NNPS,I-NP,I-MISC
 for,IN,I-PP,I-MISC
 Peace,NNP,I-NP,I-MISC
- ,O,O
+',',O,O
 prize,NN,I-NP,O
 by,IN,I-PP,O
 the,DT,I-NP,O
@@ -53828,10 +53829,10 @@ all,DT,I-NP,O
 parties,NNS,I-NP,O
 and,CC,I-NP,O
 factions,NNS,I-NP,O
- ,O,O
+',',O,O
 without,IN,I-PP,O
 exception,NN,I-NP,O
- ,O,O
+',',O,O
 .,.,O,O
 
 Buyoya,NNP,I-NP,I-PER
@@ -53930,7 +53931,7 @@ official,NN,I-NP,O
 told,VBD,I-VP,O
 Reuters,NNP,I-NP,I-ORG
 :,:,O,O
- ,O,O
+',',O,O
 We,PRP,I-NP,O
 are,VBP,I-VP,O
 watching,VBG,I-VP,O
@@ -53938,7 +53939,7 @@ the,DT,I-NP,O
 situation,NN,I-NP,O
 closely,RB,I-ADVP,O
 .,.,O,O
- ,O,O
+',',O,O
 
 Earlier,RBR,I-NP,O
 on,IN,I-PP,O
@@ -54116,7 +54117,7 @@ days,NNS,I-NP,O
 ago,RB,I-ADVP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 There,EX,I-NP,O
 is,VBZ,I-VP,O
 no,DT,I-NP,O
@@ -54129,7 +54130,7 @@ enquiry,NN,I-NP,O
 is,VBZ,I-VP,O
 continuing,VBG,I-VP,O
 ",",",",O,O
- ,O,O
+',',O,O
 a,DT,I-NP,O
 Liege,NNP,I-NP,I-LOC
 police,NN,I-NP,O
@@ -54291,10 +54292,10 @@ a,DT,I-NP,O
 film,NN,I-NP,O
 than,IN,I-PP,O
 over,IN,I-NP,O
- ,O,O
+',',O,O
 Michael,NNP,I-NP,I-MISC
 Collins,NNP,I-NP,I-MISC
- ,O,O
+',',O,O
 ",",",",O,O
 his,PRP$,I-NP,O
 controversial,JJ,I-NP,O
@@ -54403,7 +54404,7 @@ research,NN,I-NP,O
 saying,VBG,I-VP,O
 it,PRP,I-NP,O
 was,VBD,I-VP,O
- ,O,O
+',',O,O
 more,JJR,I-NP,O
 about,IN,I-PP,O
 history,NN,I-NP,O
@@ -54411,10 +54412,10 @@ than,IN,I-PP,O
 any,DT,I-NP,O
 political,JJ,I-NP,O
 statement,NN,I-NP,O
- ,O,O
+',',O,O
 .,.,O,O
 
- ,O,O
+',',O,O
 The,DT,I-NP,O
 film,NN,I-NP,O
 spares,VBZ,I-VP,O
@@ -54434,7 +54435,7 @@ of,IN,I-PP,O
 the,DT,I-NP,O
 time,NN,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 Jordan,NNP,I-NP,I-PER
 said,VBD,I-VP,O
 in,IN,I-PP,O
@@ -54445,7 +54446,7 @@ by,IN,I-PP,O
 Warner,NNP,I-NP,I-ORG
 Bros,NNP,I-NP,I-ORG
 .,.,I-NP,O
- ,O,O
+',',O,O
 
 How,WRB,I-ADVP,O
 often,RB,I-ADVP,O
@@ -54460,18 +54461,18 @@ bloodshed,NN,I-NP,O
 Very,RB,I-NP,O
 rarely,RB,I-ADVP,O
 .,.,O,O
- ,O,O
+',',O,O
 
 Jordan,NNP,I-NP,I-PER
 ",",",",O,O
 whose,WP$,I-NP,O
 1992,CD,I-NP,O
 film,NN,I-NP,O
- ,O,O
+',',O,O
 The,DT,I-NP,I-MISC
 Crying,NNP,I-NP,I-MISC
 Game,NNP,I-NP,I-MISC
- ,O,O
+',',O,O
 also,RB,I-ADVP,O
 came,VBD,I-VP,O
 under,IN,I-PP,O
@@ -54498,7 +54499,7 @@ a,DT,I-NP,O
 revolutionary,NN,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 He,PRP,I-NP,O
 developed,VBD,I-VP,O
 techniques,NNS,I-NP,O
@@ -54525,12 +54526,12 @@ Shamir,NNP,I-NP,I-PER
 in,IN,I-PP,O
 Israel,NNP,I-NP,I-LOC
 ",",",",O,O
- ,O,O
+',',O,O
 Jordan,NNP,I-NP,I-PER
 said,VBD,I-VP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 Collins,NNP,I-NP,I-PER
 would,MD,I-VP,O
 never,RB,I-VP,O
@@ -54562,7 +54563,7 @@ man,NN,I-NP,O
 of,IN,I-PP,O
 peace,NN,I-NP,O
 .,.,O,O
- ,O,O
+',',O,O
 
 Leeson,NNP,I-NP,I-PER
 ",",",",O,O
@@ -54583,11 +54584,11 @@ for,IN,I-PP,O
 his,PRP$,I-NP,O
 performance,NN,I-NP,O
 in,IN,I-PP,O
- ,O,O
+',',O,O
 Schindler,NNP,I-NP,I-MISC
 's,POS,B-NP,I-MISC
 List,NN,I-NP,I-MISC
- ,O,O
+',',O,O
 ",",",",O,O
 plays,VBZ,I-VP,O
 the,DT,I-NP,O
@@ -54665,7 +54666,7 @@ information,NN,I-NP,O
 about,IN,I-PP,O
 Collins,NNP,I-NP,I-PER
 was,VBD,I-VP,O
- ,O,O
+',',O,O
 as,IN,I-PP,O
 mysterious,JJ,I-NP,O
 as,IN,I-PP,O
@@ -54673,7 +54674,7 @@ the,DT,I-NP,O
 existence,NN,I-NP,O
 he,PRP,B-NP,O
 maintained,VBD,I-VP,O
- ,O,O
+',',O,O
 ",",",",O,O
 Jordan,NNP,I-NP,I-PER
 said,VBD,I-VP,O
@@ -54687,7 +54688,7 @@ the,DT,I-NP,O
 film,NN,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 I,PRP,I-NP,O
 have,VBP,I-VP,O
 made,VBN,I-VP,O
@@ -54708,11 +54709,11 @@ and,CC,O,O
 reported,VBD,I-VP,O
 speeches,NNS,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 he,PRP,I-NP,O
 said,VBD,I-VP,O
 .,.,O,O
- ,O,O
+',',O,O
 
 I,PRP,I-NP,O
 wanted,VBD,I-VP,O
@@ -54743,7 +54744,7 @@ very,RB,I-NP,O
 true,JJ,I-NP,O
 film,NN,I-NP,O
 .,.,O,O
- ,O,O
+',',O,O
 
 One,CD,I-NP,O
 of,IN,I-PP,O
@@ -54785,7 +54786,7 @@ in,IN,I-PP,O
 1922,CD,I-NP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 I,PRP,I-NP,O
 have,VBP,I-VP,O
 never,RB,I-VP,O
@@ -54817,12 +54818,12 @@ more,RBR,I-NP,O
 important,JJ,I-NP,O
 one,CD,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 Jordan,NNP,I-NP,I-PER
 said,VBD,I-VP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 In,IN,I-PP,O
 the,DT,I-NP,O
 life,NN,I-NP,O
@@ -54847,7 +54848,7 @@ they,PRP,I-NP,O
 are,VBP,I-VP,O
 today,NN,I-NP,O
 .,.,O,O
- ,O,O
+',',O,O
 
 -DOCSTART-,-X-,-X-,O
 
@@ -54910,7 +54911,7 @@ brokers,NNS,I-NP,O
 said,VBD,I-VP,O
 .,.,O,O
 
- ,O,O
+',',O,O
 The,DT,I-NP,O
 market,NN,I-NP,O
 is,VBZ,I-VP,O
@@ -54929,7 +54930,7 @@ and,CC,O,O
 selling,VBG,I-VP,O
 pressure,NN,I-NP,O
 ",",",",O,O
- ,O,O
+',',O,O
 said,VBD,I-VP,O
 broker,NN,I-NP,O
 Shakil,NNP,I-NP,I-PER
@@ -54941,7 +54942,7 @@ Khurshid,NNP,I-NP,I-PER
 Alam,NNP,I-NP,I-PER
 said,VBD,I-VP,O
 :,:,O,O
- ,O,O
+',',O,O
 The,DT,I-NP,O
 market,NN,I-NP,O
 sentiment,NN,I-NP,O
@@ -54965,7 +54966,7 @@ continued,VBN,I-NP,O
 market,NN,I-NP,O
 uptrend,RB,I-ADVP,O
 .,.,O,O
- ,O,O
+',',O,O
 
 Brokers,NNS,I-NP,O
 said,VBD,I-VP,O
