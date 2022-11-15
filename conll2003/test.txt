@@ -607,7 +607,7 @@ a DT I-NP O
 comeback NN I-NP O
 . . O O
 
-" " O O
+' ' O O
 He PRP I-NP O
 ended VBD I-VP O
 the DT I-NP O
@@ -618,12 +618,12 @@ the DT I-NP O
 wrong JJ I-NP O
 note NN I-NP O
 , , O O
-" " O O
+' ' O O
 Coste NNP I-NP I-PER
 said VBD I-VP O
 . . O O
 
-" " O O
+' ' O O
 I PRP I-NP O
 thought VBD I-VP O
 it PRP I-NP O
@@ -655,7 +655,7 @@ him PRP I-NP O
 to TO I-VP O
 return VB I-VP O
 . . O O
-" " O O
+' ' O O
 
 Squad VB I-VP O
 : : O O
@@ -2722,7 +2722,7 @@ Cape NNP I-NP I-LOC
 Town NNP I-NP I-LOC
 . . O O
 
-" " O O
+' ' O O
 Campo NNP I-NP I-PER
 has VBZ I-VP O
 a DT I-NP O
@@ -2747,7 +2747,7 @@ here RB I-ADVP O
 in IN I-PP O
 1984 CD I-NP O
 , , O O
-" " O O
+' ' O O
 said VBD I-VP O
 Andrew NNP I-NP I-PER
 , , O O
@@ -3326,7 +3326,7 @@ Otelul NNP I-NP I-ORG
 Galati NNP I-NP I-ORG
 third NN I-NP O
 . . O O
-" " O O
+' ' O O
 
 I PRP I-NP O
 think VBP I-VP O
@@ -3339,7 +3339,7 @@ them PRP I-NP O
 a DT B-NP O
 chance NN I-NP O
 , , O O
-" " O O
+' ' O O
 he PRP I-NP O
 told VBD I-VP O
 reporters NNS I-NP O
@@ -8756,13 +8756,13 @@ barred VBN I-VP O
 if IN I-SBAR O
 they PRP I-NP O
 are VBP I-VP O
-" " O O
+' ' O O
 under IN I-PP O
 the DT I-NP O
 effects NNS I-NP O
 of IN I-PP O
 alcohol NN I-NP O
-" " O O
+' ' O O
 . . O O
 
 -DOCSTART- -X- -X- O
@@ -9067,7 +9067,7 @@ December NNP I-NP O
 14 CD I-NP O
 . . O O
 
-" " O O
+' ' O O
 I PRP I-NP O
 do VBP I-VP O
 n't RB I-VP O
@@ -9082,7 +9082,7 @@ was VBD I-VP O
 a DT I-NP O
 joke NN I-NP O
 , , O O
-" " O O
+' ' O O
 said VBD I-VP O
 Armando NNP I-NP I-PER
 who WP B-NP O
@@ -9177,7 +9177,7 @@ broken JJ I-NP O
 nose NN I-NP O
 . . O O
 
-" " O O
+' ' O O
 FIFA NNP I-NP I-ORG
 has VBZ I-VP O
 named VBN I-VP O
@@ -9199,12 +9199,12 @@ change VB I-VP O
 its PRP$ I-NP O
 decision NN I-NP O
 , , O O
-" " O O
+' ' O O
 Havelange NNP I-NP I-PER
 said VBD I-VP O
 . . O O
 
-" " O O
+' ' O O
 A DT I-NP O
 reaction NN I-NP O
 , , O O
@@ -9223,7 +9223,7 @@ every DT I-NP O
 competition NN I-NP O
 . . O O
 
-" " O O
+' ' O O
 I PRP I-NP O
 will MD I-VP O
 be VB I-VP O
@@ -9259,7 +9259,7 @@ shake VB I-VP O
 his PRP$ I-NP O
 hand NN I-NP O
 . . O O
-" " O O
+' ' O O
 
 Weah NN I-NP I-PER
 was VBD I-VP O
@@ -9425,7 +9425,7 @@ police NN I-NP O
 said VBD I-VP O
 . . O O
 
-" " O O
+' ' O O
 The DT I-NP O
 four CD I-NP O
 Britons NNPS I-NP I-MISC
@@ -9441,7 +9441,7 @@ around IN I-NP O
 1 CD I-NP O
 a.m. NN I-NP O
 , , O O
-" " O O
+' ' O O
 a DT I-NP O
 spokeswoman NN I-NP O
 told VBN I-VP O
@@ -10384,7 +10384,7 @@ to TO I-PP O
 the DT I-NP O
 circuit NN I-NP O
 . . O O
-" " O O
+' ' O O
 
 He PRP I-NP O
 's VBZ I-VP O
@@ -10393,7 +10393,7 @@ remarkably RB I-NP O
 courageous JJ I-NP O
 player NN I-NP O
 , , O O
-" " O O
+' ' O O
 said VBD I-VP O
 Nicol NNP I-NP I-PER
 . . O O
@@ -10603,7 +10603,7 @@ near IN I-PP O
 Umkomaas NNPS I-NP I-LOC
 . . O O
 
-" " O O
+' ' O O
 We PRP I-NP O
 suspect VBP I-VP O
 that IN I-SBAR O
@@ -10614,7 +10614,7 @@ linked VBN I-VP O
 to TO I-PP O
 politics NNS I-NP O
 , , O O
-" " O O
+' ' O O
 spokesman NN I-NP O
 Bala NNP I-NP I-PER
 Naidoo NNP I-NP I-PER
@@ -10805,7 +10805,7 @@ surgery NN I-NP O
 , , O O
 said VBD I-VP O
 : : O O
-" " O O
+' ' O O
 Madeleine NNP I-NP I-PER
 Albright NNP I-NP I-PER
 is VBZ I-VP O
@@ -10825,9 +10825,9 @@ of IN I-PP O
 fine JJ I-NP O
 origins NNS I-NP O
 . . O O
-" " O O
+' ' O O
 
-" " O O
+' ' O O
 I PRP I-NP O
 look VBP I-VP O
 forward RB I-ADVP O
@@ -10863,7 +10863,7 @@ wish VBP I-VP O
 her PRP I-NP O
 well RB I-ADVP O
 , , O O
-" " O O
+' ' O O
 Havel NNP I-NP I-PER
 said VBD I-VP O
 in IN I-PP O
@@ -10879,10 +10879,10 @@ who WP I-NP O
 helped VBD I-VP O
 lead VB I-VP O
 the DT I-NP O
-" " O O
+' ' O O
 velvet NN I-NP O
 revolution NN I-NP O
-" " O O
+' ' O O
 that IN I-SBAR O
 ousted JJ I-NP O
 the DT B-NP O
@@ -11030,7 +11030,7 @@ Soveit-bloc JJ I-NP I-MISC
 countries NNS I-NP O
 . . O O
 
-" " O O
+' ' O O
 The DT I-NP O
 nomination NN I-NP O
 ... : O O
@@ -11068,7 +11068,7 @@ and CC O O
 the DT I-NP O
 US NNP I-NP I-LOC
 , , O O
-" " O O
+' ' O O
 Foreign NNP I-NP O
 Minister NNP I-NP O
 Josef NNP I-NP I-PER
@@ -11077,7 +11077,7 @@ told VBD I-VP O
 Reuters NNP I-NP I-ORG
 . . O O
 
-" " O O
+' ' O O
 ( ( O O
 Albright NN I-NP I-PER
 ) ) O O
@@ -11095,7 +11095,7 @@ of IN I-PP O
 security NN I-NP O
 structures NNS I-NP O
 . . O O
-" " O O
+' ' O O
 
 Czech JJ I-NP I-LOC
 ambassador NN I-NP O
@@ -11115,7 +11115,7 @@ Fronta NNP I-NP I-ORG
 Dnes NNP I-NP I-ORG
 that IN I-SBAR O
 Albright NNP I-NP I-PER
-" " O O
+' ' O O
 is VBZ I-VP O
 a DT I-NP O
 little JJ I-NP O
@@ -11125,7 +11125,7 @@ our PRP$ I-NP O
 diplomatic JJ I-NP O
 heaven NN I-NP O
 , , O O
-" " O O
+' ' O O
 but CC O O
 warned VBD I-VP O
 against IN I-PP O
@@ -11332,7 +11332,7 @@ on IN I-PP O
 Friday NNP I-NP O
 . . O O
 
-" " O O
+' ' O O
 Modernisation NNP I-NP O
 and CC O O
 more RBR I-ADJP O
@@ -11357,7 +11357,7 @@ are VBP I-VP O
 absolutely RB I-NP O
 fundamental JJ I-NP O
 , , I-NP O
-" " O O
+' ' O O
 Zieleniec NNP I-NP I-PER
 , , O O
 who WP I-NP O
@@ -11421,7 +11421,7 @@ city NN I-NP O
 Brno NNP B-NP I-LOC
 . . O O
 
-" " O O
+' ' O O
 I PRP I-NP O
 am VBP I-VP O
 convinced VBN I-VP O
@@ -11434,7 +11434,7 @@ tackle VB I-VP O
 these DT I-NP O
 proposals NNS I-NP O
 , , O O
-" " O O
+' ' O O
 he PRP I-NP O
 said VBD I-VP O
 . . O O
@@ -11687,7 +11687,7 @@ the DT I-NP O
 accounts NNS I-NP O
 . . O O
 
-" " O O
+' ' O O
 In IN I-PP O
 1970s NNS I-NP O
 , , O O
@@ -11719,7 +11719,7 @@ do VBP I-VP O
 not RB I-VP O
 know VB I-VP O
 , , O O
-" " O O
+' ' O O
 Rosati NNP I-NP I-PER
 told VBD I-VP O
 a DT I-NP O
@@ -11842,7 +11842,7 @@ War NNP I-NP I-MISC
 Two CD I-NP I-MISC
 . . O O
 
-" " O O
+' ' O O
 I PRP I-NP O
 expect VBP I-VP O
 that IN I-SBAR O
@@ -11865,7 +11865,7 @@ will MD I-VP O
 be VB I-VP O
 provided VBN I-VP O
 , , O O
-" " O O
+' ' O O
 Rosati NNP I-NP I-PER
 said VBD I-VP O
 . . O O
@@ -11912,10 +11912,10 @@ francs NNS I-NP O
 from IN I-PP O
 the DT I-NP O
 so-called JJ I-NP O
-" " O O
+' ' O O
 dead JJ I-ADJP O
 accounts NNS I-NP O
-" " O O
+' ' O O
 as IN I-PP O
 part NN I-NP O
 of IN I-PP O
@@ -11923,7 +11923,7 @@ the DT I-NP O
 compensation NN I-NP O
 . . O O
 
-" " O O
+' ' O O
 About IN I-NP O
 16,000 CD I-NP O
 francs NNS I-NP O
@@ -11963,7 +11963,7 @@ significance NN I-NP O
 is VBZ I-VP O
 small JJ I-ADJP O
 , , O O
-" " O O
+' ' O O
 Rosati NNP I-NP I-PER
 said VBD I-VP O
 . . O O
@@ -12255,7 +12255,7 @@ to TO I-PP O
 beer NN I-NP O
 . . O O
 
-" " O O
+' ' O O
 The DT I-NP O
 perspective NN I-NP O
 on IN I-PP O
@@ -12280,7 +12280,7 @@ is VBZ I-VP O
 certainly RB I-VP O
 reachable JJ I-ADJP O
 , , O O
-" " O O
+' ' O O
 van NNP I-NP O
 Boxmeer NNP I-NP I-PER
 said VBD I-VP O
@@ -12570,7 +12570,7 @@ market NN I-NP O
 overcapacity NN I-NP O
 . . O O
 
-" " O O
+' ' O O
 I PRP I-NP O
 think VBP I-VP O
 Polish JJ I-NP I-MISC
@@ -12619,7 +12619,7 @@ the DT I-NP O
 Czech JJ I-NP I-LOC
 beers NNS I-NP O
 , , O O
-" " O O
+' ' O O
 he PRP I-NP O
 said VBD I-VP O
 . . O O
@@ -12699,7 +12699,7 @@ largest-selling JJ I-NP O
 brand NN I-NP O
 . . O O
 
-" " O O
+' ' O O
 You PRP I-NP O
 will MD I-VP O
 not RB I-VP O
@@ -12716,7 +12716,7 @@ imported VBN I-NP O
 international JJ I-NP O
 brands NNS I-NP O
 , , O O
-" " O O
+' ' O O
 van NNP I-NP O
 Boxmeer NNP I-NP I-PER
 said VBD I-VP O
@@ -12859,7 +12859,7 @@ significantly RB I-ADVP O
 improved VBD I-VP O
 . . O O
 
-" " O O
+' ' O O
 A DT I-NP O
 worsening VBG I-NP O
 in IN I-PP O
@@ -12872,7 +12872,7 @@ took VBD I-VP O
 place NN I-NP O
 yesterday NN B-NP O
 , , O O
-" " O O
+' ' O O
 presidential JJ I-NP O
 spokesman NN I-NP O
 Ladlislav NNP I-NP I-PER
@@ -12883,7 +12883,7 @@ a DT I-NP O
 statement NN I-NP O
 . . O O
 
-" " O O
+' ' O O
 A DT I-NP O
 tracheotomy NN I-NP O
 was VBD I-VP O
@@ -12901,11 +12901,11 @@ a DT I-NP O
 breathing NN I-NP O
 device NN I-NP O
 , , O O
-" " O O
+' ' O O
 he PRP I-NP O
 said VBD I-VP O
 . . O O
-" " O O
+' ' O O
 
 After IN I-PP O
 these DT I-NP O
@@ -12918,7 +12918,7 @@ condition NN I-NP O
 signigicantly RB I-VP O
 improved VBN I-VP O
 . . O O
-" " O O
+' ' O O
 
 Havel NNP I-NP I-PER
 has VBZ I-VP O
@@ -13027,10 +13027,10 @@ the DT I-NP O
 latest JJS I-NP O
 round NN I-NP O
 of IN I-PP O
-" " O O
+' ' O O
 open JJ I-NP O
 skies NNS I-NP O
-" " O O
+' ' O O
 talks NNS I-NP O
 with IN I-PP O
 the DT I-NP O
@@ -13064,7 +13064,7 @@ the DT I-NP O
 DOT NNP I-NP I-ORG
 told VBD I-VP O
 Reuters NNP I-NP I-ORG
-" " O O
+' ' O O
 We PRP I-NP O
 have VBP I-VP O
 had VBN I-VP O
@@ -13106,7 +13106,7 @@ for IN I-PP O
 further JJ I-NP O
 talks NNS I-NP O
 . . O O
-" " O O
+' ' O O
 
 -DOCSTART- -X- -X- O
 
@@ -13519,7 +13519,7 @@ last JJ B-NP O
 month NN I-NP O
 . . O O
 
-" " O O
+' ' O O
 I PRP I-NP O
 agree VBP I-VP O
 ... : O O
@@ -13568,7 +13568,7 @@ UK NNP I-NP I-LOC
 and CC O O
 U.S. NNP I-NP I-LOC
 , , O O
-" " O O
+' ' O O
 he PRP I-NP O
 said VBD I-VP O
 . . O O
@@ -13666,11 +13666,11 @@ the DT I-NP O
 terms NNS I-NP O
 as IN I-PP O
 a DT I-NP O
-" " O O
+' ' O O
 deal NN I-NP O
 breaker NN I-NP O
 . . O O
-" " O O
+' ' O O
 
 However RB I-ADVP O
 , , O O
@@ -13678,10 +13678,10 @@ it PRP I-NP O
 called VBD I-VP O
 the DT I-NP O
 conditions NNS I-NP O
-" " O O
+' ' O O
 more JJR I-NP O
 severe JJ I-NP O
-" " O O
+' ' O O
 than IN I-PP O
 those DT I-NP O
 imposed VBN I-VP O
@@ -13702,7 +13702,7 @@ initial JJ I-NP O
 response NN I-NP O
 was VBD I-VP O
 that IN I-SBAR O
-" " O O
+' ' O O
 unconditional JJ I-NP O
 divestiture NN I-NP O
 of IN I-PP O
@@ -13723,7 +13723,7 @@ fair JJ I-NP O
 market NN I-NP O
 value NN I-NP O
 . . O O
-" " O O
+' ' O O
 
 It PRP I-NP O
 added VBD I-VP O
@@ -13731,7 +13731,7 @@ that IN I-SBAR O
 it PRP I-NP O
 would MD I-VP O
 be VB I-VP O
-" " O O
+' ' O O
 prepared VBN I-VP O
 to TO I-VP O
 take VB I-VP O
@@ -13745,7 +13745,7 @@ of IN I-PP O
 additional JJ I-NP O
 competition NN I-NP O
 . . O O
-" " O O
+' ' O O
 
 The DT I-NP O
 government NN I-NP O
@@ -13948,7 +13948,7 @@ quotes VBZ I-VP O
 basis NN I-NP O
 Genoa NNP I-NP I-ORG
 . . I-NP O
-" " O O
+' ' O O
 
 The DT I-NP O
 sharp JJ I-NP O
@@ -13960,7 +13960,7 @@ make VB I-VP O
 everyone NN I-NP O
 nervous JJ I-ADJP O
 , , O O
-" " O O
+' ' O O
 a DT I-NP O
 trader NN I-NP O
 said VBD I-VP O
@@ -14286,7 +14286,7 @@ as IN I-PP O
 serious JJ I-ADJP O
 . . O O
 
-" " O O
+' ' O O
 At IN I-PP O
 the DT I-NP O
 moment NN I-NP O
@@ -14316,7 +14316,7 @@ the DT I-NP O
 time NN I-NP O
 being VBG I-VP O
 , , O O
-" " O O
+' ' O O
 a DT I-NP O
 spokeswoman NN I-NP O
 said VBD I-VP O
@@ -14493,11 +14493,11 @@ John NNP I-NP I-PER
 Gorst NNP I-NP I-PER
 had VBD I-VP O
 not RB I-VP O
-" " O O
+' ' O O
 resigned VBD I-VP O
 the DT I-NP O
 whip NN I-NP O
-" " O O
+' ' O O
 ( ( O O
 quit VB I-VP O
 the DT I-NP O
@@ -14517,7 +14517,7 @@ the DT I-NP O
 parliament NN I-NP O
 . . O O
 
-" " O O
+' ' O O
 He PRP I-NP O
 ( ( O O
 Gorst NN I-NP I-PER
@@ -14545,7 +14545,7 @@ has VBZ I-VP O
 a DT I-NP O
 majority NN I-NP O
 , , O O
-" " O O
+' ' O O
 a DT I-NP O
 spokesman NN I-NP O
 from IN I-PP O
@@ -14587,7 +14587,7 @@ a DT I-NP O
 press NN I-NP O
 conference NN I-NP O
 : : O O
-" " O O
+' ' O O
 I PRP I-NP O
 have VBP I-VP O
 seen VBN I-VP O
@@ -14614,7 +14614,7 @@ to TO I-PP O
 me PRP I-NP O
 now RB I-ADVP O
 . . O O
-" " O O
+' ' O O
 
 Before IN I-PP O
 Gorst NNP I-NP I-PER
@@ -14646,7 +14646,7 @@ statement NN I-NP O
 Gorst NNP I-NP I-PER
 said VBD I-VP O
 : : O O
-" " O O
+' ' O O
 I PRP I-NP O
 am VBP I-VP O
 today NN I-NP O
@@ -14661,7 +14661,7 @@ shall MD I-VP O
 not RB O O
 treat VB I-VP O
 the DT I-NP O
-" " O O
+' ' O O
 whip NN I-NP O
 ' '' O O
 as IN I-PP O
@@ -14686,7 +14686,7 @@ vote VB I-VP O
 as RB I-NP O
 advised VBN I-NP O
 . . O O
-" " O O
+' ' O O
 
 Gorst JJS I-NP I-PER
 resigned VBD I-VP O
@@ -15860,11 +15860,11 @@ Fe NNP I-NP I-ORG
 would MD I-VP O
 be VB I-VP O
 a DT I-NP O
-" " O O
+' ' O O
 bear VB I-VP O
 hug NN I-NP O
 , , O O
-" " O O
+' ' O O
 or CC O O
 a DT I-NP O
 reluctantly RB I-VP O
@@ -16247,7 +16247,7 @@ earnings NNS I-NP O
 accretion NN I-NP O
 . . O O
 
-" " O O
+' ' O O
 I PRP I-NP O
 think VBP I-VP O
 Homestake NNP I-NP I-ORG
@@ -16300,12 +16300,12 @@ deal NN I-NP O
 with IN I-PP O
 someone NN I-NP O
 , , O O
-" " O O
+' ' O O
 he PRP I-NP O
 said VBD I-VP O
 . . O O
 
-" " O O
+' ' O O
 Longer JJR I-NP O
 term NN I-NP O
 , , O O
@@ -16344,7 +16344,7 @@ worst JJS I-ADVP O
 , , O O
 neutral JJ I-ADJP O
 , , O O
-" " O O
+' ' O O
 the DT I-NP O
 analyst NN I-NP O
 added VBD I-VP O
@@ -16395,7 +16395,7 @@ to TO I-PP O
 15-1/8 CD I-NP O
 . . O O
 
-" " O O
+' ' O O
 Newmont NNP I-NP I-ORG
 said VBD I-VP O
 it PRP I-NP O
@@ -16426,7 +16426,7 @@ our PRP$ I-NP O
 pocket NN I-NP O
 , , O O
 ' '' O O
-" " O O
+' ' O O
 said VBD I-VP O
 an DT I-NP O
 arb NN I-NP O
@@ -16449,12 +16449,12 @@ Newmont NNP I-NP I-ORG
 's POS B-NP O
 move NN I-NP O
 a DT B-NP O
-" " O O
+' ' O O
 a DT I-NP O
 32 CD I-NP O
 cent NN I-NP O
 bid NN I-NP O
-" " O O
+' ' O O
 because IN I-SBAR O
 there EX I-NP O
 is VBZ I-VP O
@@ -16467,9 +16467,9 @@ only RB I-NP O
 the DT I-NP O
 proposal NN I-NP O
 letter NN I-NP O
-" " O O
+' ' O O
 mailed VBN I-VP O
-" " O O
+' ' O O
 to TO I-VP O
 Santa VB I-VP I-ORG
 Fe NNP I-NP I-ORG
@@ -16775,7 +16775,7 @@ he PRP I-NP O
 said VBD I-VP O
 . . O O
 
-" " O O
+' ' O O
 Tomorrow NN I-NP O
 I PRP B-NP O
 'm VBP I-VP O
@@ -16809,7 +16809,7 @@ on IN I-PP O
 the DT I-NP O
 ground NN I-NP O
 , , O O
-" " O O
+' ' O O
 he PRP I-NP O
 said VBD I-VP O
 . . O O
@@ -16926,7 +16926,7 @@ major JJ I-NP O
 way NN I-NP O
 . . O O
 
-" " O O
+' ' O O
 It PRP I-NP O
 does VBZ I-VP O
 n't RB I-VP O
@@ -16965,7 +16965,7 @@ Zaire NNP I-NP I-LOC
 and CC I-NP O
 Rwanda NNP I-NP I-LOC
 , , O O
-" " O O
+' ' O O
 Young NNP I-NP I-PER
 told VBD I-VP O
 reporters NNS I-NP O
@@ -16993,7 +16993,7 @@ more JJR I-NP O
 information NN I-NP O
 . . O O
 
-" " O O
+' ' O O
 We PRP I-NP O
 hope VBP I-VP O
 that IN I-SBAR O
@@ -17024,7 +17024,7 @@ humanitarian JJ I-NP O
 agencies NNS I-NP O
 . . O O
 
-" " O O
+' ' O O
 If IN I-SBAR O
 they PRP I-NP O
 ca MD I-VP O
@@ -17088,7 +17088,7 @@ to TO I-VP O
 use VB I-VP O
 it PRP I-NP O
 , , O O
-" " O O
+' ' O O
 he PRP I-NP O
 said VBD I-VP O
 . . O O
@@ -17108,7 +17108,7 @@ government NN I-NP O
 he PRP I-NP O
 said VBD I-VP O
 : : O O
-" " O O
+' ' O O
 It PRP I-NP O
 would MD I-VP O
 have VB I-VP O
@@ -17169,7 +17169,7 @@ in IN I-PP O
 eastern JJ I-NP O
 Zaire NNP I-NP I-LOC
 . . I-NP O
-" " O O
+' ' O O
 
 Under IN I-PP O
 Chapter NNP I-NP O
@@ -17192,7 +17192,7 @@ and CC I-NP O
 security NN I-NP O
 . . O O
 
-" " O O
+' ' O O
 I PRP I-NP O
 know VB I-VP O
 their PRP$ I-NP O
@@ -17220,7 +17220,7 @@ their PRP$ I-NP O
 position NN I-NP O
 also RB I-ADVP O
 , , O O
-" " O O
+' ' O O
 the DT I-NP O
 general NN I-NP O
 added VBD I-VP O
@@ -17245,17 +17245,17 @@ to TO I-PP O
 negotiations NNS I-NP O
 . . O O
 
-" " O O
+' ' O O
 I PRP I-NP O
 do VBP I-VP O
 n't RB I-VP O
 negotiate VB I-VP O
 , , O O
-" " O O
+' ' O O
 he PRP I-NP O
 said VBD I-VP O
 . . O O
-" " O O
+' ' O O
 
 I PRP I-NP O
 coordinate VBP I-VP O
@@ -17294,7 +17294,7 @@ the DT B-NP O
 risk NN I-NP O
 is VBZ I-VP O
 . . O O
-" " O O
+' ' O O
 
 Baril NNP I-NP I-PER
 said VBD I-VP O
@@ -17729,7 +17729,7 @@ African JJ I-NP I-MISC
 candidate NN I-NP O
 . . O O
 
-" " O O
+' ' O O
 If IN I-SBAR O
 Africa NNP I-NP I-LOC
 does VBZ I-VP O
@@ -17745,11 +17745,11 @@ to TO I-VP O
 act VB I-VP O
 fast RB I-ADVP O
 , , O O
-" " O O
+' ' O O
 Diouf NNP I-NP I-PER
 said VBD I-VP O
 . . O O
-" " O O
+' ' O O
 
 Some DT I-NP O
 of IN I-PP O
@@ -17789,7 +17789,7 @@ given VBN I-VP O
 my PRP$ I-NP O
 endorsement NN I-NP O
 . . O O
-" " O O
+' ' O O
 
 -DOCSTART- -X- -X- O
 
@@ -17880,7 +17880,7 @@ army NN I-NP O
 mutineers NNS I-NP O
 . . O O
 
-" " O O
+' ' O O
 France NNP I-NP I-LOC
 cannot MD I-VP O
 be VB I-VP O
@@ -17891,7 +17891,7 @@ domestic JJ I-NP O
 political JJ I-NP O
 debate NN I-NP O
 , , O O
-" " O O
+' ' O O
 President NNP I-NP O
 Jacques NNP I-NP I-PER
 Chirac NNP I-NP I-PER
@@ -17911,7 +17911,7 @@ Burkina NNP I-NP I-LOC
 Faso NNP I-NP I-LOC
 . . O O
 
-" " O O
+' ' O O
 French JJ I-NP I-MISC
 troops NNS I-NP O
 may MD I-VP O
@@ -17930,7 +17930,7 @@ protect VB I-VP O
 foreign JJ I-NP O
 communities NNS I-NP O
 , , O O
-" " O O
+' ' O O
 he PRP I-NP O
 said VBD I-VP O
 . . O O
@@ -18226,12 +18226,12 @@ Compaore NNP I-NP I-PER
 would MD I-VP O
 visit VB I-VP O
 Bangui NNP I-NP I-LOC
-" " O O
+' ' O O
 in IN I-PP O
 the DT I-NP O
 coming VBG I-NP O
 hours NNS I-NP O
-" " O O
+' ' O O
 with IN I-PP O
 the DT I-NP O
 heads NNS I-NP O
@@ -18639,7 +18639,7 @@ told VBN I-VP O
 Reuters NNP I-NP I-ORG
 . . O O
 
-" " O O
+' ' O O
 A DT I-NP O
 group NN I-NP O
 of IN I-PP O
@@ -18660,13 +18660,13 @@ caused VBD I-VP O
 no DT I-NP O
 injury NN I-NP O
 , , O O
-" " O O
+' ' O O
 the DT I-NP O
 spokesman NN I-NP O
 said VBD I-VP O
 . . O O
 
-" " O O
+' ' O O
 All DT I-NP O
 four CD I-NP O
 attackers NNS I-NP O
@@ -18678,7 +18678,7 @@ have VBP I-VP O
 been VBN I-VP O
 detained VBN I-VP O
 , , O O
-" " O O
+' ' O O
 the DT I-NP O
 spokesman NN I-NP O
 added VBD I-VP O
@@ -18692,7 +18692,7 @@ more JJR I-NP O
 details NNS I-NP O
 . . O O
 
-" " O O
+' ' O O
 The DT I-NP O
 further JJ I-NP O
 procedure NN I-NP O
@@ -18707,7 +18707,7 @@ local JJ I-NP O
 police NN I-NP O
 investigator NN I-NP O
 , , O O
-" " O O
+' ' O O
 the DT I-NP O
 spokesman NN I-NP O
 said VBD I-VP O
@@ -18839,7 +18839,7 @@ his PRP$ I-NP O
 action NN I-NP O
 . . O O
 
-" " O O
+' ' O O
 Evaluating VBG I-VP O
 all DT I-NP O
 the DT I-NP O
@@ -18863,7 +18863,7 @@ minimum JJ I-NP O
 years NNS I-NP O
 ) ) O O
 , , O O
-" " O O
+' ' O O
 Tirana NNP I-NP I-LOC
 judge NN I-NP O
 Qazim NNP I-NP I-PER
@@ -18964,7 +18964,7 @@ on IN I-PP O
 Friday NNP I-NP O
 . . O O
 
-" " O O
+' ' O O
 President NNP I-NP O
 Kwasniewski NNP I-NP I-PER
 plans VBZ I-VP O
@@ -18989,7 +18989,7 @@ is VBZ I-VP O
 also RB I-VP O
 planned VBN I-VP O
 , , O O
-" " O O
+' ' O O
 Dariusz NNP I-NP I-PER
 Rosati NNP I-NP I-PER
 told VBD I-VP O
@@ -19193,7 +19193,7 @@ be VB I-VP O
 frozen VBN I-ADJP O
 . . O O
 
-" " O O
+' ' O O
 Norilsk NNP I-NP I-ORG
 really RB I-ADVP O
 is VBZ I-VP O
@@ -19209,7 +19209,7 @@ and CC I-NP O
 regional JJ I-NP O
 budgets NNS I-NP O
 , , O O
-" " O O
+' ' O O
 said VBD I-VP O
 Konstantin NNP I-NP I-PER
 Chernyshev NNPS B-NP I-PER
@@ -19226,7 +19226,7 @@ a DT I-NP O
 Norilsk NNP I-NP I-ORG
 watcher NN I-NP O
 . . O O
-" " O O
+' ' O O
 
 Livshits NNP I-NP I-PER
 's POS B-NP O
@@ -19241,7 +19241,7 @@ on IN I-PP O
 the DT I-NP O
 company NN I-NP O
 . . O O
-" " O O
+' ' O O
 
 The DT I-NP O
 official JJ I-NP O
@@ -19276,7 +19276,7 @@ metals NNS I-NP O
 group NN I-NP O
 . . O O
 
-" " O O
+' ' O O
 If IN I-SBAR O
 it PRP I-NP O
 was VBD I-VP O
@@ -19297,7 +19297,7 @@ obviously RB I-ADVP O
 means VBZ I-VP O
 something NN I-NP O
 , , O O
-" " O O
+' ' O O
 said VBD I-VP O
 Christopher NNP I-NP I-PER
 Granville NNP I-NP I-PER
@@ -19312,7 +19312,7 @@ in IN I-PP O
 Moscow NNP I-NP I-LOC
 . . O O
 
-" " O O
+' ' O O
 But CC O O
 if IN I-SBAR O
 it PRP I-NP O
@@ -19340,7 +19340,7 @@ could MD I-VP O
 have VB I-VP O
 given VBN I-VP O
 . . O O
-" " O O
+' ' O O
 
 Russian JJ I-NP I-MISC
 tax NN I-NP O
@@ -19403,7 +19403,7 @@ face VB I-VP O
 liquidation NN I-NP O
 . . O O
 
-" " O O
+' ' O O
 They PRP I-NP O
 could MD I-VP O
 freeze VB I-VP O
@@ -19428,11 +19428,11 @@ in IN I-PP O
 the DT I-NP O
 budget NN I-NP O
 , , O O
-" " O O
+' ' O O
 Chernyshev NNP I-NP I-PER
 said VBD I-VP O
 . . O O
-" " O O
+' ' O O
 
 I PRP I-NP O
 do VBP I-VP O
@@ -19443,7 +19443,7 @@ would MD I-VP O
 do VB I-VP O
 that DT I-NP O
 . . O O
-" " O O
+' ' O O
 
 Entire RB I-ADVP O
 social JJ I-NP O
@@ -19559,7 +19559,7 @@ its PRP$ I-NP O
 act NN I-NP O
 . . O O
 
-" " O O
+' ' O O
 The DT I-NP O
 procedure NN I-NP O
 of IN I-PP O
@@ -19568,7 +19568,7 @@ will MD I-VP O
 be VB I-VP O
 applied VBN I-VP O
 , , O O
-" " O O
+' ' O O
 Tass NNP I-NP I-ORG
 quoted VBD I-VP O
 Livshits NNP I-NP I-PER
@@ -19604,7 +19604,7 @@ worker NN I-NP O
 strikes NNS I-NP O
 . . O O
 
-" " O O
+' ' O O
 It PRP I-NP O
 is VBZ I-VP O
 unlikely JJ I-ADJP O
@@ -19629,7 +19629,7 @@ the DT I-NP O
 near JJ I-NP O
 future NN I-NP O
 , , O O
-" " O O
+' ' O O
 Chernyshev NNP I-NP I-PER
 said VBD I-VP O
 . . O O
@@ -19703,7 +19703,7 @@ Norilsk NNP I-NP I-ORG
 situation NN I-NP O
 . . O O
 
-" " O O
+' ' O O
 Uneximbank NN I-NP I-ORG
 has VBZ I-VP O
 inherited VBN I-VP O
@@ -19724,7 +19724,7 @@ to TO I-VP O
 be VB I-VP O
 seen VBN I-VP O
 , , O O
-" " O O
+' ' O O
 said VBD I-VP O
 one CD I-NP O
 metals NNS I-NP O
@@ -19974,12 +19974,12 @@ Moscow NNP I-NP I-LOC
 was VBD I-VP O
 ready JJ I-ADJP O
 for IN I-PP O
-" " O O
+' ' O O
 most JJS I-NP O
 active JJ I-NP O
 and CC I-NP O
 constructive JJ I-NP O
-" " O O
+' ' O O
 work NN I-NP O
 with IN I-PP O
 Albright NNP I-NP I-PER
@@ -20020,7 +20020,7 @@ were VBD I-VP O
 re-elected VBN I-VP O
 . . O O
 
-" " O O
+' ' O O
 Our PRP$ I-NP O
 countries NNS I-NP O
 ' POS B-NP O
@@ -20055,7 +20055,7 @@ worked VBN I-VP O
 out RP I-PRT O
 there RB I-ADVP O
 , , O O
-" " O O
+' ' O O
 Ivanov NNP I-NP I-PER
 told VBD I-VP O
 Interfax NNP I-NP I-ORG
@@ -20190,7 +20190,7 @@ on IN I-PP O
 Friday NNP I-NP O
 . . O O
 
-" " O O
+' ' O O
 Today NN I-NP O
 he PRP B-NP O
 is VBZ I-VP O
@@ -20207,7 +20207,7 @@ in IN I-PP O
 his PRP$ I-NP O
 cheeks NNS I-NP O
 , , O O
-" " O O
+' ' O O
 said VBD I-VP O
 Yegor NNP I-NP I-PER
 Stroyev NNP I-NP I-PER
@@ -20224,7 +20224,7 @@ a DT I-NP O
 country NN I-NP O
 residence NN I-NP O
 . . O O
-" " O O
+' ' O O
 
 He PRP I-NP O
 told VBD I-VP O
@@ -20247,7 +20247,7 @@ such PDT I-NP O
 an DT I-NP O
 operation NN I-NP O
 . . O O
-" " O O
+' ' O O
 
 December NNP I-NP O
 25 CD I-NP O
@@ -20512,7 +20512,7 @@ the DT I-NP O
 move NN I-NP O
 . . O O
 
-" " O O
+' ' O O
 This DT I-NP O
 was VBD I-VP O
 an DT I-NP O
@@ -20540,7 +20540,7 @@ wife NN I-NP O
 and CC I-NP O
 children NNS I-NP O
 , , O O
-" " O O
+' ' O O
 he PRP I-NP O
 told VBD I-VP O
 TASR NNP I-NP I-ORG
@@ -20753,7 +20753,7 @@ dealers NNS I-NP O
 said VBD I-VP O
 . . O O
 
-" " O O
+' ' O O
 The DT I-NP O
 banks NNS I-NP O
 are VBP I-VP O
@@ -20766,7 +20766,7 @@ December NNP I-NP O
 tax NN I-NP O
 payment NN I-NP O
 , , O O
-" " O O
+' ' O O
 said VBD I-VP O
 Budapest NNP I-NP I-LOC
 Bank NNP I-NP O
@@ -20774,7 +20774,7 @@ Bank NNP I-NP O
 Sandor NNP I-NP I-PER
 Tolonics NNPS I-NP I-PER
 . . O O
-" " O O
+' ' O O
 
 They PRP I-NP O
 expect VBP I-VP O
@@ -20782,7 +20782,7 @@ a DT I-NP O
 larger-than-average JJ I-NP O
 payment NN I-NP O
 . . O O
-" " O O
+' ' O O
 
 The DT I-NP O
 overnight JJ I-NP O
@@ -20906,7 +20906,7 @@ volatility NN I-NP O
 abated VBN I-VP O
 . . O O
 
-" " O O
+' ' O O
 It PRP I-NP O
 was VBD I-VP O
 Greenspan NNP I-NP I-PER
@@ -20936,7 +20936,7 @@ buyers NNS I-NP O
 stepped VBD I-VP O
 in RB I-ADVP O
 , , O O
-" " O O
+' ' O O
 said VBD I-VP O
 a DT I-NP O
 trader NN I-NP O
@@ -20954,10 +20954,10 @@ comments NNS I-NP O
 that IN I-SBAR O
 assets NNS I-NP O
 were VBD I-VP O
-" " O O
+' ' O O
 irrationally RB I-ADVP O
 exhuberant JJ I-NP O
-" " O O
+' ' O O
 upset JJ I-ADJP O
 financial JJ I-NP O
 markets NNS I-NP O
@@ -21166,7 +21166,7 @@ $ $ I-NP O
 25.875 CD I-NP O
 . . O O
 
-" " O O
+' ' O O
 Falling NNP I-NP O
 share NN I-NP O
 prices NNS I-NP O
@@ -21200,7 +21200,7 @@ takes VBZ I-VP O
 its PRP$ I-NP O
 toll NN I-NP O
 , , O O
-" " O O
+' ' O O
 said VBD I-VP O
 Carlos NNP I-NP I-PER
 Ponce NNP I-NP I-PER
@@ -21227,7 +21227,7 @@ Friday NNP I-NP O
 was VBD I-VP O
 . . O O
 
-" " O O
+' ' O O
 Some DT I-NP O
 buyers NNS I-NP O
 stepped VBD I-VP O
@@ -21246,13 +21246,13 @@ Volume NN I-NP O
 was VBD I-VP O
 lackluster JJ I-ADJP O
 , , O O
-" " O O
+' ' O O
 said VBD I-VP O
 one CD I-NP O
 trader NN I-NP O
 . . O O
 
-" " O O
+' ' O O
 The DT I-NP O
 market NN I-NP O
 's POS B-NP O
@@ -21263,7 +21263,7 @@ we PRP I-NP O
 're VBP I-VP O
 buying NN I-NP O
 , , O O
-" " O O
+' ' O O
 said VBD I-VP O
 another DT I-NP O
 trader NN I-NP O
@@ -21428,7 +21428,7 @@ he PRP I-NP O
 said VBD I-VP O
 . . O O
 
-" " O O
+' ' O O
 Brazil NNP I-NP I-LOC
 ranks VBZ I-VP O
 right RB I-ADVP O
@@ -21468,12 +21468,12 @@ highest JJS I-NP O
 for IN I-PP O
 everything NN I-NP O
 , , O O
-" " O O
+' ' O O
 Hakme NNP I-NP I-PER
 said VBD I-VP O
 . . O O
 
-" " O O
+' ' O O
 We PRP I-NP O
 believe VBP I-VP O
 the DT I-NP O
@@ -21518,7 +21518,7 @@ America NNP I-NP I-LOC
 's POS B-NP O
 economy NN I-NP O
 . . O O
-" " O O
+' ' O O
 
 A DT I-NP O
 controlled JJ I-NP O
@@ -21646,7 +21646,7 @@ create VB I-VP O
 physical JJ I-NP O
 disharmonies NNS I-NP O
 . . O O
-" " O O
+' ' O O
 
 What WP I-NP O
 happens VBZ I-VP O
@@ -21669,7 +21669,7 @@ with IN I-PP O
 the DT I-NP O
 legs NNS I-NP O
 , , O O
-" " O O
+' ' O O
 he PRP I-NP O
 said VBD I-VP O
 . . O O
@@ -21744,7 +21744,7 @@ buttock NN I-NP O
 implants NNS I-NP O
 . . O O
 
-" " O O
+' ' O O
 The DT I-NP O
 women NNS I-NP O
 who WP B-NP O
@@ -21765,14 +21765,14 @@ the DT I-NP O
 United NNP I-NP I-LOC
 States NNP I-NP I-LOC
 , , O O
-" " O O
+' ' O O
 SBCP NNP I-NP I-ORG
 Vice-President NNP I-NP O
 Oswaldo NNP I-NP I-PER
 Saldanha NNP I-NP I-PER
 said VBD I-VP O
 . . O O
-" " O O
+' ' O O
 
 Beauty NN I-NP O
 ideals NNS I-NP O
@@ -21784,7 +21784,7 @@ in IN I-PP O
 every DT I-NP O
 country NN I-NP O
 . . O O
-" " O O
+' ' O O
 
 Plastic NNP I-NP O
 surgery NN I-NP O
@@ -22223,9 +22223,9 @@ exam NN I-NP O
 cheats NNS I-NP O
 caught VBN I-VP O
 using VBG I-VP O
-" " O O
+' ' O O
 pager NN I-NP O
-" " O O
+' ' O O
 watches NNS I-NP O
 . . O O
 
@@ -22696,7 +22696,7 @@ Norwegian JJ I-NP I-MISC
 capital NN I-NP O
 . . O O
 
-" " O O
+' ' O O
 I PRP I-NP O
 sincerely RB I-ADVP O
 believe VBP I-VP O
@@ -22732,7 +22732,7 @@ East NNP I-NP I-LOC
 Timor NNP I-NP I-LOC
 ) ) O O
 , , O O
-" " O O
+' ' O O
 Alatas NNS I-NP I-PER
 said VBD I-VP O
 on IN I-PP O
@@ -22886,7 +22886,7 @@ involved VBN I-VP O
 Alatas NNP I-NP I-PER
 replied VBD I-VP O
 : : O O
-" " O O
+' ' O O
 Probably RB I-ADVP O
 , , O O
 yes UH I-INTJ O
@@ -22898,7 +22898,7 @@ a DT I-NP O
 hypothetical JJ I-NP O
 question NN I-NP O
 . . O O
-" " O O
+' ' O O
 
 Alatas NNS I-NP I-PER
 said VBD I-VP O
@@ -23374,7 +23374,7 @@ no DT I-NP O
 clashes NNS I-NP O
 . . O O
 
-" " O O
+' ' O O
 They PRP I-NP O
 are VBP I-VP O
 now RB I-VP O
@@ -23384,7 +23384,7 @@ the DT I-NP O
 YIT NNP I-NP I-ORG
 campus NN I-NP O
 , , O O
-" " O O
+' ' O O
 an DT I-NP O
 institute NN I-NP O
 official NN I-NP O
@@ -23643,7 +23643,7 @@ on IN I-PP O
 campus NN I-NP O
 . . O O
 
-" " O O
+' ' O O
 We PRP I-NP O
 still RB I-ADVP O
 want VBP I-VP O
@@ -23664,7 +23664,7 @@ published VBN I-VP O
 in IN I-PP O
 newspapers NNS I-NP O
 , , O O
-" " O O
+' ' O O
 one CD I-NP O
 student NN I-NP O
 said VBD I-VP O
@@ -23732,10 +23732,10 @@ both DT I-NP O
 parties NNS I-NP O
 had VBD I-VP O
 a DT I-NP O
-" " O O
+' ' O O
 moral JJ I-NP O
 link NN I-NP O
-" " O O
+' ' O O
 in IN I-PP O
 that IN I-SBAR O
 they PRP I-NP O
@@ -23918,7 +23918,7 @@ general NN I-NP O
 Michel NNP I-NP I-PER
 Hansenne NNP I-NP I-PER
 was VBD I-VP O
-" " O O
+' ' O O
 outrageous JJ I-ADJP O
 behaviour NN I-ADJP O
 on IN I-PP O
@@ -23935,7 +23935,7 @@ respect NN I-NP O
 in IN I-PP O
 the DT I-NP O
 world NN I-NP O
-" " O O
+' ' O O
 . . O O
 
 Jordan NNP I-NP I-PER
@@ -23976,7 +23976,7 @@ such JJ I-NP O
 links NNS I-NP O
 . . O O
 
-" " O O
+' ' O O
 It PRP I-NP O
 is VBZ I-VP O
 to TO I-PP O
@@ -24001,7 +24001,7 @@ in IN I-PP O
 silencing VBG I-VP O
 him PRP I-NP O
 , , O O
-" " O O
+' ' O O
 Jordan NNP I-NP I-PER
 said VBD I-VP O
 after IN I-PP O
@@ -24106,7 +24106,7 @@ news NN I-NP O
 conference NN I-NP O
 he PRP B-NP O
 was VBD I-VP O
-" " O O
+' ' O O
 not RB I-VP O
 too RB I-VP O
 surprised VBN I-VP O
@@ -24114,7 +24114,7 @@ surprised VBN I-VP O
 but CC O O
 very RB I-ADJP O
 disappointed JJ I-ADJP O
-" " O O
+' ' O O
 that IN I-SBAR O
 the DT I-NP O
 speaking NN I-NP O
@@ -24124,7 +24124,7 @@ been VBN I-VP O
 withdrawn VBN I-VP O
 . . O O
 
-" " O O
+' ' O O
 Some DT I-NP O
 governments NNS I-NP O
 are VBP I-VP O
@@ -24144,7 +24144,7 @@ rights NNS I-NP O
 being VBG I-VP O
 discussed VBN I-VP O
 , , O O
-" " O O
+' ' O O
 he PRP I-NP O
 said VBD I-VP O
 , , O O
@@ -24194,10 +24194,10 @@ trade NN I-NP O
 and CC I-NP O
 labour NN I-NP O
 rights NNS I-NP O
-" " O O
+' ' O O
 social JJ I-NP O
 clause NN I-NP O
-" " O O
+' ' O O
 included VBD I-VP O
 in IN I-PP O
 the DT I-NP O
@@ -24396,7 +24396,7 @@ Matthew NNP I-NP I-PER
 added VBD I-VP O
 . . O O
 
-" " O O
+' ' O O
 Though IN I-SBAR O
 schemes NNS I-NP O
 designed VBN I-VP O
@@ -24423,7 +24423,7 @@ expected VBN I-VP O
 to TO I-VP O
 widen VB I-VP O
 , , O O
-" " O O
+' ' O O
 he PRP I-NP O
 said VBD I-VP O
 . . O O
@@ -24564,7 +24564,7 @@ in IN I-PP O
 India NNP I-NP I-LOC
 . . O O
 
-" " O O
+' ' O O
 The DT I-NP O
 development NN I-NP O
 objective NN I-NP O
@@ -24593,7 +24593,7 @@ of IN I-PP O
 natural JJ I-NP O
 rubber NN I-NP O
 , , O O
-" " O O
+' ' O O
 he PRP I-NP O
 said VBD I-VP O
 . . O O
@@ -24781,7 +24781,7 @@ dealers NNS I-NP O
 said VBD I-VP O
 . . O O
 
-" " O O
+' ' O O
 I PRP I-NP O
 think VBP I-VP O
 his PRP$ I-NP O
@@ -24806,7 +24806,7 @@ about IN I-PP O
 the DT I-NP O
 dollar NN I-NP O
 , , O O
-" " O O
+' ' O O
 said VBD I-VP O
 Hank NNP I-NP I-PER
 Note VB I-VP I-PER
@@ -24849,7 +24849,7 @@ stronger JJR I-NP O
 dollar NN I-NP O
 . . O O
 
-" " O O
+' ' O O
 It PRP I-NP O
 's VBZ I-VP O
 a DT I-NP O
@@ -24874,12 +24874,12 @@ a DT I-NP O
 certain JJ I-NP O
 direction NN I-NP O
 , , O O
-" " O O
+' ' O O
 he PRP I-NP O
 said VBD I-VP O
 . . O O
 
-" " O O
+' ' O O
 It PRP I-NP O
 shows VBZ I-VP O
 that IN I-SBAR O
@@ -24892,7 +24892,7 @@ stronger JJR I-NP O
 dollar NN I-NP O
 either RB I-ADVP O
 , , O O
-" " O O
+' ' O O
 said VBD I-VP O
 Sumitomo NNP I-NP I-ORG
 's POS I-NP O
@@ -24915,7 +24915,7 @@ Tokyo NNP I-NP I-LOC
 , , O O
 said VBD I-VP O
 : : O O
-" " O O
+' ' O O
 Maybe RB I-ADVP O
 a DT I-NP O
 dollar NN I-NP O
@@ -24948,7 +24948,7 @@ of IN I-PP O
 112 CD I-NP O
 yen NN I-NP O
 . . O O
-" " O O
+' ' O O
 
 Market NN I-NP O
 participants NNS I-NP O
@@ -25033,10 +25033,10 @@ to TO I-PP O
 yen NNS I-NP O
 as IN I-PP O
 the DT I-NP O
-" " O O
+' ' O O
 Sakakibara NNP I-NP I-PER
 ceiling NN I-NP O
-" " O O
+' ' O O
 for IN I-PP O
 the DT I-NP O
 dollar NN I-NP O
@@ -25050,10 +25050,10 @@ to TO I-PP O
 the DT I-NP O
 comments NNS I-NP O
 by IN I-PP O
-" " O O
+' ' O O
 Mr NNP I-NP I-PER
 Yen NNP I-NP I-PER
-" " O O
+' ' O O
 , , O O
 as IN I-SBAR O
 Sakakibara NNP I-NP I-PER
@@ -25075,7 +25075,7 @@ Matsushita NNP I-NP I-PER
 remark NN I-NP O
 . . O O
 
-" " O O
+' ' O O
 The DT I-NP O
 recent JJ I-NP O
 level NN I-NP O
@@ -25116,7 +25116,7 @@ at IN I-PP O
 current JJ I-NP O
 levels NNS I-NP O
 , , O O
-" " O O
+' ' O O
 Matsushita NNP I-NP I-PER
 said VBD I-VP O
 in IN I-PP O
@@ -25129,7 +25129,7 @@ Keizai NNP I-NP I-ORG
 Shimbun NNP I-NP I-ORG
 . . O O
 
-" " O O
+' ' O O
 The DT I-NP O
 fact NN I-NP O
 that IN I-SBAR O
@@ -25162,7 +25162,7 @@ past IN I-PP O
 115 CD I-NP O
 yen NN I-NP O
 , , O O
-" " O O
+' ' O O
 said VBD I-VP O
 Yasuhito NNP I-NP I-PER
 Kawashima NNP I-NP I-PER
@@ -25201,7 +25201,7 @@ Japan NNP I-NP I-LOC
 economy NN I-NP O
 . . O O
 
-" " O O
+' ' O O
 There EX I-NP O
 was VBD I-VP O
 concern NN I-NP O
@@ -25238,7 +25238,7 @@ over RP I-PRT O
 the DT I-NP O
 economy NN I-NP O
 , , O O
-" " O O
+' ' O O
 said VBD I-VP O
 Taisuke NNP I-NP I-PER
 Tanaka NNP I-NP I-PER
@@ -25271,7 +25271,7 @@ too RB I-NP O
 negative JJ I-NP O
 . . O O
 
-" " O O
+' ' O O
 I PRP I-NP O
 realise VBP I-VP O
 there EX I-NP O
@@ -25309,7 +25309,7 @@ the DT I-NP O
 negative JJ I-NP O
 impact NN I-NP O
 , , O O
-" " O O
+' ' O O
 a DT I-NP O
 senior JJ I-NP O
 BOJ NNP I-NP I-ORG
@@ -25686,12 +25686,12 @@ Peres NNP I-NP I-PER
 , , O O
 calling VBG I-VP O
 Lahd NNP I-NP I-PER
-" " O O
+' ' O O
 a DT I-NP O
 great JJ I-NP O
 Lebanese JJ I-NP I-MISC
 patriot NN I-NP O
-" " O O
+' ' O O
 , , O O
 said VBD I-VP O
 earlier RBR I-ADVP O
@@ -25736,7 +25736,7 @@ real JJ I-NP O
 negotiations NNS I-NP O
 with IN I-PP O
 Lebanon NNP I-NP I-LOC
-" " O O
+' ' O O
 unless IN I-SBAR O
 it PRP I-NP O
 will MD I-VP O
@@ -25750,7 +25750,7 @@ and CC O O
 its PRP$ I-NP O
 commanders NNS I-NP O
 . . O O
-" " O O
+' ' O O
 
 The DT I-NP O
 Beirut NNP I-NP I-LOC
@@ -25799,7 +25799,7 @@ Lahd NNP I-NP I-PER
 was VBD I-VP O
 convicted VBN I-VP O
 of IN I-PP O
-" " O O
+' ' O O
 contacting VBG I-VP O
 the DT I-NP O
 Israeli JJ I-NP I-MISC
@@ -25815,7 +25815,7 @@ hostile JJ I-NP O
 acts NNS I-NP O
 against IN I-PP O
 Lebanon NNP I-NP I-LOC
-" " O O
+' ' O O
 . . O O
 
 -DOCSTART- -X- -X- O
@@ -26404,7 +26404,7 @@ the DT I-NP O
 execution NN I-NP O
 . . O O
 
-" " O O
+' ' O O
 I PRP I-NP O
 bear VBP I-VP O
 witness NN I-NP O
@@ -26429,7 +26429,7 @@ messenger NN I-NP O
 of IN I-PP O
 God NNP I-NP I-PER
 , , O O
-" " O O
+' ' O O
 he PRP I-NP O
 quoted VBD I-VP O
 Mills NNP I-NP I-PER
@@ -26974,15 +26974,15 @@ Luebke NNP I-NP I-PER
 said VBD I-VP O
 he PRP I-NP O
 was VBD I-VP O
-" " O O
+' ' O O
 a DT I-NP O
 thief NN I-NP O
 by IN I-PP O
 habit NN I-NP O
 . . O O
-" " O O
+' ' O O
 
-" " O O
+' ' O O
 You PRP I-NP O
 are VBP I-VP O
 self-indulgent JJ I-ADJP O
@@ -26992,7 +26992,7 @@ You PRP I-NP O
 are VBP I-VP O
 narcissitic JJ I-ADJP O
 , , O O
-" " O O
+' ' O O
 Luebke NNP I-NP O
 said VBD I-VP O
 at IN I-PP O
@@ -27433,7 +27433,7 @@ were VBD I-VP O
 down RB I-ADVP O
 . . O O
 
-" " O O
+' ' O O
 Weather NNP I-NP O
 forecasts VBZ I-VP O
 have VB I-VP O
@@ -27459,7 +27459,7 @@ of IN I-PP O
 the DT I-NP O
 U.S. NNP I-NP I-LOC
 , , O O
-" " O O
+' ' O O
 one CD I-NP O
 futures NNS I-NP O
 trader NN I-NP O
@@ -27477,13 +27477,13 @@ it PRP I-NP O
 expects VBZ I-VP O
 above-normal JJ I-NP O
 temperatures NNS I-NP O
-" " O O
+' ' O O
 over IN I-PP O
 the DT I-NP O
 lower JJR I-NP O
 48 CD I-NP O
 states NNS I-NP O
-" " O O
+' ' O O
 from IN I-PP O
 December NNP I-NP O
 12 CD I-NP O
@@ -28202,14 +28202,14 @@ Mike NNP I-NP I-PER
 McCurry NNP I-NP I-PER
 said VBD I-VP O
 Clinton NNP I-NP I-PER
-" " O O
+' ' O O
 plans NNS I-NP O
 to TO I-VP O
 have VB I-VP O
 regular JJ I-NP O
 news NN I-NP O
 conferences NNS I-NP O
-" " O O
+' ' O O
 during IN I-PP O
 his PRP$ I-NP O
 second JJ I-NP O
@@ -28231,21 +28231,21 @@ evasive JJ I-ADJP O
 , , O O
 saying VBG I-VP O
 , , O O
-" " O O
+' ' O O
 periodic JJ I-NP O
 , , I-NP O
 occasional JJ I-NP O
 . . O O
-" " O O
+' ' O O
 
-" " O O
+' ' O O
 He PRP I-NP O
 enjoys VBZ I-VP O
 the DT I-NP O
 give VBP I-VP O
 and CC I-VP O
 take VB I-VP O
-" " O O
+' ' O O
 with IN I-PP O
 reporters NNS I-NP O
 , , O O
@@ -28436,7 +28436,7 @@ by IN I-PP O
 children NNS I-NP O
 . . O O
 
-" " O O
+' ' O O
 Most JJS I-NP O
 bites NNS I-NP O
 can MD I-VP O
@@ -28451,7 +28451,7 @@ respect VB I-VP O
 a DT I-NP O
 dog NN I-NP O
 , , O O
-" " O O
+' ' O O
 Michael NNP I-NP I-PER
 Cornwell NNP I-NP I-PER
 of IN I-PP O
@@ -28476,7 +28476,7 @@ Medical NNP I-NP I-ORG
 Association NNP I-NP I-ORG
 . . O O
 
-" " O O
+' ' O O
 Let VB I-VP O
 's PRP I-NP O
 not RB O O
@@ -28510,7 +28510,7 @@ respect JJ I-NP O
 their PRP$ I-NP O
 territories NNS I-NP O
 , , O O
-" " O O
+' ' O O
 he PRP I-NP O
 said VBD I-VP O
 . . O O
@@ -28621,7 +28621,7 @@ spaniels NNS I-NP I-MISC
 and CC O O
 Dalmatians NNPS I-NP I-MISC
 . . O O
-" " O O
+' ' O O
 
 The DT I-NP O
 trends NNS I-NP O
@@ -28675,7 +28675,7 @@ the DT I-NP O
 way NN I-NP O
 up RP I-PRT O
 , , O O
-" " O O
+' ' O O
 Rieck NNP I-NP I-PER
 said VBD I-VP O
 . . O O
@@ -29383,13 +29383,13 @@ last JJ B-NP O
 month NN I-NP O
 . . O O
 
-" " O O
+' ' O O
 I PRP I-NP O
 've VBP I-VP O
 gone VBN I-VP O
 back RB I-ADVP O
 , , O O
-" " O O
+' ' O O
 she PRP I-NP O
 told VBD I-VP O
 a DT I-NP O
@@ -29418,7 +29418,7 @@ been VBN I-VP O
 resolved VBN I-VP O
 . . O O
 
-" " O O
+' ' O O
 He PRP I-NP O
 did VBD I-VP O
 n't RB I-VP O
@@ -29435,7 +29435,7 @@ to TO I-VP O
 lose VB I-VP O
 him PRP I-NP O
 . . O O
-" " O O
+' ' O O
 
 Fini NNP I-NP I-PER
 told VBD I-VP O
@@ -29812,7 +29812,7 @@ oil NN I-NP O
 industry NN I-NP O
 . . O O
 
-" " O O
+' ' O O
 The DT I-NP O
 EU NNP I-NP I-ORG
 and CC I-NP O
@@ -29836,7 +29836,7 @@ the DT I-NP O
 oils NNS I-NP O
 sector NN I-NP O
 , , O O
-" " O O
+' ' O O
 the DT I-NP O
 Commission NNP I-NP I-ORG
 said VBD I-VP O
@@ -30995,12 +30995,12 @@ the DT I-NP O
 spokesman NN I-NP O
 said VBD I-VP O
 : : O O
-" " O O
+' ' O O
 Relations NNP I-NP O
 are VBP I-VP O
 good JJ I-ADJP O
 . . O O
-" " O O
+' ' O O
 
 Asked VBN I-VP O
 about IN I-PP O
@@ -31022,7 +31022,7 @@ the DT I-NP O
 spokesman NN I-NP O
 said VBD I-VP O
 : : O O
-" " O O
+' ' O O
 He PRP I-NP O
 is VBZ I-VP O
 resolute JJ I-ADJP O
@@ -31036,7 +31036,7 @@ with IN I-PP O
 the DT I-NP O
 job NN I-NP O
 . . O O
-" " O O
+' ' O O
 
 The DT I-NP O
 spokesman NN I-NP O
@@ -31224,7 +31224,7 @@ he PRP I-NP O
 added VBD I-VP O
 . . O O
 
-" " O O
+' ' O O
 We PRP I-NP O
 considered VBD I-VP O
 it PRP I-NP O
@@ -31253,7 +31253,7 @@ wreckage NN I-NP O
 was VBD I-VP O
 discovered VBN I-VP O
 , , O O
-" " O O
+' ' O O
 Snow NNP I-NP I-PER
 said VBD I-VP O
 . . O O
@@ -31367,7 +31367,7 @@ the DT I-NP O
 PLO NNP I-NP I-ORG
 . . O O
 
-" " O O
+' ' O O
 It PRP I-NP O
 is VBZ I-VP O
 very RB I-ADJP O
@@ -31397,7 +31397,7 @@ by IN I-PP O
 President NNP I-NP O
 Mubarak NNP I-NP I-PER
 , , O O
-" " O O
+' ' O O
 one CD I-NP O
 PLO NNP I-NP I-ORG
 official NN I-NP O
@@ -31430,7 +31430,7 @@ Rdainah NNP I-NP I-PER
 said VBD I-VP O
 : : O O
 
-" " O O
+' ' O O
 President NNP I-NP O
 Arafat NNP I-NP I-PER
 is VBZ I-VP O
@@ -31455,7 +31455,7 @@ meeting NN I-NP O
 yet RB I-ADVP O
 . . O O
 
-" " O O
+' ' O O
 President NNP I-NP O
 Arafat NNP I-NP I-PER
 's POS B-NP O
@@ -31501,7 +31501,7 @@ not RB I-VP O
 been VBN I-VP O
 resolved VBN I-VP O
 . . O O
-" " O O
+' ' O O
 
 But CC O O
 Rdainah NNP I-NP I-PER
@@ -31599,9 +31599,9 @@ PLO NNP I-NP I-ORG
 rule NN I-NP O
 had VBD I-VP O
 been VBN I-VP O
-" " O O
+' ' O O
 meaningless JJ I-ADJP O
-" " O O
+' ' O O
 , , O O
 necessitating VBG I-VP O
 an DT I-NP O
@@ -31753,7 +31753,7 @@ parliamentarians NNS I-NP O
 said VBD I-VP O
 . . O O
 
-" " O O
+' ' O O
 It PRP I-NP O
 is VBZ I-VP O
 not RB I-VP O
@@ -31773,7 +31773,7 @@ cannot NN I-NP O
 be VB I-VP O
 found VBN I-VP O
 , , O O
-" " O O
+' ' O O
 the DT I-NP O
 commission NN I-NP O
 said VBD I-VP O
@@ -31804,7 +31804,7 @@ Reuters NNP I-NP I-ORG
 on IN I-PP O
 Friday NNP I-NP O
 . . I-NP O
-" " O O
+' ' O O
 
 Officials NNS I-NP O
 say VBP I-VP O
@@ -31818,7 +31818,7 @@ the DT I-NP O
 security NN I-NP O
 forces NNS I-NP O
 , , O O
-" " O O
+' ' O O
 it PRP I-NP O
 said VBD I-VP O
 . . O O
@@ -31849,7 +31849,7 @@ security NN I-NP O
 forces NNS I-NP O
 . . O O
 
-" " O O
+' ' O O
 Terrorists NNPS I-NP O
 and CC O O
 smugglers NNS I-NP O
@@ -31886,7 +31886,7 @@ not RB O O
 an DT I-NP O
 obstacle NN I-NP O
 , , O O
-" " O O
+' ' O O
 it PRP I-NP O
 said VBD I-VP O
 . . O O
@@ -32536,7 +32536,7 @@ supply NN I-NP O
 concerns NNS I-NP O
 . . O O
 
-" " O O
+' ' O O
 The DT I-NP O
 cold JJ I-NP O
 weather NN I-NP O
@@ -32546,7 +32546,7 @@ helping VBG I-VP O
 right RB I-ADVP O
 now RB I-ADVP O
 , , O O
-" " O O
+' ' O O
 a DT I-NP O
 trader NN I-NP O
 said VBD I-VP O
@@ -32736,15 +32736,15 @@ in IN I-PP O
 saying VBG I-VP O
 the DT I-NP O
 move NN I-NP O
-" " O O
+' ' O O
 does VBZ I-VP O
 not RB I-VP O
 make VB I-VP O
 sense NN I-NP O
 . . O O
-" " O O
+' ' O O
 
-" " O O
+' ' O O
 All DT I-NP O
 of IN I-PP O
 us PRP I-NP O
@@ -32783,7 +32783,7 @@ around IN I-PP O
 the DT I-NP O
 world NN I-NP O
 , , O O
-" " O O
+' ' O O
 State NNP I-NP I-ORG
 Department NNP I-NP I-ORG
 spokesman NN I-NP O
@@ -32795,7 +32795,7 @@ said VBD I-VP O
 
 Mohammed NNP I-NP I-PER
 Rashid NNP I-NP I-PER
-" " O O
+' ' O O
 is VBZ I-VP O
 a DT I-NP O
 terrorist NN I-NP O
@@ -32840,7 +32840,7 @@ not RB I-VP O
 make VB I-VP O
 sense NN I-NP O
 , , O O
-" " O O
+' ' O O
 Burns NNP I-NP I-PER
 told VBD I-VP O
 a DT I-NP O
@@ -33411,7 +33411,7 @@ of IN I-PP O
 databases NNS I-NP O
 . . O O
 
-" " O O
+' ' O O
 If IN I-SBAR O
 it PRP I-NP O
 goes VBZ I-VP O
@@ -33431,14 +33431,14 @@ all DT I-NP O
 the DT I-NP O
 discussions NNS I-NP O
 , , O O
-" " O O
+' ' O O
 a DT I-NP O
 frustrated JJ I-NP O
 Western JJ I-NP O
 delegate NN I-NP O
 said VBD I-VP O
 . . O O
-" " O O
+' ' O O
 
 They PRP I-NP O
 announced VBD I-VP O
@@ -33450,7 +33450,7 @@ sessions NNS I-NP O
 next JJ B-NP O
 week NN I-NP O
 . . O O
-" " O O
+' ' O O
 
 Attempts NNS I-NP O
 by IN I-PP O
@@ -33495,7 +33495,7 @@ stock VB I-VP O
 prices NNS I-NP O
 . . O O
 
-" " O O
+' ' O O
 It PRP I-NP O
 's VBZ I-VP O
 not RB O O
@@ -33541,7 +33541,7 @@ subject JJ I-ADJP O
 to TO I-PP O
 licensing NN I-NP O
 , , O O
-" " O O
+' ' O O
 said VBD I-VP O
 James NNP I-NP I-PER
 Love NNP I-NP I-PER
@@ -33558,7 +33558,7 @@ on IN I-PP O
 Technology NN I-NP O
 . . O O
 
-" " O O
+' ' O O
 None NN I-NP O
 of IN I-PP O
 the DT I-NP O
@@ -33579,7 +33579,7 @@ they PRP B-NP O
 're VBP I-VP O
 doing VBG I-VP O
 . . O O
-" " O O
+' ' O O
 
 At IN I-PP O
 stake NN I-NP O
@@ -33719,7 +33719,7 @@ digital JJ I-NP O
 agenda NN I-NP O
 . . O O
 
-" " O O
+' ' O O
 We PRP I-NP O
 do VBP I-VP O
 n't RB I-VP O
@@ -33730,7 +33730,7 @@ Internet NN I-NP I-MISC
 in IN I-PP O
 Mongolia NNP I-NP I-LOC
 , , O O
-" " O O
+' ' O O
 he PRP I-NP O
 added VBD I-VP O
 . . O O
@@ -33770,7 +33770,7 @@ the DT I-NP O
 Net NN I-NP O
 . . O O
 
-" " O O
+' ' O O
 I PRP I-NP O
 've VBP I-VP O
 never RB I-VP O
@@ -33797,7 +33797,7 @@ n't RB I-VP O
 tried VBN I-VP O
 either RB I-ADVP O
 , , O O
-" " O O
+' ' O O
 he PRP I-NP O
 said VBD I-VP O
 . . O O
@@ -33823,7 +33823,7 @@ his PRP$ I-NP O
 mouse NN I-NP O
 . . O O
 
-" " O O
+' ' O O
 Internet NN I-NP I-MISC
 is VBZ I-VP O
 a DT I-NP O
@@ -33842,7 +33842,7 @@ the DT I-NP O
 information NN I-NP O
 superhighway NN I-NP O
 , , O O
-" " O O
+' ' O O
 said VBD I-VP O
 Marc NNP I-NP I-PER
 Pearl NNP I-NP I-PER
@@ -33868,7 +33868,7 @@ the DT I-NP O
 treaties NNS I-NP O
 . . O O
 
-" " O O
+' ' O O
 But CC O O
 there EX I-NP O
 are VBP I-VP O
@@ -33900,7 +33900,7 @@ fear VBP I-VP O
 the DT I-NP O
 unknown NN I-NP O
 . . O O
-" " O O
+' ' O O
 
 Before IN I-PP O
 the DT I-NP O
@@ -33994,7 +33994,7 @@ multi-billion-dollar JJ I-NP O
 liabilities NNS I-NP O
 . . O O
 
-" " O O
+' ' O O
 There EX I-NP O
 are VBP I-VP O
 500 CD I-NP O
@@ -34006,7 +34006,7 @@ the DT I-NP O
 Internet NN I-NP I-MISC
 everyday JJ I-NP O
 , , I-NP O
-" " O O
+' ' O O
 said VBD I-VP O
 Tim NNP I-NP I-PER
 Casey NNP I-NP I-PER
@@ -34017,7 +34017,7 @@ MCI NNP I-NP I-ORG
 Communications NNP I-NP I-ORG
 Corporation NNP I-NP I-ORG
 . . I-NP O
-" " O O
+' ' O O
 
 How WRB I-ADVP O
 can MD O O
@@ -34026,7 +34026,7 @@ control VBD I-VP O
 them PRP I-NP O
 all DT B-NP O
 ? . O O
-" " O O
+' ' O O
 
 -DOCSTART- -X- -X- O
 
@@ -34392,12 +34392,12 @@ set VBN I-VP O
 up RP I-PRT O
 its PRP$ I-NP O
 own JJ I-NP O
-" " O O
+' ' O O
 parliament NN I-NP O
 of IN I-PP O
 the DT I-NP O
 north JJ I-NP O
-" " O O
+' ' O O
 , , O O
 Scalfaro NNP I-NP I-PER
 made VBD I-VP O
@@ -34408,13 +34408,13 @@ to TO I-PP O
 what WP I-NP O
 he PRP B-NP O
 called VBD I-VP O
-" " O O
+' ' O O
 my PRP$ I-NP O
 friends NNS I-NP O
 from IN I-PP O
 the DT I-NP O
 League NNP I-NP I-ORG
-" " O O
+' ' O O
 to TO I-VP O
 work VB I-VP O
 instead RB I-ADVP O
@@ -34423,7 +34423,7 @@ federal JJ I-NP O
 reform NN I-NP O
 . . O O
 
-" " O O
+' ' O O
 It PRP I-NP O
 is VBZ I-VP O
 an DT I-NP O
@@ -34441,7 +34441,7 @@ Let VB I-VP I-LOC
 march JJ I-NP O
 together RB I-ADVP O
 , , O O
-" " O O
+' ' O O
 Scalfaro NNP I-NP I-PER
 , , O O
 a DT I-NP O
@@ -34451,7 +34451,7 @@ himself PRP B-NP O
 said VBD I-VP O
 . . O O
 
-" " O O
+' ' O O
 Help VB I-VP O
 Italy NNP I-NP I-LOC
 to TO I-VP O
@@ -34490,7 +34490,7 @@ are VBP I-VP O
 taking VBG I-VP O
 now RB I-ADVP O
 , , O O
-" " O O
+' ' O O
 he PRP I-NP O
 said VBD I-VP O
 . . O O
@@ -34575,10 +34575,10 @@ and CC I-NP O
 green NN I-NP O
 or CC I-NP O
 shouted NN I-NP O
-" " O O
+' ' O O
 Viva FW I-VP O
 Italia NNP I-NP I-LOC
-" " O O
+' ' O O
 . . O O
 
 The DT I-NP O
@@ -34616,9 +34616,9 @@ agenda NN I-NP O
 
 A DT I-NP O
 three-day JJ I-NP O
-" " O O
+' ' O O
 independence NN I-NP O
-" " O O
+' ' O O
 march NN I-NP O
 along IN I-PP O
 the DT I-NP O
@@ -34636,11 +34636,11 @@ Venice NNP I-NP I-LOC
 of IN I-PP O
 a DT I-NP O
 self-styled JJ I-NP O
-" " O O
+' ' O O
 Republic NNP I-NP I-LOC
 of IN I-PP I-LOC
 Padania NNP I-NP I-LOC
-" " O O
+' ' O O
 , , O O
 flopped VBD I-VP O
 badly RB I-ADVP O
@@ -34810,12 +34810,12 @@ had VBD I-VP O
 been VBN I-VP O
 killed VBN I-VP O
 by IN I-PP O
-" " O O
+' ' O O
 a DT I-NP O
 group NN I-NP O
 of IN I-PP O
 terrorists NNS I-NP O
-" " O O
+' ' O O
 . . O O
 
 -DOCSTART- -X- -X- O
@@ -35389,7 +35389,7 @@ on IN I-PP O
 Friday NNP I-NP O
 . . O O
 
-" " O O
+' ' O O
 The DT I-NP O
 discussion NN I-NP O
 in IN I-PP O
@@ -35422,7 +35422,7 @@ week NN I-NP O
 's POS B-NP O
 agenda NN I-NP O
 , , O O
-" " O O
+' ' O O
 the DT I-NP O
 offcial JJ I-NP O
 said VBD I-VP O
@@ -35678,9 +35678,9 @@ newsroom NN I-NP O
 -DOCSTART- -X- -X- O
 
 British JJ I-NP I-MISC
-" " O O
+' ' O O
 Euro-sceptic NNP I-NP I-MISC
-" " O O
+' ' O O
 says VBZ I-VP O
 Clarke NNP I-NP I-PER
 should MD I-VP O
@@ -35691,9 +35691,9 @@ LONDON NNP I-NP I-LOC
 1996-12-06 CD I-NP O
 
 A DT I-NP O
-" " O O
+' ' O O
 Euro-sceptic NNP I-NP I-MISC
-" " O O
+' ' O O
 member NN I-NP O
 of IN I-PP O
 the DT I-NP O
@@ -35763,7 +35763,7 @@ next JJ B-NP O
 year NN I-NP O
 . . O O
 
-" " O O
+' ' O O
 We PRP I-NP O
 have VBP I-VP O
 a DT I-NP O
@@ -35777,7 +35777,7 @@ This DT I-NP O
 cannot MD I-VP O
 endure VB I-VP O
 , , O O
-" " O O
+' ' O O
 Marlow NNP I-NP I-PER
 told VBD I-VP O
 BBC NNP I-NP I-ORG
@@ -35788,7 +35788,7 @@ programme NN I-NP O
 on IN I-PP O
 Thursday NNP I-NP O
 . . I-NP O
-" " O O
+' ' O O
 
 It PRP I-NP O
 is VBZ I-VP O
@@ -35818,7 +35818,7 @@ to TO I-VP O
 fire VB I-VP O
 him PRP I-NP O
 . . O O
-" " O O
+' ' O O
 
 Marlow NNP I-NP I-PER
 's POS B-NP O
@@ -35840,11 +35840,11 @@ the DT I-NP O
 government NN I-NP O
 changed VBD I-VP O
 its PRP$ I-NP O
-" " O O
+' ' O O
 wait VB I-VP O
 and CC I-VP O
 see VB I-VP O
-" " O O
+' ' O O
 policy NN I-NP O
 on IN I-PP O
 a DT I-NP O
@@ -36040,7 +36040,7 @@ before IN I-PP O
 him PRP I-NP O
 . . O O
 
-" " O O
+' ' O O
 Today NN I-NP O
 we PRP B-NP O
 are VBP I-VP O
@@ -36065,7 +36065,7 @@ our PRP$ I-NP O
 diplomatic JJ I-NP O
 service NN I-NP O
 , , O O
-" " O O
+' ' O O
 opposition NN I-NP O
 foreign JJ I-NP O
 affairs NNS I-NP O
@@ -36346,7 +36346,7 @@ his PRP$ I-NP O
 Sydney NNP I-NP I-LOC
 home NN I-NP O
 . . O O
-" " O O
+' ' O O
 
 The DT I-NP O
 inference NN I-NP O
@@ -36365,7 +36365,7 @@ the DT I-NP O
 wrong JJ I-NP O
 house NN I-NP O
 , , O O
-" " O O
+' ' O O
 Judge NNP I-NP O
 Michael NNP I-NP I-PER
 Grove NNP I-NP I-PER
@@ -36385,10 +36385,10 @@ took VBD I-VP O
 into IN I-PP O
 account NN I-NP O
 his PRP$ B-NP O
-" " O O
+' ' O O
 mildly RB I-ADJP O
 retarded JJ I-ADJP O
-" " O O
+' ' O O
 intellectual JJ I-NP O
 state NN I-NP O
 , , O O
@@ -36409,7 +36409,7 @@ Grove NNP I-NP I-PER
 said VBD I-VP O
 Betcher NNP I-NP I-PER
 was VBD I-VP O
-" " O O
+' ' O O
 not RB I-VP O
 only RB I-VP O
 the DT I-NP O
@@ -36441,7 +36441,7 @@ prisoner NN I-NP O
 and CC O O
 his PRP$ I-NP O
 accomplices NNS I-NP O
-" " O O
+' ' O O
 . . O O
 
 The DT I-NP O
@@ -36617,7 +36617,7 @@ and CC I-NP O
 National NNP I-NP I-ORG
 had VBD I-VP O
 reached VBN I-VP O
-" " O O
+' ' O O
 about IN I-PP O
 the DT I-NP O
 same JJ I-NP O
@@ -36629,7 +36629,7 @@ and CC O O
 that DT I-NP O
 's VBZ I-VP O
 good JJ I-NP O
-" " O O
+' ' O O
 . . O O
 
 -DOCSTART- -X- -X- O
@@ -36674,7 +36674,7 @@ on IN I-PP O
 Friday NNP I-NP O
 . . O O
 
-" " O O
+' ' O O
 Halverson NNP I-NP I-PER
 announced VBD I-VP O
 that IN I-SBAR O
@@ -36712,7 +36712,7 @@ Australian NNP I-NP I-MISC
 Capital NNP I-NP I-MISC
 Territory NNP I-NP I-MISC
 , , O O
-" " O O
+' ' O O
 his PRP$ I-NP O
 office NN I-NP O
 said VBD I-VP O
@@ -37373,7 +37373,7 @@ and CC I-NP O
 831.40 CD I-NP O
 . . O O
 
-" " O O
+' ' O O
 A DT I-NP O
 sale NN I-NP O
 of IN I-PP O
@@ -37402,7 +37402,7 @@ helped VBD I-VP O
 it PRP I-NP O
 recover VB I-VP O
 , , O O
-" " O O
+' ' O O
 said VBD I-VP O
 a DT I-NP O
 Koram NNP I-NP I-ORG
@@ -37524,7 +37524,7 @@ Xinhua NNP I-NP I-ORG
 said VBD I-VP O
 . . O O
 
-" " O O
+' ' O O
 The DT I-NP O
 move NN I-NP O
 is VBZ I-VP O
@@ -37549,7 +37549,7 @@ as IN I-PP O
 a DT I-NP O
 whole NN I-NP O
 , , O O
-" " O O
+' ' O O
 the DT I-NP O
 agency NN I-NP O
 said VBD I-VP O
@@ -37857,7 +37857,7 @@ on IN I-PP O
 Friday NNP I-NP O
 . . O O
 
-" " O O
+' ' O O
 The DT I-NP O
 negotiations NNS I-NP O
 will MD I-VP O
@@ -37870,7 +37870,7 @@ and CC O O
 in IN I-PP O
 Jakarta NNP I-NP I-LOC
 , , O O
-" " O O
+' ' O O
 one CD I-NP O
 source NN I-NP O
 , , O O
@@ -38022,7 +38022,7 @@ of IN I-PP O
 gold NN I-NP O
 . . O O
 
-" " O O
+' ' O O
 Bre-X NNP I-NP I-ORG
 is VBZ I-VP O
 expected VBN I-VP O
@@ -38046,7 +38046,7 @@ December NNP I-NP O
 21 CD I-NP O
 deadline NN I-NP O
 , , O O
-" " O O
+' ' O O
 the DT I-NP O
 source NN I-NP O
 said VBD I-VP O
@@ -38104,7 +38104,7 @@ and CC I-NP O
 Barrick NNP I-NP I-ORG
 . . O O
 
-" " O O
+' ' O O
 This DT I-NP O
 is VBZ I-VP O
 a DT I-NP O
@@ -38127,13 +38127,13 @@ to TO I-VP O
 answer VB I-VP O
 to TO I-VP O
 , , O O
-" " O O
+' ' O O
 the DT I-NP O
 source NN I-NP O
 said VBD I-VP O
 . . O O
 
-" " O O
+' ' O O
 While IN I-SBAR O
 there EX I-NP O
 has VBZ I-VP O
@@ -38162,7 +38162,7 @@ be VB I-VP O
 sorted VBN I-VP O
 out RP I-PRT O
 , , O O
-" " O O
+' ' O O
 he PRP I-NP O
 added VBD I-VP O
 . . O O
@@ -38226,7 +38226,7 @@ the DT I-NP O
 property NN I-NP O
 . . O O
 
-" " O O
+' ' O O
 As IN I-SBAR O
 far RB I-NP O
 as IN I-SBAR O
@@ -38241,7 +38241,7 @@ no DT I-NP O
 new JJ I-NP O
 deadline NN I-NP O
 , , O O
-" " O O
+' ' O O
 the DT I-NP O
 source NN I-NP O
 said VBD I-VP O
@@ -38411,7 +38411,7 @@ said VBD I-VP O
 was VBD B-VP O
 a DT I-NP O
 partnership NN I-NP O
-" " O O
+' ' O O
 to TO I-VP O
 prepare VB I-VP O
 us PRP I-NP O
@@ -38421,7 +38421,7 @@ potential JJ I-NP O
 mining NN I-NP O
 development NN I-NP O
 project NN I-NP O
-" " O O
+' ' O O
 . . O O
 
 -DOCSTART- -X- -X- O
@@ -38568,7 +38568,7 @@ analysts NNS I-NP O
 said VBD I-VP O
 . . O O
 
-" " O O
+' ' O O
 As IN I-SBAR O
 one CD I-NP O
 of IN I-PP O
@@ -38590,7 +38590,7 @@ in IN I-PP O
 the DT I-NP O
 WTO NNP I-NP I-ORG
 , , O O
-" " O O
+' ' O O
 said VBD I-VP O
 Desmond NNP I-NP I-PER
 Supple NNP I-NP I-PER
@@ -38602,7 +38602,7 @@ house NN I-NP O
 I.D.E.A NNP I-NP I-ORG
 . . O O
 
-" " O O
+' ' O O
 Singapore NNP I-NP I-LOC
 stands VBZ I-VP O
 to TO I-VP O
@@ -38634,7 +38634,7 @@ gross JJ I-NP O
 domestic JJ I-NP O
 product NN I-NP O
 . . O O
-" " O O
+' ' O O
 
 The DT I-NP O
 city-state JJ I-NP O
@@ -38750,7 +38750,7 @@ hosting VBG I-VP O
 of IN I-PP O
 the DT I-NP O
 conference NN I-NP O
-" " O O
+' ' O O
 carries VBZ I-VP O
 a DT I-NP O
 great JJ I-NP O
@@ -38775,7 +38775,7 @@ across IN I-PP O
 the DT I-NP O
 globe NN I-NP O
 . . O O
-" " O O
+' ' O O
 
 There EX I-NP O
 is VBZ I-VP O
@@ -38787,7 +38787,7 @@ would MD I-VP O
 enjoy VB I-VP O
 , , O O
 but CC O O
-" " O O
+' ' O O
 more JJR I-NP O
 importantly RB I-ADVP O
 there EX I-NP O
@@ -38806,7 +38806,7 @@ and CC O O
 an DT I-NP O
 open JJ I-NP O
 market NN I-NP O
-" " O O
+' ' O O
 , , O O
 said VBD I-VP O
 Tan NNP I-NP I-PER
@@ -38921,7 +38921,7 @@ the DT I-NP O
 talks NNS I-NP O
 . . O O
 
-" " O O
+' ' O O
 There EX I-NP O
 is VBZ I-VP O
 tension NN I-NP O
@@ -38932,7 +38932,7 @@ of IN I-PP O
 the DT I-NP O
 way NN I-NP O
 , , O O
-" " O O
+' ' O O
 since IN I-PP O
 a DT I-NP O
 battle JJ I-NP O
@@ -38971,7 +38971,7 @@ prestige NN I-NP O
 for IN I-PP O
 Singapore NNP I-NP I-LOC
 , , O O
-" " O O
+' ' O O
 however RB I-ADVP O
 , , O O
 this DT I-NP O
@@ -38997,7 +38997,7 @@ to TO I-PP O
 this DT I-NP O
 region NN I-NP O
 . . O O
-" " O O
+' ' O O
 
 From IN I-PP O
 a DT I-NP O
@@ -39044,7 +39044,7 @@ but CC O O
 the DT I-NP O
 average JJ I-NP O
 Singaporean NNP I-NP I-MISC
-" " O O
+' ' O O
 would MD I-VP O
 probably RB I-VP O
 not RB I-VP O
@@ -39057,12 +39057,12 @@ of IN I-PP O
 the DT I-NP O
 issues NNS I-NP O
 , , O O
-" " O O
+' ' O O
 Tan NNP I-NP I-PER
 said VBD I-VP O
 . . O O
 
-" " O O
+' ' O O
 But CC O O
 the DT I-NP O
 more RBR I-NP O
@@ -39084,7 +39084,7 @@ a DT I-NP O
 small JJ I-NP O
 economy NN I-NP O
 . . O O
-" " O O
+' ' O O
 
 Supple NNS I-NP I-PER
 said VBD I-VP O
@@ -39125,7 +39125,7 @@ economic JJ I-NP O
 agenda NN I-NP O
 . . O O
 
-" " O O
+' ' O O
 If IN I-SBAR O
 there EX I-NP O
 are VBP I-VP O
@@ -39145,11 +39145,11 @@ electorate NN I-NP O
 would MD I-VP O
 gain VB I-VP O
 , , O O
-" " O O
+' ' O O
 he PRP I-NP O
 said VBD I-VP O
 . . O O
-" " O O
+' ' O O
 
 But CC O O
 I PRP I-NP O
@@ -39188,7 +39188,7 @@ will MD I-VP O
 be VB I-VP O
 displayed VBN I-VP O
 . . O O
-" " O O
+' ' O O
 
 -DOCSTART- -X- -X- O
 
@@ -39248,7 +39248,7 @@ holding VBG I-NP O
 company NN I-NP O
 . . O O
 
-" " O O
+' ' O O
 We PRP I-NP O
 hope VBP I-VP O
 to TO I-VP O
@@ -39261,7 +39261,7 @@ soon RB I-ADVP O
 as IN I-PP O
 possible JJ I-ADJP O
 , , O O
-" " O O
+' ' O O
 a DT I-NP O
 company NN I-NP O
 official NN I-NP O
@@ -39503,7 +39503,7 @@ in IN I-PP O
 Asia NNP I-NP I-LOC
 . . O O
 
-" " O O
+' ' O O
 In IN I-PP O
 the DT I-NP O
 coming VBG I-NP O
@@ -39533,7 +39533,7 @@ in IN I-PP O
 the DT I-NP O
 region NN I-NP O
 , , O O
-" " O O
+' ' O O
 Ahold NNP I-NP I-ORG
 said VBD I-VP O
 in IN I-PP O
@@ -42149,7 +42149,7 @@ active JJ I-NP O
 cricketer NN I-NP O
 . . O O
 
-" " O O
+' ' O O
 It PRP I-NP O
 's VBZ I-VP O
 been VBN I-VP O
@@ -42168,7 +42168,7 @@ an DT I-NP O
 intriguing JJ I-NP O
 experience NN I-NP O
 , , O O
-" " O O
+' ' O O
 Woolmer NNP I-NP I-PER
 , , O O
 now RB I-ADVP O
@@ -42271,7 +42271,7 @@ and CC O O
 blurred VBD I-VP O
 . . O O
 
-" " O O
+' ' O O
 I PRP I-NP O
 do VBP I-VP O
 n't RB I-VP O
@@ -42281,11 +42281,11 @@ of IN I-PP O
 the DT I-NP O
 place NN I-NP O
 , , O O
-" " O O
+' ' O O
 he PRP I-NP O
 said VBD I-VP O
 . . O O
-" " O O
+' ' O O
 
 I PRP I-NP O
 came VBD I-VP O
@@ -42317,7 +42317,7 @@ half NN I-NP O
 years NNS I-NP O
 . . O O
 
-" " O O
+' ' O O
 But CC O O
 I PRP I-NP O
 do VBP I-VP O
@@ -42355,7 +42355,7 @@ broke VBD I-VP O
 into IN I-PP O
 two CD I-NP O
 . . O O
-" " O O
+' ' O O
 
 Woolmer NNP I-NP I-PER
 said VBD I-VP O
@@ -43473,7 +43473,7 @@ on IN I-PP O
 Sunday NNP I-NP O
 . . O O
 
-" " O O
+' ' O O
 There EX I-NP O
 was VBD I-VP O
 no DT I-NP O
@@ -43485,7 +43485,7 @@ a DT I-NP O
 training NN I-NP O
 run NN I-NP O
 , , O O
-" " O O
+' ' O O
 said VBD I-VP O
 Bernd NNP I-NP I-PER
 Zobel NNP I-NP I-PER
@@ -44270,7 +44270,7 @@ Philippe NNP I-NP I-PER
 Sella NNP I-NP I-PER
 . . O O
 
-" " O O
+' ' O O
 If IN I-SBAR O
 the DT I-NP O
 opportunity NN I-NP O
@@ -44292,12 +44292,12 @@ back RB I-ADVP O
 is VBZ I-VP O
 business NN I-NP O
 , , O O
-" " O O
+' ' O O
 said VBD I-VP O
 Campese NNP I-NP I-PER
 . . O O
 
-" " O O
+' ' O O
 I PRP I-NP O
 'd MD I-VP O
 like VB I-VP O
@@ -44335,7 +44335,7 @@ Super NNP I-NP O
 next JJ B-NP O
 year NN I-NP O
 . . O O
-" " O O
+' ' O O
 
 Former NNP I-NP O
 Wallaby NNP I-NP I-ORG
@@ -44352,7 +44352,7 @@ to TO I-PP O
 England NNP I-NP I-LOC
 . . O O
 
-" " O O
+' ' O O
 I PRP I-NP O
 'm VBP I-VP O
 sure JJ I-ADJP O
@@ -44377,7 +44377,7 @@ club NN I-NP O
 's POS B-NP O
 jersey NN I-NP O
 , , O O
-" " O O
+' ' O O
 he PRP I-NP O
 said VBD I-VP O
 . . O O
@@ -47046,7 +47046,7 @@ executive JJ I-NP O
 committee NN I-NP O
 . . O O
 
-" " O O
+' ' O O
 We PRP I-NP O
 would MD I-VP O
 be VB I-VP O
@@ -47058,11 +47058,11 @@ draw NN I-NP O
 in IN I-PP O
 Belfast NNP I-NP I-LOC
 , , O O
-" " O O
+' ' O O
 said VBD I-VP O
 Hafizi NN I-NP I-PER
 . . O O
-" " O O
+' ' O O
 
 Especially RB I-ADVP O
 if IN I-SBAR O
@@ -47085,7 +47085,7 @@ keen JJ I-NP O
 to TO I-VP O
 win VB I-VP O
 . . O O
-" " O O
+' ' O O
 
 Regular JJ I-NP O
 defender NN I-NP O
@@ -49272,7 +49272,7 @@ the DT I-NP O
 game NN I-NP O
 . . O O
 
-" " O O
+' ' O O
 Mr NNP I-NP O
 Bure NNP I-NP I-PER
 left VBD I-VP O
@@ -49298,7 +49298,7 @@ by IN I-PP O
 his PRP$ I-NP O
 opponent NN I-NP O
 , , O O
-" " O O
+' ' O O
 said VBD I-VP O
 NHL NNP I-NP I-ORG
 discipline NN I-NP O
@@ -49312,7 +49312,7 @@ the DT I-NP O
 suspension NN I-NP O
 . . O O
 
-" " O O
+' ' O O
 Although IN I-SBAR O
 it PRP I-NP O
 is VBZ I-VP O
@@ -49353,7 +49353,7 @@ type NN I-NP O
 of IN I-PP O
 conduct NN I-NP O
 , , O O
-" " O O
+' ' O O
 Burke NNP I-NP I-PER
 said VBD I-VP O
 . . O O
@@ -49776,11 +49776,11 @@ Doetinchem NNP I-NP I-ORG
 side NN I-NP O
 , , O O
 dubbed VBD I-VP O
-" " O O
+' ' O O
 The DT I-NP I-ORG
 Super NNP I-NP I-ORG
 Peasants NNPS I-NP I-ORG
-" " O O
+' ' O O
 , , O O
 are VBP I-VP O
 one CD I-NP O
@@ -50152,7 +50152,7 @@ soccer NN I-NP O
 manager NN I-NP O
 . . O O
 
-" " O O
+' ' O O
 The DT I-NP O
 years NNS I-NP O
 I PRP B-NP O
@@ -50205,12 +50205,12 @@ night NN I-NP O
 for IN I-PP O
 me PRP I-NP O
 , , O O
-" " O O
+' ' O O
 Charlton NNP I-NP I-PER
 said VBD I-VP O
 . . O O
 
-" " O O
+' ' O O
 It PRP I-NP O
 was VBD I-VP O
 the DT I-NP O
@@ -50239,7 +50239,7 @@ I PRP I-NP O
 treasure NN B-NP O
 most JJS I-NP O
 , , O O
-" " O O
+' ' O O
 he PRP I-NP O
 added VBD I-VP O
 . . O O
