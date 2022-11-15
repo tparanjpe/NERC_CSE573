@@ -1,7 +1,7 @@
 # before running,
 # 1. pip install NLTK
 # engtrain.txt is the training data separated by tab
-# training_stanford is test a data (confusing name...need to change)
+# testA is test a data
 # english.all.3class.distsim.prop is what trains the model 
 # run command java -classpath stanford-ner.jar -mx4g edu.stanford.nlp.ie.crf.CRFClassifier -prop .\english.all.3class.distsim.prop   to train
 # run command java -cp stanford-ner.jar edu.stanford.nlp.ie.crf.CRFClassifier -loadClassifier ner-model.ser.gz -testFile .\training_stanford.txt  to test and get accuracy 
