@@ -77,18 +77,21 @@ def main():
     given_input = args.input_string
     print(args.input_string)
 
-    exists = False
     my_file = Path("my_hmmtagger.dill")
     if my_file.is_file():
         # file exists
-        exists = True
         with open('my_hmmtagger.dill', 'rb') as f:
             ner_tagger = dill.load(f)
     else:
         ner_tagger = trainModel()
 
     results = testWithSentenceString(given_input, ner_tagger)
-    print(results)
+
+    final_results = []
+    for element in results:
+        final_results.append(element[0])
+
+    print(final_results)
 
 if __name__ == "__main__":
     main()
