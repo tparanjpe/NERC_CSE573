@@ -66,7 +66,22 @@ def testWithSentenceString(input_string, ner_tagger):
     
     return tagged_results
 
+def get_nltkResult(input_string):
+    my_file = Path("my_hmmtagger.dill")
+    if my_file.is_file():
+        # file exists
+        with open('my_hmmtagger.dill', 'rb') as f:
+            ner_tagger = dill.load(f)
+    else:
+        ner_tagger = trainModel()
 
+    results = testWithSentenceString(input_string, ner_tagger)
+
+    final_results = []
+    for element in results:
+        final_results.append(element[0])
+    
+    return final_results
 
 def main():
 
