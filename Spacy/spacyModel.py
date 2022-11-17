@@ -36,17 +36,18 @@ for ent in doc.ents:
 #test with dev and test files
 #python3 -m spacy train data/config.cfg --output ./models/output2
 
-#function newSpacy(sentence){
-trained_nlp = spacy.load('Spacy/models/output/model-best')
+def newSpacy(sentence):
+    trained_nlp = spacy.load('Spacy/models/output/model-best')
 
-sentence = "Apple's Steve is looking at buying U.K. startup for $1 billion"
+    # sentence = "Apple's Steve is looking at buying U.K. startup for $1 billion"
 
-doc = trained_nlp(sentence)
+    doc = trained_nlp(sentence)
 
-for ent in doc.ents:
-    print(ent.text, ent.start_char, ent.end_char, ent.label_)
+    data = []
+    for ent in doc.ents:
+        data.append((ent.text, ent.label_))
+        print(ent.text, ent.start_char, ent.end_char, ent.label_)
+    return data
+    # for token in doc:
+    #     print(token.text, token.lemma_, token.tag_)
 
-# for token in doc:
-#     print(token.text, token.lemma_, token.tag_)
-
-#}

@@ -38,14 +38,14 @@ def stanford_data():
     nltk_val = nltk_nerc.get_nltkResult(sentence)
     print(nltk_val)
 
-    # os.chdir("../bert")
-    # bert_val_mod = run.token_classifier(sentence)
-    # bert_val = []
-    # for val in bert_val_mod:
-    #     print(val)
-    #     # tuple =
-    #     bert_val.extend((val["word"], val["entity_group"]))
-    # print(bert_val)
+    os.chdir("../bert")
+    bert_val_mod = run.token_classifier(sentence)
+    bert_val = []
+    for val in bert_val_mod:
+        print(val)
+        # tuple =
+        bert_val.append((val["word"], val["entity_group"]))
+    print(bert_val)
 
     os.chdir('../templates')
     # load the file
