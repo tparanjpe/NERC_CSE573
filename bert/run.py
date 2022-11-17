@@ -9,7 +9,6 @@ token_classifier = pipeline(
 example_string = "Apple's Steve is looking at buying U.K. startup for $1 billion"
 example_list = example_string.split(" ")
 
-print(example_list)
 classification = token_classifier(example_string)
 
 classified = {}
