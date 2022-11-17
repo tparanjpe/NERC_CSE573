@@ -23,18 +23,18 @@ def web():
 
 @app.route("/getStanfordData", methods=['POST'])
 def stanford_data():
-    os.chdir(r'C:\Users\sheba\OneDrive\Documents\CSE 573 - Semantic Web Mining\NERC_CSE573\stanfordNer')
+    os.chdir('stanfordNer')
     sentence = request.get_json()
 
     print(sentence)
     val = stanford.stanfordData(sentence)
 
-
+    os.chdir('../templates')
     # load the file
-    with open(r"C:\Users\sheba\OneDrive\Documents\CSE 573 - Semantic Web Mining\NERC_CSE573\templates\index.html") as inf:
+    with open("index.html") as inf:
         txt = inf.read()
         soup = bs4.BeautifulSoup(txt, "html.parser")
-
+    print(soup.prettify())
     for data in soup(['mark']):
         data.decompose()
 
@@ -57,10 +57,13 @@ def stanford_data():
         index += 1
 
     # # save the file again
-    with open(r"C:\Users\sheba\OneDrive\Documents\CSE 573 - Semantic Web Mining\NERC_CSE573\templates\index.html", "w") as outf:
+    with open("index.html", "w") as outf:
         outf.write(str(soup))
     # render_template("index.html")
     # app.config["TEMPLATES_AUTO_RELOAD"] = True
+    os.chdir("../nltk")
+    # print(os.system("python nltk_nerc.py -input "+sentence))
+
     return jsonify({"stanfordData": val})
 
 

@@ -20,6 +20,9 @@
                 border: 1px solid lightgray;
                 border-radius: 3px;
         }
+        .white_box mark {
+                display:inline-block;
+        }
         #right, #left, #right2, #left2{
                 float: left;
                 width: 558.5px;
@@ -48,10 +51,8 @@
 <div class="border border-dark rounded p-2 mb-2 bg-light shadow-sm" id="left">
 <label style="display: block; text-align: center;">Stanford NER</label>
 <div class="white_box" onchange="reformatOutput(this.id)">
-<p id="stanford-output"></p><mark id="0" style="background-color: #20c997;">London</mark><mark id="1" style="background-color: #0dcaf0;">bridge</mark><mark id="2" style="background-color: #fd7e14">Google</mark>
+<p id="stanford-output"></p><mark id="0" style="background-color: #0dcaf0;">Twenty</mark><mark id="1" style="background-color: #0dcaf0;">miles</mark><mark id="2" style="background-color: #0dcaf0;">east</mark><mark id="3" style="background-color: #0dcaf0;">of</mark><mark id="4" style="background-color: #20c997;">Reno</mark><mark id="5" style="background-color: #0dcaf0;">,</mark><mark id="6" style="background-color: #0dcaf0;">Nev.</mark><mark id="7" style="background-color: #0dcaf0;">,</mark><mark id="8" style="background-color: #0dcaf0;">where</mark><mark id="9" style="background-color: #0dcaf0;">packs</mark><mark id="10" style="background-color: #0dcaf0;">of</mark><mark id="11" style="background-color: #0dcaf0;">wild</mark><mark id="12" style="background-color: #0dcaf0;">mustangs</mark><mark id="13" style="background-color: #0dcaf0;">roam</mark><mark id="14" style="background-color: #0dcaf0;">free</mark><mark id="15" style="background-color: #0dcaf0;">through</mark><mark id="16" style="background-color: #0dcaf0;">the</mark><mark id="17" style="background-color: #0dcaf0;">parched</mark><mark id="18" style="background-color: #0dcaf0;">landscape</mark><mark id="19" style="background-color: #0dcaf0;">,</mark><mark id="20" style="background-color: #fd7e14">Tesla</mark><mark id="21" style="background-color: #fd7e14">Gigafactory</mark><mark id="22" style="background-color: #0dcaf0;">1</mark><mark id="23" style="background-color: #0dcaf0;">sprawls</mark><mark id="24" style="background-color: #0dcaf0;">near</mark><mark id="25" style="background-color: #fd7e14">Interstate</mark><mark id="26" style="background-color: #0dcaf0;">80</mark><mark id="27" style="background-color: #0dcaf0;">.</mark>
 </div>
-</div>
-<!--<div id="stanford-output">[('emmy', 'O')]</div>-->
 </div>
 <div class="border border-dark rounded p-2 mb-2 bg-light shadow-sm" id="right">
 <label style="display: block; text-align: center;">Spacy</label>
@@ -64,6 +65,7 @@
 <div class="border border-dark rounded p-2 mb-2 bg-light shadow-sm" id="right2">
 <label style="display: block; text-align: center;">BERT</label>
 <div class="white_box" id="bert-output"></div>
+</div>
 </div>
 <!--<div id="NLTK-output">NLTK</div>-->
 <!--<div id="BERT">BERT</div>-->
