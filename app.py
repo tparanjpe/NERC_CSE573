@@ -6,6 +6,7 @@ import os
 from stanfordNer import stanford
 from nltkNer import nltk_nerc
 from bert import run
+from Spacy import spacyModel
 
 app = Flask(__name__)
 # from models import trainModels, getSinglePredictions, getMultiPredictions
@@ -39,13 +40,12 @@ def stanford_data():
     print(nltk_val)
 
     os.chdir("../bert")
-    bert_val_mod = run.token_classifier(sentence)
-    bert_val = []
-    for val in bert_val_mod:
-        print(val)
-        # tuple =
-        bert_val.append((val["word"], val["entity_group"]))
+    bert_val = run.bert_data(sentence)
     print(bert_val)
+
+    os.chdir("../Spacy")
+    spacy_val = spacyModel.newSpacy(sentence)
+    print(spacy_val)
 
     os.chdir('../templates')
     # load the file
@@ -59,7 +59,7 @@ def stanford_data():
 
     parseSentence("stanford-output", val)
     parseSentence("nltk-output", nltk_val)
-    # parseSentence("bert-output", bert_val)
+    parseSentence("bert-output", bert_val)
     # # insert it into the document
     # Adding content to div
 
@@ -99,11 +99,11 @@ def parseSentence(model, modelOutput):
         new_mark.string = str(word)
         if token == "O":
             new_mark['style'] = "background-color: #0dcaf0;"
-        elif token == "I-LOC":
+        elif token == "I-LOC" or token == "LOC":
             new_mark['style'] = "background-color: #20c997;"
-        elif token == "I-PER":
+        elif token == "I-PER" or token == "PER":
             new_mark['style'] = "background-color: #fd7e14;"
-        elif token == "I-ORG":
+        elif token == "I-ORG" or token == "ORG":
             new_mark['style'] = "background-color: #ffc107;"
         else:
             new_mark['style'] = "background-color: #d63384;"

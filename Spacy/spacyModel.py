@@ -1,17 +1,18 @@
 import spacy
+import re
 import os
 from spacy.scorer import Scorer
 from spacy.tokens import Doc
 from spacy.training.example import Example
 
-nlp = spacy.load('en_core_web_sm')
-
-sentence = "Apple's Steve is looking at buying U.K. startup for $1 billion"
-
-doc = nlp(sentence)
-
-for ent in doc.ents:
-    print(ent.text, ent.start_char, ent.end_char, ent.label_)
+# nlp = spacy.load('en_core_web_sm')
+#
+# sentence = "Apple's Steve is looking at buying U.K. startup for $1 billion"
+#
+# doc = nlp(sentence)
+#
+# for ent in doc.ents:
+#     print(ent.text, ent.start_char, ent.end_char, ent.label_)
 #
 # for token in doc:
 #     print(token.text, token.lemma_, token.tag_)
@@ -37,7 +38,7 @@ for ent in doc.ents:
 #python3 -m spacy train data/config.cfg --output ./models/output2
 
 def newSpacy(sentence):
-    trained_nlp = spacy.load('Spacy/models/output/model-best')
+    trained_nlp = spacy.load('../Spacy/models/output/model-best')
 
     # sentence = "Apple's Steve is looking at buying U.K. startup for $1 billion"
 
@@ -47,6 +48,15 @@ def newSpacy(sentence):
     for ent in doc.ents:
         data.append((ent.text, ent.label_))
         print(ent.text, ent.start_char, ent.end_char, ent.label_)
+
+    res = re.findall(r"[\w]+|[']", sentence)
+    for i in res:
+        if [item for item in data if i in item]:
+            print(i)
+        else:
+            print("no "+str(i))
+
+
     return data
     # for token in doc:
     #     print(token.text, token.lemma_, token.tag_)
