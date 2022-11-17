@@ -21,10 +21,10 @@ def stanfordData(sentence):
     os.environ['JAVA_HOME'] = 'C:/Program Files/Java/jdk1.8.0_181'
 
 
-    sentence = u"Twenty miles east of Reno, Nev., " \
-        "where packs of wild mustangs roam free through " \
-        "the parched landscape, Tesla Gigafactory 1 " \
-        "sprawls near Interstate 80."
+    # sentence = u"Twenty miles east of Reno, Nev., " \
+    #     "where packs of wild mustangs roam free through " \
+    #     "the parched landscape, Tesla Gigafactory 1 " \
+    #     "sprawls near Interstate 80."
 
     jar = 'stanford-ner.jar'
     model = 'ner-model.ser.gz'
