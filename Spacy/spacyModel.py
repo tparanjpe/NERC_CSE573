@@ -37,10 +37,10 @@ from spacy.training.example import Example
 #test with dev and test files
 #python3 -m spacy train data/config.cfg --output ./models/output2
 
-sentence = "Apple's Steve is looking at buying U.K. startup for $1 billion"
+# sentence = "Apple's Steve is looking at buying U.K. startup for $1 billion"
 
 def newSpacy(sentence):
-    trained_nlp = spacy.load('./Spacy/models/output/model-best')
+    trained_nlp = spacy.load('../Spacy/models/output/model-best')
 
 #     sentence = "Apple's Steve is looking at buying U.K. startup for $1 billion"
 
@@ -51,7 +51,7 @@ def newSpacy(sentence):
 #         data.append((ent.text, ent.label_))
 #         print(ent.text, ent.start_char, ent.end_char, ent.label_)
 
-#     res = re.findall(r"[\w]+|[',-]", sentence)
+#     res = re.findall(r"[\w]+|[a-zA-Z']+|[-$a-zA-Z]+", sentence)
 #     for i in res:
 #         if [item for item in data if i in item]:
 #             print(i)
@@ -64,12 +64,12 @@ def newSpacy(sentence):
     for word in trained_nlp(sentence):
         wordList.append((word))
         if(word.ent_type_ == ''):
-            data.append((wordList[i], word.ent_iob_))
+            data.append((str(wordList[i]), word.ent_iob_))
         else:
-            data.append((wordList[i], word.ent_type_))
+            data.append((str(wordList[i]), word.ent_type_))
         i += 1
         #print(word, word.ent_iob_, word.ent_type_, sep=" ")
-    print(data)
+    # print(data)
     return data
 
-newSpacy(sentence)
+# newSpacy(sentence)

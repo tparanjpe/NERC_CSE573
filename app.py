@@ -60,33 +60,19 @@ def stanford_data():
     parseSentence("stanford-output", val)
     parseSentence("nltk-output", nltk_val)
     parseSentence("bert-output", bert_val)
+    parseSentence("spacy-output", spacy_val)
     # # insert it into the document
     # Adding content to div
 
-    # index = 0
-    # for word, token in val:
-    #     # O = #0dcaf0; I-LOC = #20c997; I-PER #fd7e14; I-ORG: #ffc107; other: #d63384
-    #     new_mark = soup.new_tag("mark", id=str(index))
-    #     new_mark.string = str(word)
-    #     if token == "O":
-    #         new_mark['style'] = "background-color: #0dcaf0;"
-    #     elif token == "I-LOC":
-    #         new_mark['style'] = "background-color: #20c997;"
-    #     else:
-    #         new_mark['style'] = "background-color: #fd7e14"
-    #     old_text.insert_after(new_mark)
-    #     old_text = soup.find("mark", {"id": str(index)})
-    #     index += 1
+    old_text = soup.find("label", {"id": "current-sentence"})
+    old_text.string = str(sentence)
 
     # # save the file again
     with open("index.html", "w") as outf:
         outf.write(str(soup))
-    # render_template("index.html")
-    # app.config["TEMPLATES_AUTO_RELOAD"] = True
-    # os.chdir("../nltk")
-    # print(os.system("python nltk_nerc.py -input "+sentence))
 
-    return jsonify({"stanfordData": val})
+
+    return jsonify({"stanfordData": val})#, {"nltkData": nltk_val})
 
 
 def parseSentence(model, modelOutput):

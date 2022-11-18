@@ -1,10 +1,25 @@
 var globalSentence, globalData
 var response = ""
+
+document.addEventListener('DOMContentLoaded', function () {
+//
+    document.getElementById('current-sentence').innerHtml = globalSentence
+})
+
 function sendSentence(){
+ //delete old marks
+//    var marks = document.body.getElementsByTagName("mark");
+//    console.log(marks)
+////    marks.remove()
+//    for (let i = 0; i < marks.length; i++){
+//        console.log(marks[i])
+//        marks[i].remove()
+//    }
     let sentence = document.getElementById('wordbox').value
     console.log("called")
     console.log(sentence)
     globalSentence = sentence
+    document.getElementById('current-sentence').innerHtml = globalSentence
 //    const request = new XMLHttpRequest()
 //    request.open('POST', `/getStanfordData/${JSON.stringify(sentence)}`)
 //    request.send()
@@ -24,7 +39,7 @@ function sendSentence(){
 //        }
     })
     .done(function(data){
-        console.log(data.data[0])
+        console.log(data.stanfordData[0])
         $("#left").bind('DOMSubtreeModified', function(data){
             console.log(data)
         })
@@ -40,16 +55,6 @@ function sendSentence(){
         });
         console.log(matches)
     });
-}
-
-$("#left").bind('DOMSubtreeModified', function(data){
-    console.log(data)
-})
-console.log(globalData)
-
-function reformatOutput(id){
-    model_output = document.getElementById(id.toString()).value
-    console.log(model_output)
 }
 
     //try to do some d3 stuff
@@ -79,7 +84,7 @@ function reformatOutput(id){
 //fetch('http://127.0.0.1:5000/getStanfordData/'+stringify(globalSentence))
 //    .then(response => response.json())
 //    .then(data => console.log(data));
-console.log('{{val}}')
+
 //const user_url = Flask.url_for("getStanfordData", {sentence=${JSON.stringify(sentence)}})
 //fetch(user_url)
 //    .then(response => response.json())
