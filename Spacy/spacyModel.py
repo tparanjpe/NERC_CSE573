@@ -49,7 +49,7 @@ def newSpacy(sentence):
         data.append((ent.text, ent.label_))
         print(ent.text, ent.start_char, ent.end_char, ent.label_)
 
-    res = re.findall(r"[\w]+|[']", sentence)
+    res = re.findall(r"[\w]+|[',-]", sentence)
     for i in res:
         if [item for item in data if i in item]:
             print(i)
