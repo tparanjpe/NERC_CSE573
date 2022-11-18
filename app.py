@@ -27,7 +27,7 @@ def web():
 
 index = 0
 
-@app.route("/getStanfordData", methods=['POST'])
+@app.route("/models", methods=['POST'])
 def stanford_data():
     os.chdir('stanfordNer')
     sentence = request.get_json()

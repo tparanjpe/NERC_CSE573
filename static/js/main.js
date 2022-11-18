@@ -25,7 +25,7 @@ function sendSentence(){
 //    request.send()
     $.ajax({
         type: "POST",
-        url: "/getStanfordData",
+        url: "/models",
         data: JSON.stringify(sentence),
         contentType: "application/json",
         dataType: 'json',
