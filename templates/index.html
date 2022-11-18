@@ -14,29 +14,54 @@
                 width: 1210px;
         }
         .white_box{
-                width: 538.5px;
-                height: 250px;
+<!--                width: 538.5px;-->
+                width: 50%;
+                height: auto;
                 background-color: white;
                 border: 1px solid lightgray;
                 border-radius: 3px;
+<!--                display: inline-block;-->
         }
         .white_box mark {
-                display:inline-block;
+            font-color: red;
+            display:inline-block;
         }
         #right, #left, #right2, #left2{
                 float: left;
-                width: 558.5px;
+<!--                width: 50%;-->
+<!--                width: 558.5px;-->
                 padding: 10px;
+                flex: 1; /* additionally, equal width */
         }
         #right, #right2 {
                 float: right;
         }
+        #current-sentence{
+            height: 50px;
+            width: 1200px;
+<!--            padding-bottom: 10px;-->
+        }
+        .legend { list-style: none; float:right; display: inline-block;}
+        .legend li { margin-right: 20px; display: inline-block; vertical-align: top; padding-bottom: 2px;}
+        .legend span { border: 1px solid #ccc; float: left; width: 12px; height: 12px; margin: 2px; margin-top: 7px; }
+        .object { background-color: #0dcaf0}
+        .location { background-color: #20c997 }
+        .person { background-color: #fd7e14 }
+        .organization { background-color: #ffc107 }
+        .other { background-color: #d63384}
+<!--        mark {-->
+<!--            display: inline-block;-->
+<!--        }-->
+    .two-boxes{
+        display: flex;
+    }
+
 </style>
 </head>
 <body>
 <div class="container">
-<h1 class="text-center">NERC</h1>
-<h3 class="text-center">Group 9</h3>
+<h1 class="text-center">Named Entity Recognition Classification (NERC)</h1>
+<h3 class="text-center">Group 9, Project 11</h3>
 <hr/>
 <form class="border border-dark rounded p-2 mb-2 bg-light shadow-sm">
 <label for="wordbox">Enter sentence here</label>
@@ -45,9 +70,19 @@
 <!--        <button type="submit" name="calculate" class="btn btn-dark mb-1" onclick="sendSentence();">Submit text</button>-->
 <button class="btn btn-dark mb-1" onclick="sendSentence();" type="submit">Submit text</button>
 </form>
-<div class="border border-dark rounded bg-light shadow-sm" id="stanford">
-        Distribution of character types
+<div class="border border-dark rounded bg-light shadow-sm">
+<br/>
+<ul class="legend">
+<li> <span class="object"></span> O </li>
+<li> <span class="organization"></span> I-ORG </li>
+<li> <span class="location"></span> I-LOC </li>
+<li> <span class="person"></span> I-PER </li>
+<li> <span class="other"></span> Other </li>
+</ul>
+<b><label id="current-sentence" style="display: inline-block; text-align: center; padding: 9px;">Apple's Steve is looking at buying U.K. startup for $1 billion</label></b>
+<pre></pre>
 </div>
+<div class="two-boxes">
 <div class="border border-dark rounded p-2 mb-2 bg-light shadow-sm" id="left">
 <label style="display: block; text-align: center;">Stanford NER</label>
 <div class="white_box">
@@ -55,26 +90,27 @@
 </div>
 </div>
 <div class="border border-dark rounded p-2 mb-2 bg-light shadow-sm" id="right">
-<label style="display: block; text-align: center;">Spacy</label>
+<label style="display: block; text-align: center;">spaCy NER</label>
 <div class="white_box">
-<p id="spacy-output"></p>
+<p id="spacy-output"></p><mark id="35" style="background-color: #ffc107;">Apple</mark><mark id="36" style="background-color: #0dcaf0;">'s</mark><mark id="37" style="background-color: #fd7e14;">Steve</mark><mark id="38" style="background-color: #0dcaf0;">is</mark><mark id="39" style="background-color: #0dcaf0;">looking</mark><mark id="40" style="background-color: #0dcaf0;">at</mark><mark id="41" style="background-color: #0dcaf0;">buying</mark><mark id="42" style="background-color: #20c997;">U.K.</mark><mark id="43" style="background-color: #0dcaf0;">startup</mark><mark id="44" style="background-color: #0dcaf0;">for</mark><mark id="45" style="background-color: #0dcaf0;">$</mark><mark id="46" style="background-color: #0dcaf0;">1</mark><mark id="47" style="background-color: #0dcaf0;">billion</mark>
 </div>
 </div>
+</div>
+<div class="two-boxes" style="margin-top: -7px">
 <div class="border border-dark rounded p-2 mb-2 bg-light shadow-sm" id="left2">
-<label style="display: block; text-align: center;">NLTK</label>
+<label style="display: block; text-align: center;">NLTK NER</label>
 <div class="white_box">
 <p id="nltk-output"></p><mark id="13" style="background-color: #d63384;">Apple's</mark><mark id="14" style="background-color: #fd7e14;">Steve</mark><mark id="15" style="background-color: #0dcaf0;">is</mark><mark id="16" style="background-color: #0dcaf0;">looking</mark><mark id="17" style="background-color: #0dcaf0;">at</mark><mark id="18" style="background-color: #0dcaf0;">buying</mark><mark id="19" style="background-color: #20c997;">U.K.</mark><mark id="20" style="background-color: #0dcaf0;">startup</mark><mark id="21" style="background-color: #0dcaf0;">for</mark><mark id="22" style="background-color: #d63384;">$1</mark><mark id="23" style="background-color: #0dcaf0;">billion</mark>
 </div>
 </div>
 <div class="border border-dark rounded p-2 mb-2 bg-light shadow-sm" id="right2">
-<label style="display: block; text-align: center;">BERT</label>
+<label style="display: block; text-align: center;">BERT NER</label>
 <div class="white_box">
 <p id="bert-output"></p><mark id="24" style="background-color: #ffc107;">Apple's</mark><mark id="25" style="background-color: #fd7e14;">Steve</mark><mark id="26" style="background-color: #0dcaf0;">is</mark><mark id="27" style="background-color: #0dcaf0;">looking</mark><mark id="28" style="background-color: #0dcaf0;">at</mark><mark id="29" style="background-color: #0dcaf0;">buying</mark><mark id="30" style="background-color: #20c997;">U.K.</mark><mark id="31" style="background-color: #0dcaf0;">startup</mark><mark id="32" style="background-color: #0dcaf0;">for</mark><mark id="33" style="background-color: #0dcaf0;">$1</mark><mark id="34" style="background-color: #0dcaf0;">billion</mark>
 </div>
 </div>
 </div>
-<!--<div id="NLTK-output">NLTK</div>-->
-<!--<div id="BERT">BERT</div>-->
+</div>
 <!-- end of the container div -->
 </body>
 </html>
