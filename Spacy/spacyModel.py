@@ -1,17 +1,18 @@
 import spacy
+import re
 import os
 from spacy.scorer import Scorer
 from spacy.tokens import Doc
 from spacy.training.example import Example
 
-nlp = spacy.load('en_core_web_sm')
-
-sentence = "Apple's Steve is looking at buying U.K. startup for $1 billion"
-
-doc = nlp(sentence)
-
-for ent in doc.ents:
-    print(ent.text, ent.start_char, ent.end_char, ent.label_)
+# nlp = spacy.load('en_core_web_sm')
+#
+# sentence = "Apple's Steve is looking at buying U.K. startup for $1 billion"
+#
+# doc = nlp(sentence)
+#
+# for ent in doc.ents:
+#     print(ent.text, ent.start_char, ent.end_char, ent.label_)
 #
 # for token in doc:
 #     print(token.text, token.lemma_, token.tag_)
@@ -36,17 +37,39 @@ for ent in doc.ents:
 #test with dev and test files
 #python3 -m spacy train data/config.cfg --output ./models/output2
 
-#function newSpacy(sentence){
-trained_nlp = spacy.load('Spacy/models/output/model-best')
+# sentence = "Apple's Steve is looking at buying U.K. startup for $1 billion"
 
-sentence = "Apple's Steve is looking at buying U.K. startup for $1 billion"
+def newSpacy(sentence):
+    trained_nlp = spacy.load('../Spacy/models/output/model-best')
 
-doc = trained_nlp(sentence)
+#     sentence = "Apple's Steve is looking at buying U.K. startup for $1 billion"
 
-for ent in doc.ents:
-    print(ent.text, ent.start_char, ent.end_char, ent.label_)
+    doc = trained_nlp(sentence)
 
-# for token in doc:
-#     print(token.text, token.lemma_, token.tag_)
+#     data = []
+#     for ent in doc.ents:
+#         data.append((ent.text, ent.label_))
+#         print(ent.text, ent.start_char, ent.end_char, ent.label_)
 
-#}
+#     res = re.findall(r"[\w]+|[a-zA-Z']+|[-$a-zA-Z]+", sentence)
+#     for i in res:
+#         if [item for item in data if i in item]:
+#             print(i)
+#         else:
+#             print("no "+str(i))
+
+    wordList = []
+    data = []
+    i = 0
+    for word in trained_nlp(sentence):
+        wordList.append((word))
+        if(word.ent_type_ == ''):
+            data.append((str(wordList[i]), word.ent_iob_))
+        else:
+            data.append((str(wordList[i]), word.ent_type_))
+        i += 1
+        #print(word, word.ent_iob_, word.ent_type_, sep=" ")
+    # print(data)
+    return data
+
+# newSpacy(sentence)
