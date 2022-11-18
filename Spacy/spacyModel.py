@@ -37,27 +37,39 @@ from spacy.training.example import Example
 #test with dev and test files
 #python3 -m spacy train data/config.cfg --output ./models/output2
 
-def newSpacy(sentence):
-    trained_nlp = spacy.load('../Spacy/models/output/model-best')
+sentence = "Apple's Steve is looking at buying U.K. startup for $1 billion"
 
-    # sentence = "Apple's Steve is looking at buying U.K. startup for $1 billion"
+def newSpacy(sentence):
+    trained_nlp = spacy.load('./Spacy/models/output/model-best')
+
+#     sentence = "Apple's Steve is looking at buying U.K. startup for $1 billion"
 
     doc = trained_nlp(sentence)
 
+#     data = []
+#     for ent in doc.ents:
+#         data.append((ent.text, ent.label_))
+#         print(ent.text, ent.start_char, ent.end_char, ent.label_)
+
+#     res = re.findall(r"[\w]+|[',-]", sentence)
+#     for i in res:
+#         if [item for item in data if i in item]:
+#             print(i)
+#         else:
+#             print("no "+str(i))
+
+    wordList = []
     data = []
-    for ent in doc.ents:
-        data.append((ent.text, ent.label_))
-        print(ent.text, ent.start_char, ent.end_char, ent.label_)
-
-    res = re.findall(r"[\w]+|[',-]", sentence)
-    for i in res:
-        if [item for item in data if i in item]:
-            print(i)
+    i = 0
+    for word in trained_nlp(sentence):
+        wordList.append((word))
+        if(word.ent_type_ == ''):
+            data.append((wordList[i], word.ent_iob_))
         else:
-            print("no "+str(i))
-
-
+            data.append((wordList[i], word.ent_type_))
+        i += 1
+        #print(word, word.ent_iob_, word.ent_type_, sep=" ")
+    print(data)
     return data
-    # for token in doc:
-    #     print(token.text, token.lemma_, token.tag_)
 
+newSpacy(sentence)
