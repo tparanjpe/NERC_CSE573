@@ -1,0 +1,9 @@
+Spacy Model Results:
+
+ConLL-2003 TestA Data:
+Precision | Recall  | F1-Score
+0.8878      0.8719    0.8798
+
+ConLL-2003 TestB Data:
+Precision | Recall  | F1-Score
+0.8181      0.8181    0.8106
