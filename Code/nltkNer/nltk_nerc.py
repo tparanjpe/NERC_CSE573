@@ -12,7 +12,7 @@ import argparse
 
 
 def trainModel():
-    train_df = pd.read_csv('..\\conll2003\\engtrain.csv')
+    train_df = pd.read_csv('..\\..\\Data\\conll2003\\engtrain.csv')
     tagged_sentences = []
     res = []
     for index, row in train_df.iterrows():
@@ -32,7 +32,7 @@ def trainModel():
     return ner_tagger
 
 def testWithConll(ner_tagger):
-    test_df = pd.read_csv('conll2003\\engtestb.csv')
+    test_df = pd.read_csv('..\\..\\Data\\conll2003\\engtestb.csv')
 
     X_input = []
     expected_tags = []

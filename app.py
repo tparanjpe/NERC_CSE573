@@ -29,21 +29,21 @@ index = 0
 
 @app.route("/models", methods=['POST'])
 def stanford_data():
-    os.chdir('stanfordNer')
+    os.chdir('Code/stanfordNer')
     sentence = request.get_json()
 
     print(sentence)
     val = stanford.stanfordData(sentence)
 
-    os.chdir("../nltkNer")
+    os.chdir("../Code/nltkNer")
     nltk_val = nltk_nerc.get_nltkResult(sentence)
     print(nltk_val)
 
-    os.chdir("../bert")
+    os.chdir("../Code/bert")
     bert_val = run.bert_data(sentence)
     print(bert_val)
 
-    os.chdir("../Spacy")
+    os.chdir("../Code/Spacy")
     spacy_val = spacyModel.newSpacy(sentence)
     print(spacy_val)
 
