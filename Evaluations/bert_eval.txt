@@ -1,0 +1,13 @@
+BERT eval results
+
+Scores from training:
+
+| Precision |  Recall  | F1 Score
+|   0.914   |  0.933   |  0.923 
+
+
+Scores from evaluating on Huggingface (using the built-in model evaluator):
+Link to evaluator: https://huggingface.co/spaces/autoevaluate/model-evaluator
+
+| Precision |  Recall  | F1 Score
+|   0.927   |  0.915   |  0.921 
