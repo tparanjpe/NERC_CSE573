@@ -1,0 +1,9 @@
+NLTK HMM Model Results:
+
+ConLL-2003 TestA Data:
+Precision | Recall  | F1-Score
+0.6874      0.5591    0.6167
+
+ConLL-2003 TestB Data:
+Precision | Recall  | F1-Score
+0.577       0.4188    0.4853
