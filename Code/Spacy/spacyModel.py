@@ -40,7 +40,7 @@ from spacy.training.example import Example
 # sentence = "Apple's Steve is looking at buying U.K. startup for $1 billion"
 
 def newSpacy(sentence):
-    trained_nlp = spacy.load('../Code/Spacy/models/output/model-best')
+    trained_nlp = spacy.load('../Spacy/models/output/model-best')
 
 #     sentence = "Apple's Steve is looking at buying U.K. startup for $1 billion"
 

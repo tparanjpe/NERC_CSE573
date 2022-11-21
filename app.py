@@ -1,12 +1,14 @@
 import json
 import bs4
+# import sys
 
 from flask import *
 import os
-from stanfordNer import stanford
-from nltkNer import nltk_nerc
-from bert import run
-from Spacy import spacyModel
+
+from Code.stanfordNer import stanford
+from Code.nltkNer import nltk_nerc
+from Code.bert import run
+from Code.Spacy import spacyModel
 
 app = Flask(__name__)
 # from models import trainModels, getSinglePredictions, getMultiPredictions
@@ -29,25 +31,26 @@ index = 0
 
 @app.route("/models", methods=['POST'])
 def stanford_data():
+    print(os.getcwd())
     os.chdir('Code/stanfordNer')
     sentence = request.get_json()
 
     print(sentence)
     val = stanford.stanfordData(sentence)
 
-    os.chdir("../Code/nltkNer")
+    os.chdir("../nltkNer")
     nltk_val = nltk_nerc.get_nltkResult(sentence)
     print(nltk_val)
 
-    os.chdir("../Code/bert")
+    os.chdir("../bert")
     bert_val = run.bert_data(sentence)
     print(bert_val)
 
-    os.chdir("../Code/Spacy")
+    os.chdir("../Spacy")
     spacy_val = spacyModel.newSpacy(sentence)
     print(spacy_val)
 
-    os.chdir('../templates')
+    os.chdir('../../templates')
     # load the file
     global soup
     with open("index.html") as inf:
@@ -71,7 +74,7 @@ def stanford_data():
     with open("index.html", "w") as outf:
         outf.write(str(soup))
 
-
+    os.chdir('..')
     return jsonify({"stanfordData": val})#, {"nltkData": nltk_val})
 
 
